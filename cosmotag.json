@@ -201,7 +201,7 @@
     "associations": ["printemps", "abeille", "jaune", "vol"],
     "metaphores": ["or léger", "neige dorée"],
     "categorie": "nature",
-    "emoji": "��"
+    "emoji": "🌼"
   },
   "corail": {
     "associations": ["récif", "écume", "rouge", "poisson"],
@@ -231,7 +231,7 @@
     "associations": ["jaillissement", "terre", "vapeur", "surprise"],
     "metaphores": ["cœur bouillant", "flèche blanche"],
     "categorie": "nature",
-    "emoji": "��"
+    "emoji": "♨️"
   },
   "falaise": {
     "associations": ["sel", "choc", "goéland", "vent"],
@@ -496,5 +496,161 @@
     "metaphores": ["rideau doux", "rose fermée"],
     "categorie": "émotion",
     "emoji": "🌸"
+  },
+  "miroir": {
+    "associations": ["reflet", "identité", "dédoublement", "question"],
+    "metaphores": ["porte d’argent", "œil froid"],
+    "categorie": "motif",
+    "emoji": "🪞"
+  },
+  "porte": {
+    "associations": ["seuil", "passage", "choix", "mystère"],
+    "metaphores": ["bouche close", "ligne de monde"],
+    "categorie": "lieu",
+    "emoji": "🚪"
+  },
+  "escalier": {
+    "associations": ["montée", "descente", "transition", "spirale"],
+    "metaphores": ["colonne vertébrale", "ruban de pierre"],
+    "categorie": "lieu",
+    "emoji": "🪜"
+  },
+  "ascenseur": {
+    "associations": ["montée", "descente", "blocage", "chute"],
+    "metaphores": ["boîte verticale", "poumon du bâtiment"],
+    "categorie": "urbain",
+    "emoji": "🛗"
+  },
+  "couloir": {
+    "associations": ["étroit", "marche", "répétition", "attente"],
+    "metaphores": ["gorge de maison", "flèche d’ombre"],
+    "categorie": "lieu",
+    "emoji": "🚪"
+  },
+  "labyrinthe": {
+    "associations": ["perte", "choix", "mur", "centre"],
+    "metaphores": ["entrailles de pierre", "grille d’oubli"],
+    "categorie": "motif",
+    "emoji": "🌀"
+  },
+  "vol": {
+    "associations": ["léger", "ciel", "liberté", "vertige"],
+    "metaphores": ["cœur sans poids", "jambe d’air"],
+    "categorie": "motif",
+    "emoji": "🕊️"
+  },
+  "chute": {
+    "associations": ["vide", "peur", "appel", "éveil"],
+    "metaphores": ["corde rompue", "plume lourde"],
+    "categorie": "motif",
+    "emoji": "🕳️"
+  },
+  "dents": {
+    "associations": ["bouche", "parole", "honte", "perte"],
+    "metaphores": ["gravier blanc", "clavier cassé"],
+    "categorie": "motif",
+    "emoji": "🦷"
+  },
+  "nu": {
+    "associations": ["peau", "exposition", "honte", "fragilité"],
+    "metaphores": ["page ouverte", "fruit sans peau"],
+    "categorie": "motif",
+    "emoji": "🧍"
+  },
+  "examen": {
+    "associations": ["école", "retard", "papier", "panique"],
+    "metaphores": ["tribunal de craie", "horloge qui mord"],
+    "categorie": "motif",
+    "emoji": "📝"
+  },
+  "maison": {
+    "associations": ["pièce", "toit", "seuil", "famille"],
+    "metaphores": ["corps habité", "coquille tiède"],
+    "categorie": "lieu",
+    "emoji": "🏠"
+  },
+  "chambre": {
+    "associations": ["lit", "rêve", "fenêtre", "lampe"],
+    "metaphores": ["grotte claire", "boîte tiède"],
+    "categorie": "lieu",
+    "emoji": "🛏️"
+  },
+  "cave": {
+    "associations": ["ombre", "odeur", "secret", "eau"],
+    "metaphores": ["ventre froid", "grenier inversé"],
+    "categorie": "lieu",
+    "emoji": "🕳️"
+  },
+  "grenier": {
+    "associations": ["poussière", "malle", "jouet", "été"],
+    "metaphores": ["nuage de bois", "mémoire haute"],
+    "categorie": "lieu",
+    "emoji": "🧰"
+  },
+  "école": {
+    "associations": ["classe", "craie", "retard", "examen"],
+    "metaphores": ["ruche de voix", "boîte de craie"],
+    "categorie": "lieu",
+    "emoji": "🏫"
+  },
+  "ville": {
+    "associations": ["rue", "immeuble", "foule", "néon"],
+    "metaphores": ["forêt droite", "grille de lumière"],
+    "categorie": "urbain",
+    "emoji": "🏙️"
+  },
+  "rue": {
+    "associations": ["pas", "vitre", "virage", "pluie"],
+    "metaphores": ["couloir du dehors", "ruban mouillé"],
+    "categorie": "urbain",
+    "emoji": "🛣️"
+  },
+  "train": {
+    "associations": ["rails", "gare", "retard", "départ"],
+    "metaphores": ["serpent de fer", "maison qui file"],
+    "categorie": "transport",
+    "emoji": "🚆"
+  },
+  "gare": {
+    "associations": ["horaire", "hall", "attente", "valise"],
+    "metaphores": ["bouche de ville", "ruche d’acier"],
+    "categorie": "urbain",
+    "emoji": "🚉"
+  },
+  "avion": {
+    "associations": ["aile", "nuage", "décollage", "peur"],
+    "metaphores": ["oiseau de tôle", "chambre du ciel"],
+    "categorie": "transport",
+    "emoji": "✈️"
+  },
+  "perdre ses dents": {
+    "associations": ["honte", "parole", "fragilité", "perte"],
+    "metaphores": ["neige de bouche", "clavier vide"],
+    "categorie": "expression",
+    "emoji": "🦷"
+  },
+  "être nu en public": {
+    "associations": ["honte", "regard", "exposition", "fuite"],
+    "metaphores": ["peau de verre", "rideau arraché"],
+    "categorie": "expression",
+    "emoji": "🧍"
+  },
+  "tomber sans fin": {
+    "associations": ["chute", "vertige", "éveil", "appel"],
+    "metaphores": ["puits sans fond", "corde coupée"],
+    "categorie": "expression",
+    "emoji": "🕳️"
+  },
+  "arriver en retard à l’examen": {
+    "associations": ["angoisse", "porte", "horloge", "école"],
+    "metaphores": ["sablier de fer", "porte qui fuit"],
+    "categorie": "expression",
+    "emoji": "⏰"
+  },
+  "voler au-dessus de la ville": {
+    "associations": ["liberté", "lumière", "survol", "ivresse"],
+    "metaphores": ["mer d’étoiles électriques", "corps plume"],
+    "categorie": "expression",
+    "emoji": "🕊️"
   }
 }
