@@ -1,0 +1,500 @@
+{
+  "nuit": {
+    "associations": ["étoile", "silence", "lune", "rêve"],
+    "metaphores": ["manteau d’ombre", "toile constellée"],
+    "categorie": "temps",
+    "emoji": "🌙"
+  },
+  "étoile": {
+    "associations": ["ciel", "brillance", "nuit", "destin"],
+    "metaphores": ["braise lointaine", "aiguilles de ciel"],
+    "categorie": "cosmos",
+    "emoji": "⭐"
+  },
+  "lune": {
+    "associations": ["marée", "nocturne", "miroir", "chemin blanc"],
+    "metaphores": ["coupe de lait", "visage dormant"],
+    "categorie": "cosmos",
+    "emoji": "🌙"
+  },
+  "galaxie": {
+    "associations": ["spirale", "étoiles", "poussière", "infini"],
+    "metaphores": ["miel cosmique", "fleur d’espace"],
+    "categorie": "cosmos",
+    "emoji": "🌌"
+  },
+  "comète": {
+    "associations": ["queue", "feu", "voyage", "vœu"],
+    "metaphores": ["cheveu d’azur", "flèche de nuit"],
+    "categorie": "cosmos",
+    "emoji": "☄️"
+  },
+  "astre": {
+    "associations": ["lumière", "orbite", "cycle", "zénith"],
+    "metaphores": ["foyer muet", "coeur incandescent"],
+    "categorie": "cosmos",
+    "emoji": "🪐"
+  },
+  "nébuleuse": {
+    "associations": ["voile", "naissance", "poussière", "étoiles"],
+    "metaphores": ["berceau diffus", "étoffe lactée"],
+    "categorie": "cosmos",
+    "emoji": "🌫️"
+  },
+  "orbite": {
+    "associations": ["ellipse", "danse", "gravité", "fidélité"],
+    "metaphores": ["anneau docile", "trajectoire d’attente"],
+    "categorie": "cosmos",
+    "emoji": "🛰️"
+  },
+  "éclipse": {
+    "associations": ["ombre", "silence", "regard", "cercle"],
+    "metaphores": ["baiser noir", "paupière du ciel"],
+    "categorie": "cosmos",
+    "emoji": "🌑"
+  },
+  "météore": {
+    "associations": ["chute", "braise", "voeu", "trace"],
+    "metaphores": ["semence de feu", "signe fugace"],
+    "categorie": "cosmos",
+    "emoji": "🌠"
+  },
+  "constellation": {
+    "associations": ["carte", "figures", "mythe", "guidage"],
+    "metaphores": ["pointillé sacré", "broderie glacée"],
+    "categorie": "cosmos",
+    "emoji": "✨"
+  },
+  "zénith": {
+    "associations": ["midi", "apogée", "feu", "regard"],
+    "metaphores": ["clou solaire", "pointe brûlante"],
+    "categorie": "temps",
+    "emoji": "☀️"
+  },
+  "nadir": {
+    "associations": ["bas", "profondeur", "mystère", "revers"],
+    "metaphores": ["puits d’envers", "talon du ciel"],
+    "categorie": "cosmos",
+    "emoji": "🕳️"
+  },
+  "aurore": {
+    "associations": ["rose", "premier chant", "brume", "souffle"],
+    "metaphores": ["cicatrice lumineuse", "lèvre du jour"],
+    "categorie": "temps",
+    "emoji": "🌅"
+  },
+  "crépuscule": {
+    "associations": ["or", "violet", "oiseaux", "transition"],
+    "metaphores": ["ourlet de braise", "verre d’ambre"],
+    "categorie": "temps",
+    "emoji": "🌇"
+  },
+  "ciel": {
+    "associations": ["largeur", "nuages", "regard", "présage"],
+    "metaphores": ["page mouvante", "dôme sans bord"],
+    "categorie": "cosmos",
+    "emoji": "🌤️"
+  },
+  "forêt": {
+    "associations": ["mousse", "ombre", "chant", "bête"],
+    "metaphores": ["cathédrale verte", "livre des feuilles"],
+    "categorie": "nature",
+    "emoji": "🌲"
+  },
+  "brume": {
+    "associations": ["voile", "humide", "égarement", "bocage"],
+    "metaphores": ["lait d’oubli", "respiration pâle"],
+    "categorie": "nature",
+    "emoji": "🌫️"
+  },
+  "rosée": {
+    "associations": ["matin", "perle", "herbe", "éveil"],
+    "metaphores": ["bijou fragile", "soupir d’herbe"],
+    "categorie": "nature",
+    "emoji": "💧"
+  },
+  "rivière": {
+    "associations": ["source", "courbe", "galets", "murmure"],
+    "metaphores": ["ruban mobile", "veine fluide"],
+    "categorie": "nature",
+    "emoji": "🌊"
+  },
+  "océan": {
+    "associations": ["sel", "houle", "horizon", "abysses"],
+    "metaphores": ["poumon bleu", "tapis mouvant"],
+    "categorie": "nature",
+    "emoji": "🌊"
+  },
+  "vent": {
+    "associations": ["sifflement", "poussière", "ailes", "errance"],
+    "metaphores": ["main invisible", "bouche des plaines"],
+    "categorie": "nature",
+    "emoji": "🌬️"
+  },
+  "orage": {
+    "associations": ["foudre", "fracas", "ozone", "clair"],
+    "metaphores": ["tambour du ciel", "gueule électrique"],
+    "categorie": "nature",
+    "emoji": "⛈️"
+  },
+  "pluie": {
+    "associations": ["gouttes", "odeur", "terre", "miroirs"],
+    "metaphores": ["peigne d’argent", "rideau liquide"],
+    "categorie": "nature",
+    "emoji": "🌧️"
+  },
+  "nuage": {
+    "associations": ["forme", "lenteur", "jour", "cotonnade"],
+    "metaphores": ["bétail du ciel", "papier froissé"],
+    "categorie": "nature",
+    "emoji": "☁️"
+  },
+  "montagne": {
+    "associations": ["pierre", "neige", "goélette de pierre", "aigle"],
+    "metaphores": ["dos du monde", "digue du ciel"],
+    "categorie": "nature",
+    "emoji": "🏔️"
+  },
+  "vallée": {
+    "associations": ["herbe", "rivière", "brouillard", "écho"],
+    "metaphores": ["coupe d’ombre", "bras de terre"],
+    "categorie": "nature",
+    "emoji": "🏞️"
+  },
+  "sable": {
+    "associations": ["dune", "empreinte", "soif", "souffle"],
+    "metaphores": ["temps pulvérisé", "blé brûlé"],
+    "categorie": "matière",
+    "emoji": "🏖️"
+  },
+  "dune": {
+    "associations": ["désert", "vague", "vent", "mirage"],
+    "metaphores": ["baleine dorée", "vague immobile"],
+    "categorie": "nature",
+    "emoji": "🏜️"
+  },
+  "mousse": {
+    "associations": ["pierre", "ombre", "ruisseau", "feuillage"],
+    "metaphores": ["velours humide", "peau de pierre"],
+    "categorie": "nature",
+    "emoji": "🌿"
+  },
+  "lichen": {
+    "associations": ["écorce", "froid", "accroche", "austère"],
+    "metaphores": ["écriture lente", "étoffe grise"],
+    "categorie": "nature",
+    "emoji": "🪨"
+  },
+  "feuillage": {
+    "associations": ["lumière", "chuchotis", "abri", "sève"],
+    "metaphores": ["vitrail léger", "pluie verte"],
+    "categorie": "nature",
+    "emoji": "🍃"
+  },
+  "écorce": {
+    "associations": ["bois", "rugosité", "sève", "temps"],
+    "metaphores": ["peau du tronc", "armure striée"],
+    "categorie": "matière",
+    "emoji": "🪵"
+  },
+  "pollen": {
+    "associations": ["printemps", "abeille", "jaune", "vol"],
+    "metaphores": ["or léger", "neige dorée"],
+    "categorie": "nature",
+    "emoji": "��"
+  },
+  "corail": {
+    "associations": ["récif", "écume", "rouge", "poisson"],
+    "metaphores": ["forêt marine", "os de mer"],
+    "categorie": "nature",
+    "emoji": "🪸"
+  },
+  "lagon": {
+    "associations": ["turquoise", "anneau", "corail", "éclaircie"],
+    "metaphores": ["oeil d’eau", "cuvette céleste"],
+    "categorie": "nature",
+    "emoji": "🏝️"
+  },
+  "cascade": {
+    "associations": ["écume", "chute", "arc", "roche"],
+    "metaphores": ["cheveux d’eau", "rideau vif"],
+    "categorie": "nature",
+    "emoji": "💦"
+  },
+  "source": {
+    "associations": ["naissance", "clair", "soif", "pierre"],
+    "metaphores": ["bouche fraîche", "première note"],
+    "categorie": "nature",
+    "emoji": "⛲"
+  },
+  "geyser": {
+    "associations": ["jaillissement", "terre", "vapeur", "surprise"],
+    "metaphores": ["cœur bouillant", "flèche blanche"],
+    "categorie": "nature",
+    "emoji": "��"
+  },
+  "falaise": {
+    "associations": ["sel", "choc", "goéland", "vent"],
+    "metaphores": ["mur d’écume", "livre cassé"],
+    "categorie": "nature",
+    "emoji": "🪨"
+  },
+  "horizon": {
+    "associations": ["ligne", "promesse", "fuite", "azur"],
+    "metaphores": ["couture du monde", "fil tendu"],
+    "categorie": "cosmos",
+    "emoji": "🌅"
+  },
+  "prairie": {
+    "associations": ["herbe", "fleurs", "abeille", "ciel"],
+    "metaphores": ["mer verte", "drap heureux"],
+    "categorie": "nature",
+    "emoji": "🌾"
+  },
+  "clairière": {
+    "associations": ["ouverture", "chant", "soleil", "repos"],
+    "metaphores": ["fenêtre verte", "bouche de bois"],
+    "categorie": "nature",
+    "emoji": "🌿"
+  },
+  "lande": {
+    "associations": ["bruyère", "vent", "solitude", "chemin"],
+    "metaphores": ["tapis pourpre", "plainte violette"],
+    "categorie": "nature",
+    "emoji": "🌾"
+  },
+  "marais": {
+    "associations": ["jonc", "boue", "miroir", "grue"],
+    "metaphores": ["poumon sombre", "oeil stagnant"],
+    "categorie": "nature",
+    "emoji": "🌿"
+  },
+  "tourbe": {
+    "associations": ["terre", "mousse", "ancien", "fumée"],
+    "metaphores": ["mémoire brune", "sucre noir"],
+    "categorie": "matière",
+    "emoji": "🪵"
+  },
+  "aube": {
+    "associations": ["rosée", "oiseaux", "liseré", "retour"],
+    "metaphores": ["couteau clair", "souffle rose"],
+    "categorie": "temps",
+    "emoji": "🌄"
+  },
+  "saison": {
+    "associations": ["cycle", "récolte", "élan", "repos"],
+    "metaphores": ["roue secrète", "robe changeante"],
+    "categorie": "temps",
+    "emoji": "🗓️"
+  },
+  "instant": {
+    "associations": ["étincelle", "choix", "souffle", "angle"],
+    "metaphores": ["grain de temps", "perle brève"],
+    "categorie": "temps",
+    "emoji": "⏱️"
+  },
+  "éternité": {
+    "associations": ["silence", "cercle", "langueur", "infini"],
+    "metaphores": ["plaine blanche", "mer immobile"],
+    "categorie": "temps",
+    "emoji": "♾️"
+  },
+  "mémoire": {
+    "associations": ["album", "odeur", "retour", "chambre"],
+    "metaphores": ["armoire secrète", "lampe douce"],
+    "categorie": "temps",
+    "emoji": "🧠"
+  },
+  "souvenir": {
+    "associations": ["photo", "bruit", "chaleur", "lueur"],
+    "metaphores": ["fruite de nuit", "bouton de brume"],
+    "categorie": "temps",
+    "emoji": "🖼️"
+  },
+  "futur": {
+    "associations": ["ligne", "attente", "ébauche", "voyage"],
+    "metaphores": ["levier d’ombre", "graine scellée"],
+    "categorie": "temps",
+    "emoji": "🔮"
+  },
+  "passé": {
+    "associations": ["poussière", "échos", "voix", "patine"],
+    "metaphores": ["vin profond", "livre jauni"],
+    "categorie": "temps",
+    "emoji": "📜"
+  },
+  "présent": {
+    "associations": ["tranchant", "clarté", "main", "souffle"],
+    "metaphores": ["lame douce", "table vive"],
+    "categorie": "temps",
+    "emoji": "🎁"
+  },
+  "minute": {
+    "associations": ["aiguille", "tour", "fil", "attente"],
+    "metaphores": ["grain d’horloge", "fleur fugace"],
+    "categorie": "temps",
+    "emoji": "⏳"
+  },
+  "seconde": {
+    "associations": ["tic", "saut", "lueur", "pointe"],
+    "metaphores": ["étincelle claire", "grain d’éclair"],
+    "categorie": "temps",
+    "emoji": "⏱️"
+  },
+  "heure": {
+    "associations": ["sablier", "son", "ombre", "cadence"],
+    "metaphores": ["coffret d’or", "cloche discrète"],
+    "categorie": "temps",
+    "emoji": "🕰️"
+  },
+  "solstice": {
+    "associations": ["pivot", "longueur", "chant", "feu"],
+    "metaphores": ["charnière claire", "cime du temps"],
+    "categorie": "temps",
+    "emoji": "🌞"
+  },
+  "équinoxe": {
+    "associations": ["partage", "balance", "feuille", "axe"],
+    "metaphores": ["balance du ciel", "noeud de lumière"],
+    "categorie": "temps",
+    "emoji": "⚖️"
+  },
+  "époque": {
+    "associations": ["peau", "roman", "coutume", "trace"],
+    "metaphores": ["veste du monde", "voix enterrée"],
+    "categorie": "temps",
+    "emoji": "📅"
+  },
+  "ère": {
+    "associations": ["lenteur", "pierre", "mutation", "marée"],
+    "metaphores": ["glissement colossal", "sommeil géant"],
+    "categorie": "temps",
+    "emoji": "🏺"
+  },
+  "joie": {
+    "associations": ["rire", "danse", "soleil", "éclaircie"],
+    "metaphores": ["feu de blé", "source ouverte"],
+    "categorie": "émotion",
+    "emoji": "😊"
+  },
+  "tristesse": {
+    "associations": ["pluie", "fenêtre", "nuit", "écho"],
+    "metaphores": ["verre bleu", "poids d’eau"],
+    "categorie": "émotion",
+    "emoji": "😢"
+  },
+  "colère": {
+    "associations": ["flamme", "marteau", "orage", "fissure"],
+    "metaphores": ["bête rouge", "morsure d’air"],
+    "categorie": "émotion",
+    "emoji": "😡"
+  },
+  "peur": {
+    "associations": ["ombre", "pas", "tremble", "fuite"],
+    "metaphores": ["loup intérieur", "givre au cœur"],
+    "categorie": "émotion",
+    "emoji": "😱"
+  },
+  "sérénité": {
+    "associations": ["lac", "bleu", "paume", "respir"],
+    "metaphores": ["nappe claire", "pierre tiède"],
+    "categorie": "émotion",
+    "emoji": "😌"
+  },
+  "mélancolie": {
+    "associations": ["violet", "corde", "pluie", "souvenir"],
+    "metaphores": ["rose grise", "vin nocturne"],
+    "categorie": "émotion",
+    "emoji": "💙"
+  },
+  "nostalgie": {
+    "associations": ["retour", "photo", "odeur", "fable"],
+    "metaphores": ["fil d’ambre", "brise ancienne"],
+    "categorie": "émotion",
+    "emoji": "🕯️"
+  },
+  "désir": {
+    "associations": ["soif", "peau", "feu", "distance"],
+    "metaphores": ["arc tendu", "langue de braise"],
+    "categorie": "émotion",
+    "emoji": "🔥"
+  },
+  "amour": {
+    "associations": ["paume", "regard", "rose", "promesse"],
+    "metaphores": ["miel secret", "astrolabe d’âme"],
+    "categorie": "émotion",
+    "emoji": "❤️"
+  },
+  "tendresse": {
+    "associations": ["soie", "mains", "joue", "chuchotement"],
+    "metaphores": ["plume tiède", "mousse claire"],
+    "categorie": "émotion",
+    "emoji": "🤍"
+  },
+  "extase": {
+    "associations": ["lumière", "suspension", "feu", "chant"],
+    "metaphores": ["ciel avalé", "coup d’abeille"],
+    "categorie": "émotion",
+    "emoji": "💫"
+  },
+  "vertige": {
+    "associations": ["hauteur", "bascule", "appel", "vide"],
+    "metaphores": ["roue blanche", "sirène muette"],
+    "categorie": "émotion",
+    "emoji": "🌀"
+  },
+  "étonnement": {
+    "associations": ["bouche", "étincelle", "œil", "matin"],
+    "metaphores": ["porte qui s’ouvre", "fruit soudain"],
+    "categorie": "émotion",
+    "emoji": "😮"
+  },
+  "espoir": {
+    "associations": ["germe", "lueur", "chant", "passerelle"],
+    "metaphores": ["semence claire", "lampe lointaine"],
+    "categorie": "émotion",
+    "emoji": "🌟"
+  },
+  "angoisse": {
+    "associations": ["noeud", "nuit", "souffle", "brouillard"],
+    "metaphores": ["poing noir", "serre d’ombre"],
+    "categorie": "émotion",
+    "emoji": "🌑"
+  },
+  "apaisement": {
+    "associations": ["eau", "paume", "lent", "bleu"],
+    "metaphores": ["nappe posée", "main sur front"],
+    "categorie": "émotion",
+    "emoji": "🫧"
+  },
+  "ferveur": {
+    "associations": ["prière", "flamme", "regard", "élan"],
+    "metaphores": ["feu discret", "rose brûlante"],
+    "categorie": "émotion",
+    "emoji": "🕯️"
+  },
+  "gratitude": {
+    "associations": ["offrande", "pain", "paix", "sourire"],
+    "metaphores": ["grappe d’or", "eau qui brille"],
+    "categorie": "émotion",
+    "emoji": "🙏"
+  },
+  "jalousie": {
+    "associations": ["ombre", "regard", "barreaux", "amertume"],
+    "metaphores": ["vin vert", "serpent de verre"],
+    "categorie": "émotion",
+    "emoji": "🟢"
+  },
+  "confiance": {
+    "associations": ["pont", "main", "rivage", "souffle"],
+    "metaphores": ["pierre claire", "corde tenue"],
+    "categorie": "émotion",
+    "emoji": "🤝"
+  },
+  "pudeur": {
+    "associations": ["voile", "battement", "plume", "chemin"],
+    "metaphores": ["rideau doux", "rose fermée"],
+    "categorie": "émotion",
+    "emoji": "🌸"
+  }
+}
