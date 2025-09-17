@@ -641,6 +641,7 @@
     "categorie": "expression",
     "emoji": "🕳️"
   },
+  
   "arriver en retard à l’examen": {
     "associations": ["angoisse", "porte", "horloge", "école"],
     "metaphores": ["sablier de fer", "porte qui fuit"],
@@ -653,4 +654,7008 @@
     "categorie": "expression",
     "emoji": "🕊️"
   }
+},
+{
+  "abysses_0": {
+    "associations": [
+      "chuchotis",
+      "ombre",
+      "écho",
+      "souffle"
+    ],
+    "metaphores": [
+      "murmure de abysses_0",
+      "parfum d’abysses_0"
+    ],
+    "categorie": "cosmos",
+    "emoji": "🌑"
+  },
+  "arcane_1": {
+    "associations": [
+      "chuchotis",
+      "flamme",
+      "souffle",
+      "vibration"
+    ],
+    "metaphores": [
+      "parfum d’arcane_1",
+      "chemin de arcane_1"
+    ],
+    "categorie": "motif",
+    "emoji": "🔮"
+  },
+  "aurochs_2": {
+    "associations": [
+      "clair",
+      "lueur",
+      "vibration",
+      "flamme"
+    ],
+    "metaphores": [
+      "murmure de aurochs_2",
+      "chemin de aurochs_2"
+    ],
+    "categorie": "lieu",
+    "emoji": "🏠"
+  },
+  "basilic_3": {
+    "associations": [
+      "clair",
+      "écho",
+      "lueur",
+      "ombre"
+    ],
+    "metaphores": [
+      "murmure de basilic_3",
+      "éclat d’basilic_3"
+    ],
+    "categorie": "émotion",
+    "emoji": "🌟"
+  },
+  "béryl_4": {
+    "associations": [
+      "vibration",
+      "ombre",
+      "clair",
+      "souffle"
+    ],
+    "metaphores": [
+      "murmure de béryl_4",
+      "parfum d’béryl_4"
+    ],
+    "categorie": "urbain",
+    "emoji": "🏗️"
+  },
+  "boréal_5": {
+    "associations": [
+      "chuchotis",
+      "flux",
+      "vibration",
+      "ombre"
+    ],
+    "metaphores": [
+      "parfum d’boréal_5",
+      "éclat d’boréal_5"
+    ],
+    "categorie": "temps",
+    "emoji": "⏳"
+  },
+  "calice_6": {
+    "associations": [
+      "chuchotis",
+      "flux",
+      "flamme",
+      "clair"
+    ],
+    "metaphores": [
+      "chemin de calice_6",
+      "éclat d’calice_6"
+    ],
+    "categorie": "expression",
+    "emoji": "💭"
+  },
+  "chrysalide_7": {
+    "associations": [
+      "vibration",
+      "flamme",
+      "souffle",
+      "lueur"
+    ],
+    "metaphores": [
+      "parfum d’chrysalide_7",
+      "miroir de chrysalide_7"
+    ],
+    "categorie": "expression",
+    "emoji": "🎨"
+  },
+  "cyclone_8": {
+    "associations": [
+      "lueur",
+      "ombre",
+      "vibration",
+      "écho"
+    ],
+    "metaphores": [
+      "cœur de cyclone_8",
+      "éclat d’cyclone_8"
+    ],
+    "categorie": "motif",
+    "emoji": "🪞"
+  },
+  "éphémère_9": {
+    "associations": [
+      "lueur",
+      "ombre",
+      "flux",
+      "flamme"
+    ],
+    "metaphores": [
+      "miroir de éphémère_9",
+      "cœur de éphémère_9"
+    ],
+    "categorie": "lieu",
+    "emoji": "🛤️"
+  },
+  "flamboiement_10": {
+    "associations": [
+      "flux",
+      "écho",
+      "vibration",
+      "chuchotis"
+    ],
+    "metaphores": [
+      "murmure de flamboiement_10",
+      "éclat d’flamboiement_10"
+    ],
+    "categorie": "cosmos",
+    "emoji": "✨"
+  },
+  "glycine_11": {
+    "associations": [
+      "vibration",
+      "souffle",
+      "ombre",
+      "lueur"
+    ],
+    "metaphores": [
+      "éclat d’glycine_11",
+      "murmure de glycine_11"
+    ],
+    "categorie": "nature",
+    "emoji": "🌾"
+  },
+  "horizon intérieur_12": {
+    "associations": [
+      "ombre",
+      "flamme",
+      "écho",
+      "clair"
+    ],
+    "metaphores": [
+      "parfum d’horizon intérieur_12",
+      "miroir de horizon intérieur_12"
+    ],
+    "categorie": "matière",
+    "emoji": "💎"
+  },
+  "incandescence_13": {
+    "associations": [
+      "écho",
+      "lueur",
+      "souffle",
+      "clair"
+    ],
+    "metaphores": [
+      "murmure de incandescence_13",
+      "éclat d’incandescence_13"
+    ],
+    "categorie": "temps",
+    "emoji": "🌇"
+  },
+  "iris_14": {
+    "associations": [
+      "clair",
+      "écho",
+      "lueur",
+      "flux"
+    ],
+    "metaphores": [
+      "miroir de iris_14",
+      "éclat d’iris_14"
+    ],
+    "categorie": "nature",
+    "emoji": "🍂"
+  },
+  "jade_15": {
+    "associations": [
+      "flamme",
+      "écho",
+      "lueur",
+      "flux"
+    ],
+    "metaphores": [
+      "éclat d’jade_15",
+      "parfum d’jade_15"
+    ],
+    "categorie": "motif",
+    "emoji": "🪞"
+  },
+  "kaléidoscope_16": {
+    "associations": [
+      "lueur",
+      "flamme",
+      "clair",
+      "ombre"
+    ],
+    "metaphores": [
+      "parfum d’kaléidoscope_16",
+      "chemin de kaléidoscope_16"
+    ],
+    "categorie": "urbain",
+    "emoji": "🚦"
+  },
+  "labarum_17": {
+    "associations": [
+      "flux",
+      "chuchotis",
+      "lueur",
+      "clair"
+    ],
+    "metaphores": [
+      "parfum d’labarum_17",
+      "murmure de labarum_17"
+    ],
+    "categorie": "transport",
+    "emoji": "🚀"
+  },
+  "lanterne_18": {
+    "associations": [
+      "écho",
+      "flux",
+      "vibration",
+      "chuchotis"
+    ],
+    "metaphores": [
+      "éclat d’lanterne_18",
+      "chemin de lanterne_18"
+    ],
+    "categorie": "motif",
+    "emoji": "🪞"
+  },
+  "lotus_19": {
+    "associations": [
+      "vibration",
+      "écho",
+      "flamme",
+      "souffle"
+    ],
+    "metaphores": [
+      "chemin de lotus_19",
+      "éclat d’lotus_19"
+    ],
+    "categorie": "transport",
+    "emoji": "🚀"
+  },
+  "luciole_20": {
+    "associations": [
+      "souffle",
+      "écho",
+      "ombre",
+      "vibration"
+    ],
+    "metaphores": [
+      "chemin de luciole_20",
+      "éclat d’luciole_20"
+    ],
+    "categorie": "émotion",
+    "emoji": "😢"
+  },
+  "magma_21": {
+    "associations": [
+      "chuchotis",
+      "vibration",
+      "souffle",
+      "flamme"
+    ],
+    "metaphores": [
+      "parfum d’magma_21",
+      "éclat d’magma_21"
+    ],
+    "categorie": "expression",
+    "emoji": "🎨"
+  },
+  "mandragore_22": {
+    "associations": [
+      "clair",
+      "écho",
+      "flux",
+      "chuchotis"
+    ],
+    "metaphores": [
+      "parfum d’mandragore_22",
+      "chemin de mandragore_22"
+    ],
+    "categorie": "urbain",
+    "emoji": "🏙️"
+  },
+  "mélopée_23": {
+    "associations": [
+      "lueur",
+      "souffle",
+      "écho",
+      "clair"
+    ],
+    "metaphores": [
+      "éclat d’mélopée_23",
+      "parfum d’mélopée_23"
+    ],
+    "categorie": "émotion",
+    "emoji": "💫"
+  },
+  "miroiterie_24": {
+    "associations": [
+      "écho",
+      "ombre",
+      "chuchotis",
+      "lueur"
+    ],
+    "metaphores": [
+      "murmure de miroiterie_24",
+      "miroir de miroiterie_24"
+    ],
+    "categorie": "émotion",
+    "emoji": "🌟"
+  },
+  "nymphe_25": {
+    "associations": [
+      "lueur",
+      "flux",
+      "clair",
+      "vibration"
+    ],
+    "metaphores": [
+      "éclat d’nymphe_25",
+      "miroir de nymphe_25"
+    ],
+    "categorie": "motif",
+    "emoji": "🌀"
+  },
+  "obsidienne_26": {
+    "associations": [
+      "ombre",
+      "flux",
+      "lueur",
+      "clair"
+    ],
+    "metaphores": [
+      "murmure de obsidienne_26",
+      "éclat d’obsidienne_26"
+    ],
+    "categorie": "nature",
+    "emoji": "🍂"
+  },
+  "ocelle_27": {
+    "associations": [
+      "flux",
+      "clair",
+      "vibration",
+      "souffle"
+    ],
+    "metaphores": [
+      "miroir de ocelle_27",
+      "chemin de ocelle_27"
+    ],
+    "categorie": "transport",
+    "emoji": "🚢"
+  },
+  "ondine_28": {
+    "associations": [
+      "ombre",
+      "souffle",
+      "flux",
+      "écho"
+    ],
+    "metaphores": [
+      "éclat d’ondine_28",
+      "cœur de ondine_28"
+    ],
+    "categorie": "motif",
+    "emoji": "🎭"
+  },
+  "opale_29": {
+    "associations": [
+      "souffle",
+      "chuchotis",
+      "lueur",
+      "vibration"
+    ],
+    "metaphores": [
+      "chemin de opale_29",
+      "miroir de opale_29"
+    ],
+    "categorie": "nature",
+    "emoji": "🌾"
+  },
+  "orbe_30": {
+    "associations": [
+      "clair",
+      "ombre",
+      "souffle",
+      "écho"
+    ],
+    "metaphores": [
+      "éclat d’orbe_30",
+      "chemin de orbe_30"
+    ],
+    "categorie": "lieu",
+    "emoji": "🛤️"
+  },
+  "orchidée_31": {
+    "associations": [
+      "chuchotis",
+      "flux",
+      "ombre",
+      "écho"
+    ],
+    "metaphores": [
+      "éclat d’orchidée_31",
+      "parfum d’orchidée_31"
+    ],
+    "categorie": "émotion",
+    "emoji": "💫"
+  },
+  "palimpseste_32": {
+    "associations": [
+      "clair",
+      "flamme",
+      "souffle",
+      "vibration"
+    ],
+    "metaphores": [
+      "miroir de palimpseste_32",
+      "murmure de palimpseste_32"
+    ],
+    "categorie": "urbain",
+    "emoji": "🚦"
+  },
+  "parchemin_33": {
+    "associations": [
+      "vibration",
+      "clair",
+      "flux",
+      "écho"
+    ],
+    "metaphores": [
+      "cœur de parchemin_33",
+      "parfum d’parchemin_33"
+    ],
+    "categorie": "transport",
+    "emoji": "🚆"
+  },
+  "phénix_34": {
+    "associations": [
+      "ombre",
+      "flux",
+      "flamme",
+      "chuchotis"
+    ],
+    "metaphores": [
+      "chemin de phénix_34",
+      "cœur de phénix_34"
+    ],
+    "categorie": "nature",
+    "emoji": "🌴"
+  },
+  "quartz_35": {
+    "associations": [
+      "flux",
+      "flamme",
+      "chuchotis",
+      "lueur"
+    ],
+    "metaphores": [
+      "chemin de quartz_35",
+      "parfum d’quartz_35"
+    ],
+    "categorie": "lieu",
+    "emoji": "🏞️"
+  },
+  "rafale_36": {
+    "associations": [
+      "écho",
+      "chuchotis",
+      "souffle",
+      "ombre"
+    ],
+    "metaphores": [
+      "éclat d’rafale_36",
+      "parfum d’rafale_36"
+    ],
+    "categorie": "cosmos",
+    "emoji": "🌠"
+  },
+  "résonance_37": {
+    "associations": [
+      "souffle",
+      "clair",
+      "lueur",
+      "flamme"
+    ],
+    "metaphores": [
+      "miroir de résonance_37",
+      "cœur de résonance_37"
+    ],
+    "categorie": "lieu",
+    "emoji": "🛕"
+  },
+  "ruisselet_38": {
+    "associations": [
+      "écho",
+      "clair",
+      "flamme",
+      "chuchotis"
+    ],
+    "metaphores": [
+      "cœur de ruisselet_38",
+      "chemin de ruisselet_38"
+    ],
+    "categorie": "transport",
+    "emoji": "🚢"
+  },
+  "safran_39": {
+    "associations": [
+      "ombre",
+      "écho",
+      "lueur",
+      "souffle"
+    ],
+    "metaphores": [
+      "chemin de safran_39",
+      "parfum d’safran_39"
+    ],
+    "categorie": "transport",
+    "emoji": "🚲"
+  },
+  "sélène_40": {
+    "associations": [
+      "écho",
+      "lueur",
+      "clair",
+      "souffle"
+    ],
+    "metaphores": [
+      "chemin de sélène_40",
+      "parfum d’sélène_40"
+    ],
+    "categorie": "lieu",
+    "emoji": "🛕"
+  },
+  "serpentin_41": {
+    "associations": [
+      "lueur",
+      "écho",
+      "flux",
+      "vibration"
+    ],
+    "metaphores": [
+      "chemin de serpentin_41",
+      "éclat d’serpentin_41"
+    ],
+    "categorie": "nature",
+    "emoji": "🌴"
+  },
+  "sillon_42": {
+    "associations": [
+      "flux",
+      "vibration",
+      "clair",
+      "flamme"
+    ],
+    "metaphores": [
+      "parfum d’sillon_42",
+      "murmure de sillon_42"
+    ],
+    "categorie": "cosmos",
+    "emoji": "🌑"
+  },
+  "symphonie_43": {
+    "associations": [
+      "souffle",
+      "flamme",
+      "lueur",
+      "chuchotis"
+    ],
+    "metaphores": [
+      "chemin de symphonie_43",
+      "miroir de symphonie_43"
+    ],
+    "categorie": "émotion",
+    "emoji": "❤️"
+  },
+  "topaze_44": {
+    "associations": [
+      "ombre",
+      "clair",
+      "flux",
+      "souffle"
+    ],
+    "metaphores": [
+      "éclat d’topaze_44",
+      "miroir de topaze_44"
+    ],
+    "categorie": "émotion",
+    "emoji": "💫"
+  },
+  "tourmaline_45": {
+    "associations": [
+      "ombre",
+      "lueur",
+      "chuchotis",
+      "écho"
+    ],
+    "metaphores": [
+      "miroir de tourmaline_45",
+      "parfum d’tourmaline_45"
+    ],
+    "categorie": "matière",
+    "emoji": "💎"
+  },
+  "tremble_46": {
+    "associations": [
+      "écho",
+      "vibration",
+      "ombre",
+      "flux"
+    ],
+    "metaphores": [
+      "miroir de tremble_46",
+      "murmure de tremble_46"
+    ],
+    "categorie": "matière",
+    "emoji": "💎"
+  },
+  "turbine_47": {
+    "associations": [
+      "flux",
+      "chuchotis",
+      "souffle",
+      "ombre"
+    ],
+    "metaphores": [
+      "miroir de turbine_47",
+      "chemin de turbine_47"
+    ],
+    "categorie": "urbain",
+    "emoji": "🏗️"
+  },
+  "ultramarin_48": {
+    "associations": [
+      "écho",
+      "vibration",
+      "flux",
+      "clair"
+    ],
+    "metaphores": [
+      "murmure de ultramarin_48",
+      "chemin de ultramarin_48"
+    ],
+    "categorie": "transport",
+    "emoji": "🚆"
+  },
+  "utopie_49": {
+    "associations": [
+      "lueur",
+      "vibration",
+      "flux",
+      "flamme"
+    ],
+    "metaphores": [
+      "éclat d’utopie_49",
+      "cœur de utopie_49"
+    ],
+    "categorie": "cosmos",
+    "emoji": "✨"
+  },
+  "velours_50": {
+    "associations": [
+      "lueur",
+      "ombre",
+      "flamme",
+      "souffle"
+    ],
+    "metaphores": [
+      "éclat d’velours_50",
+      "cœur de velours_50"
+    ],
+    "categorie": "émotion",
+    "emoji": "❤️"
+  },
+  "vermeil_51": {
+    "associations": [
+      "ombre",
+      "chuchotis",
+      "clair",
+      "lueur"
+    ],
+    "metaphores": [
+      "miroir de vermeil_51",
+      "éclat d’vermeil_51"
+    ],
+    "categorie": "temps",
+    "emoji": "🌞"
+  },
+  "vestige_52": {
+    "associations": [
+      "vibration",
+      "flamme",
+      "souffle",
+      "ombre"
+    ],
+    "metaphores": [
+      "cœur de vestige_52",
+      "chemin de vestige_52"
+    ],
+    "categorie": "matière",
+    "emoji": "🌪️"
+  },
+  "volute_53": {
+    "associations": [
+      "souffle",
+      "clair",
+      "flux",
+      "lueur"
+    ],
+    "metaphores": [
+      "chemin de volute_53",
+      "cœur de volute_53"
+    ],
+    "categorie": "motif",
+    "emoji": "🔮"
+  },
+  "zéphyr_54": {
+    "associations": [
+      "flux",
+      "ombre",
+      "chuchotis",
+      "lueur"
+    ],
+    "metaphores": [
+      "cœur de zéphyr_54",
+      "chemin de zéphyr_54"
+    ],
+    "categorie": "expression",
+    "emoji": "🗣️"
+  },
+  "albatros_55": {
+    "associations": [
+      "flux",
+      "chuchotis",
+      "vibration",
+      "flamme"
+    ],
+    "metaphores": [
+      "parfum d’albatros_55",
+      "éclat d’albatros_55"
+    ],
+    "categorie": "temps",
+    "emoji": "⏰"
+  },
+  "ambre_56": {
+    "associations": [
+      "flux",
+      "flamme",
+      "chuchotis",
+      "ombre"
+    ],
+    "metaphores": [
+      "cœur de ambre_56",
+      "éclat d’ambre_56"
+    ],
+    "categorie": "transport",
+    "emoji": "🚢"
+  },
+  "améthyste_57": {
+    "associations": [
+      "vibration",
+      "chuchotis",
+      "clair",
+      "souffle"
+    ],
+    "metaphores": [
+      "parfum d’améthyste_57",
+      "chemin de améthyste_57"
+    ],
+    "categorie": "lieu",
+    "emoji": "🛕"
+  },
+  "anémone_58": {
+    "associations": [
+      "ombre",
+      "vibration",
+      "clair",
+      "chuchotis"
+    ],
+    "metaphores": [
+      "chemin de anémone_58",
+      "parfum d’anémone_58"
+    ],
+    "categorie": "expression",
+    "emoji": "💭"
+  },
+  "auréole_59": {
+    "associations": [
+      "vibration",
+      "lueur",
+      "ombre",
+      "flux"
+    ],
+    "metaphores": [
+      "chemin de auréole_59",
+      "murmure de auréole_59"
+    ],
+    "categorie": "émotion",
+    "emoji": "🌟"
+  },
+  "azur_60": {
+    "associations": [
+      "ombre",
+      "souffle",
+      "écho",
+      "chuchotis"
+    ],
+    "metaphores": [
+      "murmure de azur_60",
+      "miroir de azur_60"
+    ],
+    "categorie": "transport",
+    "emoji": "🚀"
+  },
+  "bambou_61": {
+    "associations": [
+      "flux",
+      "ombre",
+      "lueur",
+      "écho"
+    ],
+    "metaphores": [
+      "éclat d’bambou_61",
+      "miroir de bambou_61"
+    ],
+    "categorie": "cosmos",
+    "emoji": "🌌"
+  },
+  "baryton_62": {
+    "associations": [
+      "chuchotis",
+      "vibration",
+      "clair",
+      "souffle"
+    ],
+    "metaphores": [
+      "éclat d’baryton_62",
+      "miroir de baryton_62"
+    ],
+    "categorie": "urbain",
+    "emoji": "🏗️"
+  },
+  "bruissement_63": {
+    "associations": [
+      "flamme",
+      "clair",
+      "chuchotis",
+      "ombre"
+    ],
+    "metaphores": [
+      "chemin de bruissement_63",
+      "cœur de bruissement_63"
+    ],
+    "categorie": "lieu",
+    "emoji": "🛕"
+  },
+  "camélia_64": {
+    "associations": [
+      "chuchotis",
+      "flamme",
+      "ombre",
+      "lueur"
+    ],
+    "metaphores": [
+      "parfum d’camélia_64",
+      "cœur de camélia_64"
+    ],
+    "categorie": "émotion",
+    "emoji": "😡"
+  },
+  "caverne_65": {
+    "associations": [
+      "ombre",
+      "lueur",
+      "vibration",
+      "flux"
+    ],
+    "metaphores": [
+      "chemin de caverne_65",
+      "miroir de caverne_65"
+    ],
+    "categorie": "nature",
+    "emoji": "🌲"
+  },
+  "chalice_66": {
+    "associations": [
+      "souffle",
+      "flamme",
+      "ombre",
+      "clair"
+    ],
+    "metaphores": [
+      "chemin de chalice_66",
+      "miroir de chalice_66"
+    ],
+    "categorie": "expression",
+    "emoji": "🗣️"
+  },
+  "clair-obscur_67": {
+    "associations": [
+      "flamme",
+      "ombre",
+      "flux",
+      "souffle"
+    ],
+    "metaphores": [
+      "murmure de clair-obscur_67",
+      "miroir de clair-obscur_67"
+    ],
+    "categorie": "transport",
+    "emoji": "🚀"
+  },
+  "corolle_68": {
+    "associations": [
+      "flux",
+      "ombre",
+      "vibration",
+      "flamme"
+    ],
+    "metaphores": [
+      "murmure de corolle_68",
+      "parfum d’corolle_68"
+    ],
+    "categorie": "expression",
+    "emoji": "🗣️"
+  },
+  "cymbale_69": {
+    "associations": [
+      "vibration",
+      "clair",
+      "flamme",
+      "chuchotis"
+    ],
+    "metaphores": [
+      "parfum d’cymbale_69",
+      "éclat d’cymbale_69"
+    ],
+    "categorie": "nature",
+    "emoji": "🌴"
+  },
+  "désirade_70": {
+    "associations": [
+      "flamme",
+      "souffle",
+      "chuchotis",
+      "écho"
+    ],
+    "metaphores": [
+      "chemin de désirade_70",
+      "parfum d’désirade_70"
+    ],
+    "categorie": "motif",
+    "emoji": "✨"
+  },
+  "émeraude_71": {
+    "associations": [
+      "lueur",
+      "chuchotis",
+      "flamme",
+      "souffle"
+    ],
+    "metaphores": [
+      "parfum d’émeraude_71",
+      "cœur de émeraude_71"
+    ],
+    "categorie": "matière",
+    "emoji": "🪨"
+  },
+  "équin_72": {
+    "associations": [
+      "souffle",
+      "flux",
+      "vibration",
+      "écho"
+    ],
+    "metaphores": [
+      "miroir de équin_72",
+      "éclat d’équin_72"
+    ],
+    "categorie": "urbain",
+    "emoji": "🚦"
+  },
+  "floraison_73": {
+    "associations": [
+      "chuchotis",
+      "écho",
+      "ombre",
+      "flux"
+    ],
+    "metaphores": [
+      "miroir de floraison_73",
+      "parfum d’floraison_73"
+    ],
+    "categorie": "transport",
+    "emoji": "🚆"
+  },
+  "givre_74": {
+    "associations": [
+      "clair",
+      "ombre",
+      "lueur",
+      "souffle"
+    ],
+    "metaphores": [
+      "murmure de givre_74",
+      "éclat d’givre_74"
+    ],
+    "categorie": "urbain",
+    "emoji": "🚦"
+  },
+  "havre_75": {
+    "associations": [
+      "clair",
+      "écho",
+      "lueur",
+      "flamme"
+    ],
+    "metaphores": [
+      "parfum d’havre_75",
+      "éclat d’havre_75"
+    ],
+    "categorie": "motif",
+    "emoji": "🔮"
+  },
+  "ivoire_76": {
+    "associations": [
+      "vibration",
+      "flux",
+      "clair",
+      "lueur"
+    ],
+    "metaphores": [
+      "éclat d’ivoire_76",
+      "chemin de ivoire_76"
+    ],
+    "categorie": "cosmos",
+    "emoji": "🌠"
+  },
+  "jadeite_77": {
+    "associations": [
+      "flamme",
+      "ombre",
+      "flux",
+      "chuchotis"
+    ],
+    "metaphores": [
+      "parfum d’jadeite_77",
+      "murmure de jadeite_77"
+    ],
+    "categorie": "nature",
+    "emoji": "🌸"
+  },
+  "lacis_78": {
+    "associations": [
+      "chuchotis",
+      "ombre",
+      "clair",
+      "flamme"
+    ],
+    "metaphores": [
+      "parfum d’lacis_78",
+      "murmure de lacis_78"
+    ],
+    "categorie": "matière",
+    "emoji": "⚡"
+  },
+  "lagune_79": {
+    "associations": [
+      "flamme",
+      "ombre",
+      "vibration",
+      "clair"
+    ],
+    "metaphores": [
+      "cœur de lagune_79",
+      "miroir de lagune_79"
+    ],
+    "categorie": "transport",
+    "emoji": "🚆"
+  },
+  "lançade_80": {
+    "associations": [
+      "clair",
+      "vibration",
+      "flux",
+      "lueur"
+    ],
+    "metaphores": [
+      "parfum d’lançade_80",
+      "cœur de lançade_80"
+    ],
+    "categorie": "temps",
+    "emoji": "🕰️"
+  },
+  "lyre_81": {
+    "associations": [
+      "flamme",
+      "lueur",
+      "écho",
+      "ombre"
+    ],
+    "metaphores": [
+      "miroir de lyre_81",
+      "parfum d’lyre_81"
+    ],
+    "categorie": "émotion",
+    "emoji": "❤️"
+  },
+  "magenta_82": {
+    "associations": [
+      "ombre",
+      "chuchotis",
+      "souffle",
+      "flamme"
+    ],
+    "metaphores": [
+      "éclat d’magenta_82",
+      "cœur de magenta_82"
+    ],
+    "categorie": "temps",
+    "emoji": "📅"
+  },
+  "mésange_83": {
+    "associations": [
+      "vibration",
+      "écho",
+      "lueur",
+      "souffle"
+    ],
+    "metaphores": [
+      "parfum d’mésange_83",
+      "cœur de mésange_83"
+    ],
+    "categorie": "matière",
+    "emoji": "⚡"
+  },
+  "mirador_84": {
+    "associations": [
+      "flamme",
+      "vibration",
+      "souffle",
+      "flux"
+    ],
+    "metaphores": [
+      "murmure de mirador_84",
+      "éclat d’mirador_84"
+    ],
+    "categorie": "urbain",
+    "emoji": "🚦"
+  },
+  "moiré_85": {
+    "associations": [
+      "chuchotis",
+      "lueur",
+      "écho",
+      "flux"
+    ],
+    "metaphores": [
+      "parfum d’moiré_85",
+      "murmure de moiré_85"
+    ],
+    "categorie": "transport",
+    "emoji": "🚲"
+  },
+  "muse_86": {
+    "associations": [
+      "souffle",
+      "écho",
+      "flux",
+      "lueur"
+    ],
+    "metaphores": [
+      "murmure de muse_86",
+      "parfum d’muse_86"
+    ],
+    "categorie": "nature",
+    "emoji": "🌸"
+  },
+  "nacelle_87": {
+    "associations": [
+      "souffle",
+      "flamme",
+      "clair",
+      "ombre"
+    ],
+    "metaphores": [
+      "cœur de nacelle_87",
+      "chemin de nacelle_87"
+    ],
+    "categorie": "transport",
+    "emoji": "🚲"
+  },
+  "nectar_88": {
+    "associations": [
+      "souffle",
+      "écho",
+      "chuchotis",
+      "vibration"
+    ],
+    "metaphores": [
+      "miroir de nectar_88",
+      "murmure de nectar_88"
+    ],
+    "categorie": "temps",
+    "emoji": "🕰️"
+  },
+  "néant_89": {
+    "associations": [
+      "flux",
+      "ombre",
+      "écho",
+      "souffle"
+    ],
+    "metaphores": [
+      "éclat d’néant_89",
+      "chemin de néant_89"
+    ],
+    "categorie": "temps",
+    "emoji": "📅"
+  },
+  "nymphéa_90": {
+    "associations": [
+      "flamme",
+      "chuchotis",
+      "lueur",
+      "vibration"
+    ],
+    "metaphores": [
+      "chemin de nymphéa_90",
+      "murmure de nymphéa_90"
+    ],
+    "categorie": "lieu",
+    "emoji": "🛕"
+  },
+  "obélisque_91": {
+    "associations": [
+      "ombre",
+      "flamme",
+      "souffle",
+      "vibration"
+    ],
+    "metaphores": [
+      "parfum d’obélisque_91",
+      "murmure de obélisque_91"
+    ],
+    "categorie": "motif",
+    "emoji": "✨"
+  },
+  "ocre_92": {
+    "associations": [
+      "chuchotis",
+      "flamme",
+      "écho",
+      "vibration"
+    ],
+    "metaphores": [
+      "miroir de ocre_92",
+      "parfum d’ocre_92"
+    ],
+    "categorie": "nature",
+    "emoji": "🌴"
+  },
+  "onde_93": {
+    "associations": [
+      "flux",
+      "lueur",
+      "chuchotis",
+      "vibration"
+    ],
+    "metaphores": [
+      "éclat d’onde_93",
+      "miroir de onde_93"
+    ],
+    "categorie": "émotion",
+    "emoji": "😡"
+  },
+  "oratorio_94": {
+    "associations": [
+      "vibration",
+      "ombre",
+      "flamme",
+      "chuchotis"
+    ],
+    "metaphores": [
+      "parfum d’oratorio_94",
+      "chemin de oratorio_94"
+    ],
+    "categorie": "urbain",
+    "emoji": "🏙️"
+  },
+  "oxygène_95": {
+    "associations": [
+      "lueur",
+      "flux",
+      "clair",
+      "chuchotis"
+    ],
+    "metaphores": [
+      "éclat d’oxygène_95",
+      "cœur de oxygène_95"
+    ],
+    "categorie": "expression",
+    "emoji": "🗣️"
+  },
+  "palais_96": {
+    "associations": [
+      "ombre",
+      "chuchotis",
+      "lueur",
+      "flamme"
+    ],
+    "metaphores": [
+      "miroir de palais_96",
+      "murmure de palais_96"
+    ],
+    "categorie": "motif",
+    "emoji": "🪞"
+  },
+  "panache_97": {
+    "associations": [
+      "flamme",
+      "lueur",
+      "souffle",
+      "écho"
+    ],
+    "metaphores": [
+      "cœur de panache_97",
+      "murmure de panache_97"
+    ],
+    "categorie": "urbain",
+    "emoji": "🏙️"
+  },
+  "parfum_98": {
+    "associations": [
+      "chuchotis",
+      "souffle",
+      "lueur",
+      "vibration"
+    ],
+    "metaphores": [
+      "parfum d’parfum_98",
+      "éclat d’parfum_98"
+    ],
+    "categorie": "lieu",
+    "emoji": "🛕"
+  },
+  "pastel_99": {
+    "associations": [
+      "flux",
+      "chuchotis",
+      "flamme",
+      "ombre"
+    ],
+    "metaphores": [
+      "parfum d’pastel_99",
+      "cœur de pastel_99"
+    ],
+    "categorie": "urbain",
+    "emoji": "🏙️"
+  },
+  "péplum_100": {
+    "associations": [
+      "vibration",
+      "flux",
+      "lueur",
+      "souffle"
+    ],
+    "metaphores": [
+      "chemin de péplum_100",
+      "parfum d’péplum_100"
+    ],
+    "categorie": "transport",
+    "emoji": "🚆"
+  },
+  "péridot_101": {
+    "associations": [
+      "écho",
+      "flamme",
+      "lueur",
+      "souffle"
+    ],
+    "metaphores": [
+      "chemin de péridot_101",
+      "éclat d’péridot_101"
+    ],
+    "categorie": "temps",
+    "emoji": "🕰️"
+  },
+  "pétale_102": {
+    "associations": [
+      "écho",
+      "ombre",
+      "vibration",
+      "souffle"
+    ],
+    "metaphores": [
+      "miroir de pétale_102",
+      "murmure de pétale_102"
+    ],
+    "categorie": "expression",
+    "emoji": "🗣️"
+  },
+  "pyrite_103": {
+    "associations": [
+      "flamme",
+      "clair",
+      "lueur",
+      "écho"
+    ],
+    "metaphores": [
+      "murmure de pyrite_103",
+      "chemin de pyrite_103"
+    ],
+    "categorie": "cosmos",
+    "emoji": "🌑"
+  },
+  "quasar_104": {
+    "associations": [
+      "souffle",
+      "flux",
+      "ombre",
+      "clair"
+    ],
+    "metaphores": [
+      "éclat d’quasar_104",
+      "cœur de quasar_104"
+    ],
+    "categorie": "nature",
+    "emoji": "🌴"
+  },
+  "rapace_105": {
+    "associations": [
+      "souffle",
+      "clair",
+      "écho",
+      "chuchotis"
+    ],
+    "metaphores": [
+      "cœur de rapace_105",
+      "éclat d’rapace_105"
+    ],
+    "categorie": "temps",
+    "emoji": "🕰️"
+  },
+  "reflet_106": {
+    "associations": [
+      "chuchotis",
+      "écho",
+      "clair",
+      "flux"
+    ],
+    "metaphores": [
+      "miroir de reflet_106",
+      "parfum d’reflet_106"
+    ],
+    "categorie": "cosmos",
+    "emoji": "🌌"
+  },
+  "rosace_107": {
+    "associations": [
+      "chuchotis",
+      "ombre",
+      "souffle",
+      "flux"
+    ],
+    "metaphores": [
+      "miroir de rosace_107",
+      "parfum d’rosace_107"
+    ],
+    "categorie": "lieu",
+    "emoji": "🏠"
+  },
+  "rubis_108": {
+    "associations": [
+      "ombre",
+      "lueur",
+      "chuchotis",
+      "flux"
+    ],
+    "metaphores": [
+      "cœur de rubis_108",
+      "chemin de rubis_108"
+    ],
+    "categorie": "émotion",
+    "emoji": "😢"
+  },
+  "saphir_109": {
+    "associations": [
+      "clair",
+      "flux",
+      "écho",
+      "ombre"
+    ],
+    "metaphores": [
+      "murmure de saphir_109",
+      "cœur de saphir_109"
+    ],
+    "categorie": "matière",
+    "emoji": "⚡"
+  },
+  "scintillement_110": {
+    "associations": [
+      "flux",
+      "clair",
+      "ombre",
+      "flamme"
+    ],
+    "metaphores": [
+      "éclat d’scintillement_110",
+      "cœur de scintillement_110"
+    ],
+    "categorie": "lieu",
+    "emoji": "🛤️"
+  },
+  "sémaphore_111": {
+    "associations": [
+      "flux",
+      "vibration",
+      "clair",
+      "lueur"
+    ],
+    "metaphores": [
+      "parfum d’sémaphore_111",
+      "miroir de sémaphore_111"
+    ],
+    "categorie": "matière",
+    "emoji": "🔥"
+  },
+  "sépia_112": {
+    "associations": [
+      "flamme",
+      "souffle",
+      "ombre",
+      "écho"
+    ],
+    "metaphores": [
+      "éclat d’sépia_112",
+      "chemin de sépia_112"
+    ],
+    "categorie": "cosmos",
+    "emoji": "✨"
+  },
+  "serrure_113": {
+    "associations": [
+      "clair",
+      "ombre",
+      "flamme",
+      "lueur"
+    ],
+    "metaphores": [
+      "murmure de serrure_113",
+      "miroir de serrure_113"
+    ],
+    "categorie": "temps",
+    "emoji": "📅"
+  },
+  "sirène_114": {
+    "associations": [
+      "flamme",
+      "lueur",
+      "vibration",
+      "souffle"
+    ],
+    "metaphores": [
+      "éclat d’sirène_114",
+      "murmure de sirène_114"
+    ],
+    "categorie": "matière",
+    "emoji": "💧"
+  },
+  "sphère_115": {
+    "associations": [
+      "flamme",
+      "flux",
+      "souffle",
+      "vibration"
+    ],
+    "metaphores": [
+      "chemin de sphère_115",
+      "éclat d’sphère_115"
+    ],
+    "categorie": "nature",
+    "emoji": "🌻"
+  },
+  "spirale_116": {
+    "associations": [
+      "écho",
+      "flux",
+      "souffle",
+      "lueur"
+    ],
+    "metaphores": [
+      "cœur de spirale_116",
+      "parfum d’spirale_116"
+    ],
+    "categorie": "temps",
+    "emoji": "🌇"
+  },
+  "stalactite_117": {
+    "associations": [
+      "lueur",
+      "flux",
+      "ombre",
+      "écho"
+    ],
+    "metaphores": [
+      "chemin de stalactite_117",
+      "éclat d’stalactite_117"
+    ],
+    "categorie": "lieu",
+    "emoji": "🏞️"
+  },
+  "stalagmite_118": {
+    "associations": [
+      "flux",
+      "vibration",
+      "clair",
+      "écho"
+    ],
+    "metaphores": [
+      "cœur de stalagmite_118",
+      "miroir de stalagmite_118"
+    ],
+    "categorie": "émotion",
+    "emoji": "🌟"
+  },
+  "symbole_119": {
+    "associations": [
+      "lueur",
+      "flamme",
+      "souffle",
+      "ombre"
+    ],
+    "metaphores": [
+      "éclat d’symbole_119",
+      "murmure de symbole_119"
+    ],
+    "categorie": "matière",
+    "emoji": "⚡"
+  },
+  "tambour_120": {
+    "associations": [
+      "clair",
+      "flamme",
+      "flux",
+      "écho"
+    ],
+    "metaphores": [
+      "cœur de tambour_120",
+      "chemin de tambour_120"
+    ],
+    "categorie": "urbain",
+    "emoji": "🛣️"
+  },
+  "temple_121": {
+    "associations": [
+      "ombre",
+      "flux",
+      "flamme",
+      "vibration"
+    ],
+    "metaphores": [
+      "parfum d’temple_121",
+      "chemin de temple_121"
+    ],
+    "categorie": "urbain",
+    "emoji": "🏗️"
+  },
+  "torche_122": {
+    "associations": [
+      "chuchotis",
+      "ombre",
+      "lueur",
+      "flamme"
+    ],
+    "metaphores": [
+      "cœur de torche_122",
+      "parfum d’torche_122"
+    ],
+    "categorie": "motif",
+    "emoji": "🌀"
+  },
+  "torrent_123": {
+    "associations": [
+      "ombre",
+      "flux",
+      "flamme",
+      "chuchotis"
+    ],
+    "metaphores": [
+      "parfum d’torrent_123",
+      "miroir de torrent_123"
+    ],
+    "categorie": "lieu",
+    "emoji": "🛤️"
+  },
+  "trilogue_124": {
+    "associations": [
+      "écho",
+      "flux",
+      "clair",
+      "lueur"
+    ],
+    "metaphores": [
+      "chemin de trilogue_124",
+      "murmure de trilogue_124"
+    ],
+    "categorie": "expression",
+    "emoji": "🎶"
+  },
+  "troglodyte_125": {
+    "associations": [
+      "flux",
+      "chuchotis",
+      "clair",
+      "ombre"
+    ],
+    "metaphores": [
+      "parfum d’troglodyte_125",
+      "murmure de troglodyte_125"
+    ],
+    "categorie": "transport",
+    "emoji": "✈️"
+  },
+  "tulipe_126": {
+    "associations": [
+      "vibration",
+      "souffle",
+      "écho",
+      "flux"
+    ],
+    "metaphores": [
+      "parfum d’tulipe_126",
+      "murmure de tulipe_126"
+    ],
+    "categorie": "temps",
+    "emoji": "📅"
+  },
+  "valvule_127": {
+    "associations": [
+      "écho",
+      "flamme",
+      "flux",
+      "souffle"
+    ],
+    "metaphores": [
+      "miroir de valvule_127",
+      "parfum d’valvule_127"
+    ],
+    "categorie": "expression",
+    "emoji": "🎨"
+  },
+  "velar_128": {
+    "associations": [
+      "vibration",
+      "lueur",
+      "clair",
+      "ombre"
+    ],
+    "metaphores": [
+      "murmure de velar_128",
+      "chemin de velar_128"
+    ],
+    "categorie": "matière",
+    "emoji": "⚡"
+  },
+  "vortex_129": {
+    "associations": [
+      "clair",
+      "vibration",
+      "ombre",
+      "lueur"
+    ],
+    "metaphores": [
+      "parfum d’vortex_129",
+      "murmure de vortex_129"
+    ],
+    "categorie": "transport",
+    "emoji": "🚲"
+  },
+  "xylème_130": {
+    "associations": [
+      "lueur",
+      "ombre",
+      "flux",
+      "flamme"
+    ],
+    "metaphores": [
+      "cœur de xylème_130",
+      "parfum d’xylème_130"
+    ],
+    "categorie": "urbain",
+    "emoji": "🏙️"
+  },
+  "yggdrasil_131": {
+    "associations": [
+      "lueur",
+      "vibration",
+      "souffle",
+      "flamme"
+    ],
+    "metaphores": [
+      "éclat d’yggdrasil_131",
+      "cœur de yggdrasil_131"
+    ],
+    "categorie": "urbain",
+    "emoji": "🚦"
+  },
+  "zodiaque_132": {
+    "associations": [
+      "flux",
+      "vibration",
+      "clair",
+      "flamme"
+    ],
+    "metaphores": [
+      "chemin de zodiaque_132",
+      "miroir de zodiaque_132"
+    ],
+    "categorie": "matière",
+    "emoji": "💧"
+  },
+  "abysses_133": {
+    "associations": [
+      "chuchotis",
+      "souffle",
+      "ombre",
+      "flux"
+    ],
+    "metaphores": [
+      "chemin de abysses_133",
+      "cœur de abysses_133"
+    ],
+    "categorie": "nature",
+    "emoji": "🌸"
+  },
+  "arcane_134": {
+    "associations": [
+      "clair",
+      "vibration",
+      "flamme",
+      "écho"
+    ],
+    "metaphores": [
+      "éclat d’arcane_134",
+      "cœur de arcane_134"
+    ],
+    "categorie": "lieu",
+    "emoji": "🏠"
+  },
+  "aurochs_135": {
+    "associations": [
+      "flux",
+      "chuchotis",
+      "souffle",
+      "flamme"
+    ],
+    "metaphores": [
+      "éclat d’aurochs_135",
+      "cœur de aurochs_135"
+    ],
+    "categorie": "cosmos",
+    "emoji": "✨"
+  },
+  "basilic_136": {
+    "associations": [
+      "flux",
+      "souffle",
+      "flamme",
+      "écho"
+    ],
+    "metaphores": [
+      "murmure de basilic_136",
+      "cœur de basilic_136"
+    ],
+    "categorie": "nature",
+    "emoji": "🍃"
+  },
+  "béryl_137": {
+    "associations": [
+      "chuchotis",
+      "flamme",
+      "clair",
+      "ombre"
+    ],
+    "metaphores": [
+      "miroir de béryl_137",
+      "parfum d’béryl_137"
+    ],
+    "categorie": "nature",
+    "emoji": "🍂"
+  },
+  "boréal_138": {
+    "associations": [
+      "écho",
+      "clair",
+      "vibration",
+      "flux"
+    ],
+    "metaphores": [
+      "miroir de boréal_138",
+      "parfum d’boréal_138"
+    ],
+    "categorie": "transport",
+    "emoji": "✈️"
+  },
+  "calice_139": {
+    "associations": [
+      "clair",
+      "flux",
+      "chuchotis",
+      "souffle"
+    ],
+    "metaphores": [
+      "miroir de calice_139",
+      "cœur de calice_139"
+    ],
+    "categorie": "transport",
+    "emoji": "🚆"
+  },
+  "chrysalide_140": {
+    "associations": [
+      "clair",
+      "lueur",
+      "ombre",
+      "écho"
+    ],
+    "metaphores": [
+      "murmure de chrysalide_140",
+      "cœur de chrysalide_140"
+    ],
+    "categorie": "émotion",
+    "emoji": "😢"
+  },
+  "cyclone_141": {
+    "associations": [
+      "vibration",
+      "écho",
+      "lueur",
+      "flamme"
+    ],
+    "metaphores": [
+      "cœur de cyclone_141",
+      "parfum d’cyclone_141"
+    ],
+    "categorie": "cosmos",
+    "emoji": "🌠"
+  },
+  "éphémère_142": {
+    "associations": [
+      "ombre",
+      "souffle",
+      "clair",
+      "lueur"
+    ],
+    "metaphores": [
+      "éclat d’éphémère_142",
+      "miroir de éphémère_142"
+    ],
+    "categorie": "urbain",
+    "emoji": "🏙️"
+  },
+  "flamboiement_143": {
+    "associations": [
+      "clair",
+      "ombre",
+      "écho",
+      "souffle"
+    ],
+    "metaphores": [
+      "éclat d’flamboiement_143",
+      "murmure de flamboiement_143"
+    ],
+    "categorie": "nature",
+    "emoji": "🌻"
+  },
+  "glycine_144": {
+    "associations": [
+      "vibration",
+      "ombre",
+      "chuchotis",
+      "clair"
+    ],
+    "metaphores": [
+      "miroir de glycine_144",
+      "éclat d’glycine_144"
+    ],
+    "categorie": "matière",
+    "emoji": "⚡"
+  },
+  "horizon intérieur_145": {
+    "associations": [
+      "souffle",
+      "flamme",
+      "ombre",
+      "chuchotis"
+    ],
+    "metaphores": [
+      "cœur de horizon intérieur_145",
+      "éclat d’horizon intérieur_145"
+    ],
+    "categorie": "nature",
+    "emoji": "🌴"
+  },
+  "incandescence_146": {
+    "associations": [
+      "chuchotis",
+      "ombre",
+      "écho",
+      "flux"
+    ],
+    "metaphores": [
+      "chemin de incandescence_146",
+      "éclat d’incandescence_146"
+    ],
+    "categorie": "émotion",
+    "emoji": "❤️"
+  },
+  "iris_147": {
+    "associations": [
+      "chuchotis",
+      "écho",
+      "flamme",
+      "flux"
+    ],
+    "metaphores": [
+      "miroir de iris_147",
+      "murmure de iris_147"
+    ],
+    "categorie": "urbain",
+    "emoji": "🚦"
+  },
+  "jade_148": {
+    "associations": [
+      "clair",
+      "flamme",
+      "souffle",
+      "ombre"
+    ],
+    "metaphores": [
+      "chemin de jade_148",
+      "éclat d’jade_148"
+    ],
+    "categorie": "matière",
+    "emoji": "⚡"
+  },
+  "kaléidoscope_149": {
+    "associations": [
+      "flux",
+      "ombre",
+      "souffle",
+      "lueur"
+    ],
+    "metaphores": [
+      "cœur de kaléidoscope_149",
+      "éclat d’kaléidoscope_149"
+    ],
+    "categorie": "expression",
+    "emoji": "💭"
+  },
+  "labarum_150": {
+    "associations": [
+      "flamme",
+      "écho",
+      "souffle",
+      "ombre"
+    ],
+    "metaphores": [
+      "parfum d’labarum_150",
+      "éclat d’labarum_150"
+    ],
+    "categorie": "temps",
+    "emoji": "⏳"
+  },
+  "lanterne_151": {
+    "associations": [
+      "souffle",
+      "chuchotis",
+      "écho",
+      "ombre"
+    ],
+    "metaphores": [
+      "murmure de lanterne_151",
+      "éclat d’lanterne_151"
+    ],
+    "categorie": "motif",
+    "emoji": "🎭"
+  },
+  "lotus_152": {
+    "associations": [
+      "lueur",
+      "vibration",
+      "ombre",
+      "clair"
+    ],
+    "metaphores": [
+      "parfum d’lotus_152",
+      "cœur de lotus_152"
+    ],
+    "categorie": "cosmos",
+    "emoji": "✨"
+  },
+  "luciole_153": {
+    "associations": [
+      "vibration",
+      "flux",
+      "chuchotis",
+      "ombre"
+    ],
+    "metaphores": [
+      "parfum d’luciole_153",
+      "miroir de luciole_153"
+    ],
+    "categorie": "émotion",
+    "emoji": "🌟"
+  },
+  "magma_154": {
+    "associations": [
+      "ombre",
+      "vibration",
+      "flamme",
+      "chuchotis"
+    ],
+    "metaphores": [
+      "miroir de magma_154",
+      "éclat d’magma_154"
+    ],
+    "categorie": "motif",
+    "emoji": "🔮"
+  },
+  "mandragore_155": {
+    "associations": [
+      "souffle",
+      "ombre",
+      "vibration",
+      "chuchotis"
+    ],
+    "metaphores": [
+      "cœur de mandragore_155",
+      "chemin de mandragore_155"
+    ],
+    "categorie": "expression",
+    "emoji": "🎨"
+  },
+  "mélopée_156": {
+    "associations": [
+      "souffle",
+      "flamme",
+      "vibration",
+      "clair"
+    ],
+    "metaphores": [
+      "parfum d’mélopée_156",
+      "éclat d’mélopée_156"
+    ],
+    "categorie": "nature",
+    "emoji": "🌻"
+  },
+  "miroiterie_157": {
+    "associations": [
+      "vibration",
+      "chuchotis",
+      "lueur",
+      "écho"
+    ],
+    "metaphores": [
+      "chemin de miroiterie_157",
+      "parfum d’miroiterie_157"
+    ],
+    "categorie": "motif",
+    "emoji": "🔮"
+  },
+  "nymphe_158": {
+    "associations": [
+      "flamme",
+      "lueur",
+      "souffle",
+      "ombre"
+    ],
+    "metaphores": [
+      "parfum d’nymphe_158",
+      "éclat d’nymphe_158"
+    ],
+    "categorie": "matière",
+    "emoji": "🪨"
+  },
+  "obsidienne_159": {
+    "associations": [
+      "flux",
+      "ombre",
+      "chuchotis",
+      "souffle"
+    ],
+    "metaphores": [
+      "parfum d’obsidienne_159",
+      "miroir de obsidienne_159"
+    ],
+    "categorie": "transport",
+    "emoji": "🚀"
+  },
+  "ocelle_160": {
+    "associations": [
+      "chuchotis",
+      "flamme",
+      "lueur",
+      "souffle"
+    ],
+    "metaphores": [
+      "parfum d’ocelle_160",
+      "murmure de ocelle_160"
+    ],
+    "categorie": "cosmos",
+    "emoji": "✨"
+  },
+  "ondine_161": {
+    "associations": [
+      "souffle",
+      "lueur",
+      "ombre",
+      "clair"
+    ],
+    "metaphores": [
+      "cœur de ondine_161",
+      "parfum d’ondine_161"
+    ],
+    "categorie": "cosmos",
+    "emoji": "🌙"
+  },
+  "opale_162": {
+    "associations": [
+      "flamme",
+      "ombre",
+      "clair",
+      "chuchotis"
+    ],
+    "metaphores": [
+      "miroir de opale_162",
+      "cœur de opale_162"
+    ],
+    "categorie": "urbain",
+    "emoji": "🏙️"
+  },
+  "orbe_163": {
+    "associations": [
+      "ombre",
+      "vibration",
+      "lueur",
+      "écho"
+    ],
+    "metaphores": [
+      "chemin de orbe_163",
+      "miroir de orbe_163"
+    ],
+    "categorie": "lieu",
+    "emoji": "🛕"
+  },
+  "orchidée_164": {
+    "associations": [
+      "écho",
+      "lueur",
+      "clair",
+      "flux"
+    ],
+    "metaphores": [
+      "cœur de orchidée_164",
+      "éclat d’orchidée_164"
+    ],
+    "categorie": "transport",
+    "emoji": "🚲"
+  },
+  "palimpseste_165": {
+    "associations": [
+      "écho",
+      "lueur",
+      "flamme",
+      "vibration"
+    ],
+    "metaphores": [
+      "parfum d’palimpseste_165",
+      "murmure de palimpseste_165"
+    ],
+    "categorie": "expression",
+    "emoji": "🎶"
+  },
+  "parchemin_166": {
+    "associations": [
+      "lueur",
+      "flux",
+      "écho",
+      "ombre"
+    ],
+    "metaphores": [
+      "murmure de parchemin_166",
+      "cœur de parchemin_166"
+    ],
+    "categorie": "cosmos",
+    "emoji": "☄️"
+  },
+  "phénix_167": {
+    "associations": [
+      "flamme",
+      "vibration",
+      "lueur",
+      "flux"
+    ],
+    "metaphores": [
+      "cœur de phénix_167",
+      "éclat d’phénix_167"
+    ],
+    "categorie": "lieu",
+    "emoji": "🛕"
+  },
+  "quartz_168": {
+    "associations": [
+      "souffle",
+      "flamme",
+      "chuchotis",
+      "lueur"
+    ],
+    "metaphores": [
+      "parfum d’quartz_168",
+      "éclat d’quartz_168"
+    ],
+    "categorie": "lieu",
+    "emoji": "🏞️"
+  },
+  "rafale_169": {
+    "associations": [
+      "vibration",
+      "lueur",
+      "souffle",
+      "clair"
+    ],
+    "metaphores": [
+      "cœur de rafale_169",
+      "miroir de rafale_169"
+    ],
+    "categorie": "matière",
+    "emoji": "💎"
+  },
+  "résonance_170": {
+    "associations": [
+      "clair",
+      "écho",
+      "lueur",
+      "ombre"
+    ],
+    "metaphores": [
+      "éclat d’résonance_170",
+      "cœur de résonance_170"
+    ],
+    "categorie": "émotion",
+    "emoji": "🌟"
+  },
+  "ruisselet_171": {
+    "associations": [
+      "flux",
+      "souffle",
+      "vibration",
+      "chuchotis"
+    ],
+    "metaphores": [
+      "parfum d’ruisselet_171",
+      "éclat d’ruisselet_171"
+    ],
+    "categorie": "expression",
+    "emoji": "💭"
+  },
+  "safran_172": {
+    "associations": [
+      "écho",
+      "chuchotis",
+      "lueur",
+      "vibration"
+    ],
+    "metaphores": [
+      "cœur de safran_172",
+      "murmure de safran_172"
+    ],
+    "categorie": "nature",
+    "emoji": "🌾"
+  },
+  "sélène_173": {
+    "associations": [
+      "ombre",
+      "clair",
+      "écho",
+      "flamme"
+    ],
+    "metaphores": [
+      "miroir de sélène_173",
+      "cœur de sélène_173"
+    ],
+    "categorie": "matière",
+    "emoji": "💧"
+  },
+  "serpentin_174": {
+    "associations": [
+      "lueur",
+      "flux",
+      "clair",
+      "souffle"
+    ],
+    "metaphores": [
+      "chemin de serpentin_174",
+      "éclat d’serpentin_174"
+    ],
+    "categorie": "transport",
+    "emoji": "🚲"
+  },
+  "sillon_175": {
+    "associations": [
+      "ombre",
+      "écho",
+      "lueur",
+      "flux"
+    ],
+    "metaphores": [
+      "miroir de sillon_175",
+      "murmure de sillon_175"
+    ],
+    "categorie": "lieu",
+    "emoji": "🛤️"
+  },
+  "symphonie_176": {
+    "associations": [
+      "écho",
+      "flamme",
+      "flux",
+      "vibration"
+    ],
+    "metaphores": [
+      "cœur de symphonie_176",
+      "éclat d’symphonie_176"
+    ],
+    "categorie": "urbain",
+    "emoji": "🏙️"
+  },
+  "topaze_177": {
+    "associations": [
+      "chuchotis",
+      "souffle",
+      "flux",
+      "flamme"
+    ],
+    "metaphores": [
+      "miroir de topaze_177",
+      "éclat d’topaze_177"
+    ],
+    "categorie": "transport",
+    "emoji": "✈️"
+  },
+  "tourmaline_178": {
+    "associations": [
+      "souffle",
+      "écho",
+      "flamme",
+      "chuchotis"
+    ],
+    "metaphores": [
+      "éclat d’tourmaline_178",
+      "parfum d’tourmaline_178"
+    ],
+    "categorie": "motif",
+    "emoji": "🪞"
+  },
+  "tremble_179": {
+    "associations": [
+      "souffle",
+      "clair",
+      "flux",
+      "chuchotis"
+    ],
+    "metaphores": [
+      "cœur de tremble_179",
+      "chemin de tremble_179"
+    ],
+    "categorie": "émotion",
+    "emoji": "😢"
+  },
+  "turbine_180": {
+    "associations": [
+      "flamme",
+      "chuchotis",
+      "clair",
+      "souffle"
+    ],
+    "metaphores": [
+      "cœur de turbine_180",
+      "miroir de turbine_180"
+    ],
+    "categorie": "cosmos",
+    "emoji": "🌠"
+  },
+  "ultramarin_181": {
+    "associations": [
+      "clair",
+      "flamme",
+      "ombre",
+      "vibration"
+    ],
+    "metaphores": [
+      "éclat d’ultramarin_181",
+      "chemin de ultramarin_181"
+    ],
+    "categorie": "lieu",
+    "emoji": "🏞️"
+  },
+  "utopie_182": {
+    "associations": [
+      "flux",
+      "écho",
+      "souffle",
+      "chuchotis"
+    ],
+    "metaphores": [
+      "chemin de utopie_182",
+      "parfum d’utopie_182"
+    ],
+    "categorie": "lieu",
+    "emoji": "🛕"
+  },
+  "velours_183": {
+    "associations": [
+      "vibration",
+      "flamme",
+      "souffle",
+      "flux"
+    ],
+    "metaphores": [
+      "murmure de velours_183",
+      "cœur de velours_183"
+    ],
+    "categorie": "lieu",
+    "emoji": "🗻"
+  },
+  "vermeil_184": {
+    "associations": [
+      "vibration",
+      "ombre",
+      "chuchotis",
+      "lueur"
+    ],
+    "metaphores": [
+      "cœur de vermeil_184",
+      "éclat d’vermeil_184"
+    ],
+    "categorie": "émotion",
+    "emoji": "❤️"
+  },
+  "vestige_185": {
+    "associations": [
+      "lueur",
+      "écho",
+      "vibration",
+      "chuchotis"
+    ],
+    "metaphores": [
+      "cœur de vestige_185",
+      "murmure de vestige_185"
+    ],
+    "categorie": "temps",
+    "emoji": "🌇"
+  },
+  "volute_186": {
+    "associations": [
+      "vibration",
+      "lueur",
+      "flamme",
+      "clair"
+    ],
+    "metaphores": [
+      "miroir de volute_186",
+      "cœur de volute_186"
+    ],
+    "categorie": "nature",
+    "emoji": "🌾"
+  },
+  "zéphyr_187": {
+    "associations": [
+      "ombre",
+      "clair",
+      "lueur",
+      "flux"
+    ],
+    "metaphores": [
+      "cœur de zéphyr_187",
+      "miroir de zéphyr_187"
+    ],
+    "categorie": "nature",
+    "emoji": "🌿"
+  },
+  "albatros_188": {
+    "associations": [
+      "flux",
+      "clair",
+      "chuchotis",
+      "ombre"
+    ],
+    "metaphores": [
+      "chemin de albatros_188",
+      "parfum d’albatros_188"
+    ],
+    "categorie": "cosmos",
+    "emoji": "🌌"
+  },
+  "ambre_189": {
+    "associations": [
+      "chuchotis",
+      "écho",
+      "ombre",
+      "lueur"
+    ],
+    "metaphores": [
+      "cœur de ambre_189",
+      "parfum d’ambre_189"
+    ],
+    "categorie": "cosmos",
+    "emoji": "🌠"
+  },
+  "améthyste_190": {
+    "associations": [
+      "chuchotis",
+      "flamme",
+      "lueur",
+      "écho"
+    ],
+    "metaphores": [
+      "parfum d’améthyste_190",
+      "miroir de améthyste_190"
+    ],
+    "categorie": "émotion",
+    "emoji": "😡"
+  },
+  "anémone_191": {
+    "associations": [
+      "lueur",
+      "vibration",
+      "souffle",
+      "chuchotis"
+    ],
+    "metaphores": [
+      "parfum d’anémone_191",
+      "cœur de anémone_191"
+    ],
+    "categorie": "nature",
+    "emoji": "🌾"
+  },
+  "auréole_192": {
+    "associations": [
+      "flux",
+      "lueur",
+      "flamme",
+      "chuchotis"
+    ],
+    "metaphores": [
+      "murmure de auréole_192",
+      "chemin de auréole_192"
+    ],
+    "categorie": "motif",
+    "emoji": "🎭"
+  },
+  "azur_193": {
+    "associations": [
+      "vibration",
+      "lueur",
+      "ombre",
+      "écho"
+    ],
+    "metaphores": [
+      "miroir de azur_193",
+      "éclat d’azur_193"
+    ],
+    "categorie": "transport",
+    "emoji": "✈️"
+  },
+  "bambou_194": {
+    "associations": [
+      "ombre",
+      "clair",
+      "flux",
+      "vibration"
+    ],
+    "metaphores": [
+      "murmure de bambou_194",
+      "cœur de bambou_194"
+    ],
+    "categorie": "motif",
+    "emoji": "🎭"
+  },
+  "baryton_195": {
+    "associations": [
+      "flux",
+      "flamme",
+      "lueur",
+      "écho"
+    ],
+    "metaphores": [
+      "cœur de baryton_195",
+      "parfum d’baryton_195"
+    ],
+    "categorie": "matière",
+    "emoji": "⚡"
+  },
+  "bruissement_196": {
+    "associations": [
+      "flux",
+      "chuchotis",
+      "lueur",
+      "ombre"
+    ],
+    "metaphores": [
+      "murmure de bruissement_196",
+      "miroir de bruissement_196"
+    ],
+    "categorie": "transport",
+    "emoji": "🚀"
+  },
+  "camélia_197": {
+    "associations": [
+      "ombre",
+      "clair",
+      "flamme",
+      "souffle"
+    ],
+    "metaphores": [
+      "cœur de camélia_197",
+      "parfum d’camélia_197"
+    ],
+    "categorie": "motif",
+    "emoji": "✨"
+  },
+  "caverne_198": {
+    "associations": [
+      "vibration",
+      "lueur",
+      "flux",
+      "ombre"
+    ],
+    "metaphores": [
+      "murmure de caverne_198",
+      "éclat d’caverne_198"
+    ],
+    "categorie": "lieu",
+    "emoji": "🛕"
+  },
+  "chalice_199": {
+    "associations": [
+      "lueur",
+      "souffle",
+      "écho",
+      "clair"
+    ],
+    "metaphores": [
+      "cœur de chalice_199",
+      "murmure de chalice_199"
+    ],
+    "categorie": "urbain",
+    "emoji": "🏗️"
+  },
+  "clair-obscur_200": {
+    "associations": [
+      "chuchotis",
+      "ombre",
+      "vibration",
+      "flamme"
+    ],
+    "metaphores": [
+      "murmure de clair-obscur_200",
+      "parfum d’clair-obscur_200"
+    ],
+    "categorie": "émotion",
+    "emoji": "❤️"
+  },
+  "corolle_201": {
+    "associations": [
+      "flamme",
+      "vibration",
+      "flux",
+      "clair"
+    ],
+    "metaphores": [
+      "cœur de corolle_201",
+      "éclat d’corolle_201"
+    ],
+    "categorie": "matière",
+    "emoji": "💎"
+  },
+  "cymbale_202": {
+    "associations": [
+      "flux",
+      "clair",
+      "vibration",
+      "ombre"
+    ],
+    "metaphores": [
+      "cœur de cymbale_202",
+      "chemin de cymbale_202"
+    ],
+    "categorie": "lieu",
+    "emoji": "🏞️"
+  },
+  "désirade_203": {
+    "associations": [
+      "flamme",
+      "lueur",
+      "chuchotis",
+      "écho"
+    ],
+    "metaphores": [
+      "chemin de désirade_203",
+      "éclat d’désirade_203"
+    ],
+    "categorie": "motif",
+    "emoji": "🔮"
+  },
+  "émeraude_204": {
+    "associations": [
+      "vibration",
+      "flux",
+      "lueur",
+      "souffle"
+    ],
+    "metaphores": [
+      "chemin de émeraude_204",
+      "parfum d’émeraude_204"
+    ],
+    "categorie": "matière",
+    "emoji": "🌪️"
+  },
+  "équin_205": {
+    "associations": [
+      "flamme",
+      "chuchotis",
+      "clair",
+      "écho"
+    ],
+    "metaphores": [
+      "miroir de équin_205",
+      "murmure de équin_205"
+    ],
+    "categorie": "matière",
+    "emoji": "💧"
+  },
+  "floraison_206": {
+    "associations": [
+      "écho",
+      "flamme",
+      "souffle",
+      "clair"
+    ],
+    "metaphores": [
+      "cœur de floraison_206",
+      "miroir de floraison_206"
+    ],
+    "categorie": "transport",
+    "emoji": "✈️"
+  },
+  "givre_207": {
+    "associations": [
+      "écho",
+      "flamme",
+      "flux",
+      "chuchotis"
+    ],
+    "metaphores": [
+      "miroir de givre_207",
+      "murmure de givre_207"
+    ],
+    "categorie": "matière",
+    "emoji": "🔥"
+  },
+  "havre_208": {
+    "associations": [
+      "souffle",
+      "clair",
+      "écho",
+      "flux"
+    ],
+    "metaphores": [
+      "miroir de havre_208",
+      "éclat d’havre_208"
+    ],
+    "categorie": "expression",
+    "emoji": "🗣️"
+  },
+  "ivoire_209": {
+    "associations": [
+      "vibration",
+      "souffle",
+      "clair",
+      "écho"
+    ],
+    "metaphores": [
+      "éclat d’ivoire_209",
+      "cœur de ivoire_209"
+    ],
+    "categorie": "matière",
+    "emoji": "⚡"
+  },
+  "jadeite_210": {
+    "associations": [
+      "ombre",
+      "flamme",
+      "souffle",
+      "clair"
+    ],
+    "metaphores": [
+      "éclat d’jadeite_210",
+      "chemin de jadeite_210"
+    ],
+    "categorie": "matière",
+    "emoji": "💎"
+  },
+  "lacis_211": {
+    "associations": [
+      "lueur",
+      "ombre",
+      "écho",
+      "clair"
+    ],
+    "metaphores": [
+      "cœur de lacis_211",
+      "parfum d’lacis_211"
+    ],
+    "categorie": "cosmos",
+    "emoji": "🌠"
+  },
+  "lagune_212": {
+    "associations": [
+      "clair",
+      "flux",
+      "souffle",
+      "chuchotis"
+    ],
+    "metaphores": [
+      "chemin de lagune_212",
+      "miroir de lagune_212"
+    ],
+    "categorie": "matière",
+    "emoji": "🌪️"
+  },
+  "lançade_213": {
+    "associations": [
+      "chuchotis",
+      "ombre",
+      "lueur",
+      "clair"
+    ],
+    "metaphores": [
+      "parfum d’lançade_213",
+      "murmure de lançade_213"
+    ],
+    "categorie": "cosmos",
+    "emoji": "🌠"
+  },
+  "lyre_214": {
+    "associations": [
+      "clair",
+      "chuchotis",
+      "lueur",
+      "vibration"
+    ],
+    "metaphores": [
+      "chemin de lyre_214",
+      "cœur de lyre_214"
+    ],
+    "categorie": "cosmos",
+    "emoji": "🌌"
+  },
+  "magenta_215": {
+    "associations": [
+      "chuchotis",
+      "clair",
+      "lueur",
+      "flamme"
+    ],
+    "metaphores": [
+      "chemin de magenta_215",
+      "éclat d’magenta_215"
+    ],
+    "categorie": "temps",
+    "emoji": "📅"
+  },
+  "mésange_216": {
+    "associations": [
+      "écho",
+      "lueur",
+      "ombre",
+      "clair"
+    ],
+    "metaphores": [
+      "cœur de mésange_216",
+      "miroir de mésange_216"
+    ],
+    "categorie": "motif",
+    "emoji": "🌀"
+  },
+  "mirador_217": {
+    "associations": [
+      "souffle",
+      "écho",
+      "flux",
+      "ombre"
+    ],
+    "metaphores": [
+      "cœur de mirador_217",
+      "parfum d’mirador_217"
+    ],
+    "categorie": "transport",
+    "emoji": "🚢"
+  },
+  "moiré_218": {
+    "associations": [
+      "flamme",
+      "écho",
+      "ombre",
+      "souffle"
+    ],
+    "metaphores": [
+      "murmure de moiré_218",
+      "cœur de moiré_218"
+    ],
+    "categorie": "cosmos",
+    "emoji": "🪐"
+  },
+  "muse_219": {
+    "associations": [
+      "souffle",
+      "flamme",
+      "flux",
+      "ombre"
+    ],
+    "metaphores": [
+      "cœur de muse_219",
+      "chemin de muse_219"
+    ],
+    "categorie": "nature",
+    "emoji": "🌾"
+  },
+  "nacelle_220": {
+    "associations": [
+      "clair",
+      "chuchotis",
+      "flamme",
+      "souffle"
+    ],
+    "metaphores": [
+      "cœur de nacelle_220",
+      "parfum d’nacelle_220"
+    ],
+    "categorie": "motif",
+    "emoji": "🎭"
+  },
+  "nectar_221": {
+    "associations": [
+      "écho",
+      "clair",
+      "souffle",
+      "lueur"
+    ],
+    "metaphores": [
+      "parfum d’nectar_221",
+      "cœur de nectar_221"
+    ],
+    "categorie": "émotion",
+    "emoji": "😡"
+  },
+  "néant_222": {
+    "associations": [
+      "lueur",
+      "chuchotis",
+      "flux",
+      "vibration"
+    ],
+    "metaphores": [
+      "parfum d’néant_222",
+      "éclat d’néant_222"
+    ],
+    "categorie": "temps",
+    "emoji": "📅"
+  },
+  "nymphéa_223": {
+    "associations": [
+      "flux",
+      "lueur",
+      "clair",
+      "vibration"
+    ],
+    "metaphores": [
+      "cœur de nymphéa_223",
+      "chemin de nymphéa_223"
+    ],
+    "categorie": "temps",
+    "emoji": "📅"
+  },
+  "obélisque_224": {
+    "associations": [
+      "souffle",
+      "écho",
+      "flamme",
+      "clair"
+    ],
+    "metaphores": [
+      "miroir de obélisque_224",
+      "éclat d’obélisque_224"
+    ],
+    "categorie": "transport",
+    "emoji": "🚆"
+  },
+  "ocre_225": {
+    "associations": [
+      "flux",
+      "vibration",
+      "flamme",
+      "chuchotis"
+    ],
+    "metaphores": [
+      "chemin de ocre_225",
+      "parfum d’ocre_225"
+    ],
+    "categorie": "motif",
+    "emoji": "✨"
+  },
+  "onde_226": {
+    "associations": [
+      "écho",
+      "vibration",
+      "chuchotis",
+      "flamme"
+    ],
+    "metaphores": [
+      "miroir de onde_226",
+      "éclat d’onde_226"
+    ],
+    "categorie": "nature",
+    "emoji": "🍂"
+  },
+  "oratorio_227": {
+    "associations": [
+      "lueur",
+      "vibration",
+      "souffle",
+      "écho"
+    ],
+    "metaphores": [
+      "miroir de oratorio_227",
+      "éclat d’oratorio_227"
+    ],
+    "categorie": "cosmos",
+    "emoji": "🌑"
+  },
+  "oxygène_228": {
+    "associations": [
+      "vibration",
+      "ombre",
+      "chuchotis",
+      "clair"
+    ],
+    "metaphores": [
+      "miroir de oxygène_228",
+      "éclat d’oxygène_228"
+    ],
+    "categorie": "expression",
+    "emoji": "🎨"
+  },
+  "palais_229": {
+    "associations": [
+      "vibration",
+      "écho",
+      "souffle",
+      "clair"
+    ],
+    "metaphores": [
+      "murmure de palais_229",
+      "éclat d’palais_229"
+    ],
+    "categorie": "urbain",
+    "emoji": "🚦"
+  },
+  "panache_230": {
+    "associations": [
+      "flux",
+      "chuchotis",
+      "flamme",
+      "ombre"
+    ],
+    "metaphores": [
+      "miroir de panache_230",
+      "éclat d’panache_230"
+    ],
+    "categorie": "expression",
+    "emoji": "🎨"
+  },
+  "parfum_231": {
+    "associations": [
+      "écho",
+      "ombre",
+      "flux",
+      "flamme"
+    ],
+    "metaphores": [
+      "parfum d’parfum_231",
+      "chemin de parfum_231"
+    ],
+    "categorie": "urbain",
+    "emoji": "🛣️"
+  },
+  "pastel_232": {
+    "associations": [
+      "clair",
+      "flamme",
+      "lueur",
+      "ombre"
+    ],
+    "metaphores": [
+      "miroir de pastel_232",
+      "parfum d’pastel_232"
+    ],
+    "categorie": "lieu",
+    "emoji": "🗻"
+  },
+  "péplum_233": {
+    "associations": [
+      "lueur",
+      "vibration",
+      "clair",
+      "flux"
+    ],
+    "metaphores": [
+      "miroir de péplum_233",
+      "éclat d’péplum_233"
+    ],
+    "categorie": "nature",
+    "emoji": "🌲"
+  },
+  "péridot_234": {
+    "associations": [
+      "écho",
+      "flux",
+      "lueur",
+      "chuchotis"
+    ],
+    "metaphores": [
+      "parfum d’péridot_234",
+      "murmure de péridot_234"
+    ],
+    "categorie": "cosmos",
+    "emoji": "🌙"
+  },
+  "pétale_235": {
+    "associations": [
+      "souffle",
+      "chuchotis",
+      "écho",
+      "ombre"
+    ],
+    "metaphores": [
+      "chemin de pétale_235",
+      "cœur de pétale_235"
+    ],
+    "categorie": "lieu",
+    "emoji": "🏞️"
+  },
+  "pyrite_236": {
+    "associations": [
+      "flux",
+      "souffle",
+      "vibration",
+      "chuchotis"
+    ],
+    "metaphores": [
+      "miroir de pyrite_236",
+      "éclat d’pyrite_236"
+    ],
+    "categorie": "cosmos",
+    "emoji": "☄️"
+  },
+  "quasar_237": {
+    "associations": [
+      "souffle",
+      "vibration",
+      "chuchotis",
+      "flamme"
+    ],
+    "metaphores": [
+      "miroir de quasar_237",
+      "parfum d’quasar_237"
+    ],
+    "categorie": "émotion",
+    "emoji": "😡"
+  },
+  "rapace_238": {
+    "associations": [
+      "lueur",
+      "chuchotis",
+      "écho",
+      "vibration"
+    ],
+    "metaphores": [
+      "miroir de rapace_238",
+      "murmure de rapace_238"
+    ],
+    "categorie": "expression",
+    "emoji": "🎶"
+  },
+  "reflet_239": {
+    "associations": [
+      "ombre",
+      "clair",
+      "chuchotis",
+      "lueur"
+    ],
+    "metaphores": [
+      "murmure de reflet_239",
+      "miroir de reflet_239"
+    ],
+    "categorie": "temps",
+    "emoji": "🌄"
+  },
+  "rosace_240": {
+    "associations": [
+      "flux",
+      "chuchotis",
+      "écho",
+      "souffle"
+    ],
+    "metaphores": [
+      "parfum d’rosace_240",
+      "cœur de rosace_240"
+    ],
+    "categorie": "cosmos",
+    "emoji": "🌑"
+  },
+  "rubis_241": {
+    "associations": [
+      "clair",
+      "flamme",
+      "souffle",
+      "flux"
+    ],
+    "metaphores": [
+      "parfum d’rubis_241",
+      "chemin de rubis_241"
+    ],
+    "categorie": "nature",
+    "emoji": "🌲"
+  },
+  "saphir_242": {
+    "associations": [
+      "vibration",
+      "souffle",
+      "lueur",
+      "clair"
+    ],
+    "metaphores": [
+      "chemin de saphir_242",
+      "éclat d’saphir_242"
+    ],
+    "categorie": "cosmos",
+    "emoji": "🌠"
+  },
+  "scintillement_243": {
+    "associations": [
+      "vibration",
+      "écho",
+      "ombre",
+      "clair"
+    ],
+    "metaphores": [
+      "cœur de scintillement_243",
+      "éclat d’scintillement_243"
+    ],
+    "categorie": "expression",
+    "emoji": "🎨"
+  },
+  "sémaphore_244": {
+    "associations": [
+      "ombre",
+      "flamme",
+      "lueur",
+      "chuchotis"
+    ],
+    "metaphores": [
+      "murmure de sémaphore_244",
+      "éclat d’sémaphore_244"
+    ],
+    "categorie": "nature",
+    "emoji": "🍂"
+  },
+  "sépia_245": {
+    "associations": [
+      "vibration",
+      "chuchotis",
+      "flamme",
+      "flux"
+    ],
+    "metaphores": [
+      "cœur de sépia_245",
+      "miroir de sépia_245"
+    ],
+    "categorie": "émotion",
+    "emoji": "😱"
+  },
+  "serrure_246": {
+    "associations": [
+      "clair",
+      "écho",
+      "ombre",
+      "flux"
+    ],
+    "metaphores": [
+      "miroir de serrure_246",
+      "chemin de serrure_246"
+    ],
+    "categorie": "transport",
+    "emoji": "🚲"
+  },
+  "sirène_247": {
+    "associations": [
+      "ombre",
+      "flamme",
+      "vibration",
+      "souffle"
+    ],
+    "metaphores": [
+      "parfum d’sirène_247",
+      "miroir de sirène_247"
+    ],
+    "categorie": "transport",
+    "emoji": "🚆"
+  },
+  "sphère_248": {
+    "associations": [
+      "chuchotis",
+      "flux",
+      "écho",
+      "souffle"
+    ],
+    "metaphores": [
+      "chemin de sphère_248",
+      "parfum d’sphère_248"
+    ],
+    "categorie": "nature",
+    "emoji": "🌲"
+  },
+  "spirale_249": {
+    "associations": [
+      "lueur",
+      "flux",
+      "chuchotis",
+      "flamme"
+    ],
+    "metaphores": [
+      "miroir de spirale_249",
+      "murmure de spirale_249"
+    ],
+    "categorie": "motif",
+    "emoji": "🎭"
+  },
+  "stalactite_250": {
+    "associations": [
+      "ombre",
+      "flamme",
+      "écho",
+      "lueur"
+    ],
+    "metaphores": [
+      "chemin de stalactite_250",
+      "parfum d’stalactite_250"
+    ],
+    "categorie": "cosmos",
+    "emoji": "🌠"
+  },
+  "stalagmite_251": {
+    "associations": [
+      "flux",
+      "lueur",
+      "ombre",
+      "flamme"
+    ],
+    "metaphores": [
+      "miroir de stalagmite_251",
+      "parfum d’stalagmite_251"
+    ],
+    "categorie": "émotion",
+    "emoji": "😱"
+  },
+  "symbole_252": {
+    "associations": [
+      "écho",
+      "vibration",
+      "lueur",
+      "ombre"
+    ],
+    "metaphores": [
+      "murmure de symbole_252",
+      "parfum d’symbole_252"
+    ],
+    "categorie": "motif",
+    "emoji": "✨"
+  },
+  "tambour_253": {
+    "associations": [
+      "flux",
+      "flamme",
+      "vibration",
+      "écho"
+    ],
+    "metaphores": [
+      "murmure de tambour_253",
+      "chemin de tambour_253"
+    ],
+    "categorie": "cosmos",
+    "emoji": "✨"
+  },
+  "temple_254": {
+    "associations": [
+      "écho",
+      "flamme",
+      "lueur",
+      "flux"
+    ],
+    "metaphores": [
+      "miroir de temple_254",
+      "cœur de temple_254"
+    ],
+    "categorie": "transport",
+    "emoji": "🚲"
+  },
+  "torche_255": {
+    "associations": [
+      "clair",
+      "vibration",
+      "flamme",
+      "chuchotis"
+    ],
+    "metaphores": [
+      "cœur de torche_255",
+      "parfum d’torche_255"
+    ],
+    "categorie": "urbain",
+    "emoji": "🚦"
+  },
+  "torrent_256": {
+    "associations": [
+      "chuchotis",
+      "flamme",
+      "flux",
+      "ombre"
+    ],
+    "metaphores": [
+      "chemin de torrent_256",
+      "éclat d’torrent_256"
+    ],
+    "categorie": "transport",
+    "emoji": "🚆"
+  },
+  "trilogue_257": {
+    "associations": [
+      "flux",
+      "lueur",
+      "écho",
+      "clair"
+    ],
+    "metaphores": [
+      "éclat d’trilogue_257",
+      "murmure de trilogue_257"
+    ],
+    "categorie": "transport",
+    "emoji": "🚢"
+  },
+  "troglodyte_258": {
+    "associations": [
+      "vibration",
+      "lueur",
+      "souffle",
+      "flux"
+    ],
+    "metaphores": [
+      "miroir de troglodyte_258",
+      "éclat d’troglodyte_258"
+    ],
+    "categorie": "émotion",
+    "emoji": "😡"
+  },
+  "tulipe_259": {
+    "associations": [
+      "clair",
+      "ombre",
+      "chuchotis",
+      "souffle"
+    ],
+    "metaphores": [
+      "chemin de tulipe_259",
+      "murmure de tulipe_259"
+    ],
+    "categorie": "temps",
+    "emoji": "🌄"
+  },
+  "valvule_260": {
+    "associations": [
+      "clair",
+      "lueur",
+      "flamme",
+      "ombre"
+    ],
+    "metaphores": [
+      "cœur de valvule_260",
+      "miroir de valvule_260"
+    ],
+    "categorie": "transport",
+    "emoji": "🚲"
+  },
+  "velar_261": {
+    "associations": [
+      "ombre",
+      "vibration",
+      "écho",
+      "clair"
+    ],
+    "metaphores": [
+      "cœur de velar_261",
+      "parfum d’velar_261"
+    ],
+    "categorie": "nature",
+    "emoji": "🍃"
+  },
+  "vortex_262": {
+    "associations": [
+      "flamme",
+      "flux",
+      "souffle",
+      "chuchotis"
+    ],
+    "metaphores": [
+      "chemin de vortex_262",
+      "murmure de vortex_262"
+    ],
+    "categorie": "urbain",
+    "emoji": "🚦"
+  },
+  "xylème_263": {
+    "associations": [
+      "vibration",
+      "chuchotis",
+      "clair",
+      "lueur"
+    ],
+    "metaphores": [
+      "éclat d’xylème_263",
+      "cœur de xylème_263"
+    ],
+    "categorie": "émotion",
+    "emoji": "❤️"
+  },
+  "yggdrasil_264": {
+    "associations": [
+      "clair",
+      "flux",
+      "flamme",
+      "souffle"
+    ],
+    "metaphores": [
+      "miroir de yggdrasil_264",
+      "éclat d’yggdrasil_264"
+    ],
+    "categorie": "cosmos",
+    "emoji": "✨"
+  },
+  "zodiaque_265": {
+    "associations": [
+      "clair",
+      "ombre",
+      "écho",
+      "flamme"
+    ],
+    "metaphores": [
+      "murmure de zodiaque_265",
+      "cœur de zodiaque_265"
+    ],
+    "categorie": "émotion",
+    "emoji": "❤️"
+  },
+  "abysses_266": {
+    "associations": [
+      "chuchotis",
+      "clair",
+      "écho",
+      "flamme"
+    ],
+    "metaphores": [
+      "cœur de abysses_266",
+      "miroir de abysses_266"
+    ],
+    "categorie": "matière",
+    "emoji": "💧"
+  },
+  "arcane_267": {
+    "associations": [
+      "écho",
+      "clair",
+      "ombre",
+      "souffle"
+    ],
+    "metaphores": [
+      "parfum d’arcane_267",
+      "murmure de arcane_267"
+    ],
+    "categorie": "matière",
+    "emoji": "💧"
+  },
+  "aurochs_268": {
+    "associations": [
+      "ombre",
+      "flamme",
+      "flux",
+      "écho"
+    ],
+    "metaphores": [
+      "cœur de aurochs_268",
+      "éclat d’aurochs_268"
+    ],
+    "categorie": "cosmos",
+    "emoji": "🌙"
+  },
+  "basilic_269": {
+    "associations": [
+      "chuchotis",
+      "flux",
+      "vibration",
+      "lueur"
+    ],
+    "metaphores": [
+      "cœur de basilic_269",
+      "murmure de basilic_269"
+    ],
+    "categorie": "expression",
+    "emoji": "🎨"
+  },
+  "béryl_270": {
+    "associations": [
+      "ombre",
+      "chuchotis",
+      "lueur",
+      "écho"
+    ],
+    "metaphores": [
+      "parfum d’béryl_270",
+      "miroir de béryl_270"
+    ],
+    "categorie": "matière",
+    "emoji": "🌪️"
+  },
+  "boréal_271": {
+    "associations": [
+      "flux",
+      "vibration",
+      "chuchotis",
+      "ombre"
+    ],
+    "metaphores": [
+      "cœur de boréal_271",
+      "murmure de boréal_271"
+    ],
+    "categorie": "matière",
+    "emoji": "💎"
+  },
+  "calice_272": {
+    "associations": [
+      "écho",
+      "flux",
+      "chuchotis",
+      "souffle"
+    ],
+    "metaphores": [
+      "murmure de calice_272",
+      "miroir de calice_272"
+    ],
+    "categorie": "expression",
+    "emoji": "🗣️"
+  },
+  "chrysalide_273": {
+    "associations": [
+      "chuchotis",
+      "flamme",
+      "souffle",
+      "lueur"
+    ],
+    "metaphores": [
+      "cœur de chrysalide_273",
+      "parfum d’chrysalide_273"
+    ],
+    "categorie": "nature",
+    "emoji": "🌻"
+  },
+  "cyclone_274": {
+    "associations": [
+      "flamme",
+      "clair",
+      "vibration",
+      "chuchotis"
+    ],
+    "metaphores": [
+      "éclat d’cyclone_274",
+      "cœur de cyclone_274"
+    ],
+    "categorie": "expression",
+    "emoji": "🗣️"
+  },
+  "éphémère_275": {
+    "associations": [
+      "vibration",
+      "flux",
+      "flamme",
+      "chuchotis"
+    ],
+    "metaphores": [
+      "miroir de éphémère_275",
+      "murmure de éphémère_275"
+    ],
+    "categorie": "émotion",
+    "emoji": "😡"
+  },
+  "flamboiement_276": {
+    "associations": [
+      "clair",
+      "ombre",
+      "chuchotis",
+      "souffle"
+    ],
+    "metaphores": [
+      "parfum d’flamboiement_276",
+      "murmure de flamboiement_276"
+    ],
+    "categorie": "transport",
+    "emoji": "🚲"
+  },
+  "glycine_277": {
+    "associations": [
+      "ombre",
+      "écho",
+      "lueur",
+      "souffle"
+    ],
+    "metaphores": [
+      "parfum d’glycine_277",
+      "éclat d’glycine_277"
+    ],
+    "categorie": "transport",
+    "emoji": "✈️"
+  },
+  "horizon intérieur_278": {
+    "associations": [
+      "clair",
+      "souffle",
+      "chuchotis",
+      "lueur"
+    ],
+    "metaphores": [
+      "parfum d’horizon intérieur_278",
+      "éclat d’horizon intérieur_278"
+    ],
+    "categorie": "émotion",
+    "emoji": "😡"
+  },
+  "incandescence_279": {
+    "associations": [
+      "écho",
+      "flux",
+      "chuchotis",
+      "vibration"
+    ],
+    "metaphores": [
+      "cœur de incandescence_279",
+      "murmure de incandescence_279"
+    ],
+    "categorie": "matière",
+    "emoji": "🪨"
+  },
+  "iris_280": {
+    "associations": [
+      "flamme",
+      "vibration",
+      "flux",
+      "lueur"
+    ],
+    "metaphores": [
+      "miroir de iris_280",
+      "éclat d’iris_280"
+    ],
+    "categorie": "urbain",
+    "emoji": "🏗️"
+  },
+  "jade_281": {
+    "associations": [
+      "ombre",
+      "écho",
+      "souffle",
+      "flux"
+    ],
+    "metaphores": [
+      "miroir de jade_281",
+      "cœur de jade_281"
+    ],
+    "categorie": "motif",
+    "emoji": "🎭"
+  },
+  "kaléidoscope_282": {
+    "associations": [
+      "souffle",
+      "chuchotis",
+      "écho",
+      "clair"
+    ],
+    "metaphores": [
+      "murmure de kaléidoscope_282",
+      "miroir de kaléidoscope_282"
+    ],
+    "categorie": "émotion",
+    "emoji": "❤️"
+  },
+  "labarum_283": {
+    "associations": [
+      "chuchotis",
+      "flamme",
+      "lueur",
+      "clair"
+    ],
+    "metaphores": [
+      "cœur de labarum_283",
+      "parfum d’labarum_283"
+    ],
+    "categorie": "urbain",
+    "emoji": "🚦"
+  },
+  "lanterne_284": {
+    "associations": [
+      "clair",
+      "ombre",
+      "flamme",
+      "chuchotis"
+    ],
+    "metaphores": [
+      "cœur de lanterne_284",
+      "chemin de lanterne_284"
+    ],
+    "categorie": "cosmos",
+    "emoji": "🌠"
+  },
+  "lotus_285": {
+    "associations": [
+      "chuchotis",
+      "lueur",
+      "ombre",
+      "écho"
+    ],
+    "metaphores": [
+      "cœur de lotus_285",
+      "parfum d’lotus_285"
+    ],
+    "categorie": "matière",
+    "emoji": "⚡"
+  },
+  "luciole_286": {
+    "associations": [
+      "souffle",
+      "ombre",
+      "chuchotis",
+      "flux"
+    ],
+    "metaphores": [
+      "éclat d’luciole_286",
+      "chemin de luciole_286"
+    ],
+    "categorie": "urbain",
+    "emoji": "🚦"
+  },
+  "magma_287": {
+    "associations": [
+      "ombre",
+      "flamme",
+      "chuchotis",
+      "vibration"
+    ],
+    "metaphores": [
+      "éclat d’magma_287",
+      "parfum d’magma_287"
+    ],
+    "categorie": "urbain",
+    "emoji": "🛣️"
+  },
+  "mandragore_288": {
+    "associations": [
+      "vibration",
+      "écho",
+      "ombre",
+      "flamme"
+    ],
+    "metaphores": [
+      "murmure de mandragore_288",
+      "miroir de mandragore_288"
+    ],
+    "categorie": "matière",
+    "emoji": "🔥"
+  },
+  "mélopée_289": {
+    "associations": [
+      "vibration",
+      "clair",
+      "flamme",
+      "souffle"
+    ],
+    "metaphores": [
+      "éclat d’mélopée_289",
+      "parfum d’mélopée_289"
+    ],
+    "categorie": "motif",
+    "emoji": "🪞"
+  },
+  "miroiterie_290": {
+    "associations": [
+      "souffle",
+      "clair",
+      "vibration",
+      "lueur"
+    ],
+    "metaphores": [
+      "cœur de miroiterie_290",
+      "murmure de miroiterie_290"
+    ],
+    "categorie": "temps",
+    "emoji": "⏳"
+  },
+  "nymphe_291": {
+    "associations": [
+      "flux",
+      "clair",
+      "lueur",
+      "vibration"
+    ],
+    "metaphores": [
+      "chemin de nymphe_291",
+      "éclat d’nymphe_291"
+    ],
+    "categorie": "transport",
+    "emoji": "✈️"
+  },
+  "obsidienne_292": {
+    "associations": [
+      "ombre",
+      "clair",
+      "flux",
+      "souffle"
+    ],
+    "metaphores": [
+      "éclat d’obsidienne_292",
+      "miroir de obsidienne_292"
+    ],
+    "categorie": "matière",
+    "emoji": "🌪️"
+  },
+  "ocelle_293": {
+    "associations": [
+      "chuchotis",
+      "clair",
+      "flux",
+      "souffle"
+    ],
+    "metaphores": [
+      "miroir de ocelle_293",
+      "cœur de ocelle_293"
+    ],
+    "categorie": "matière",
+    "emoji": "⚡"
+  },
+  "ondine_294": {
+    "associations": [
+      "vibration",
+      "clair",
+      "flamme",
+      "chuchotis"
+    ],
+    "metaphores": [
+      "éclat d’ondine_294",
+      "parfum d’ondine_294"
+    ],
+    "categorie": "urbain",
+    "emoji": "🏙️"
+  },
+  "opale_295": {
+    "associations": [
+      "chuchotis",
+      "lueur",
+      "flux",
+      "souffle"
+    ],
+    "metaphores": [
+      "éclat d’opale_295",
+      "cœur de opale_295"
+    ],
+    "categorie": "transport",
+    "emoji": "🚲"
+  },
+  "orbe_296": {
+    "associations": [
+      "lueur",
+      "chuchotis",
+      "clair",
+      "flux"
+    ],
+    "metaphores": [
+      "cœur de orbe_296",
+      "éclat d’orbe_296"
+    ],
+    "categorie": "urbain",
+    "emoji": "🛣️"
+  },
+  "orchidée_297": {
+    "associations": [
+      "souffle",
+      "chuchotis",
+      "flux",
+      "flamme"
+    ],
+    "metaphores": [
+      "chemin de orchidée_297",
+      "murmure de orchidée_297"
+    ],
+    "categorie": "cosmos",
+    "emoji": "🌑"
+  },
+  "palimpseste_298": {
+    "associations": [
+      "vibration",
+      "écho",
+      "souffle",
+      "ombre"
+    ],
+    "metaphores": [
+      "chemin de palimpseste_298",
+      "murmure de palimpseste_298"
+    ],
+    "categorie": "temps",
+    "emoji": "🌄"
+  },
+  "parchemin_299": {
+    "associations": [
+      "souffle",
+      "flux",
+      "lueur",
+      "ombre"
+    ],
+    "metaphores": [
+      "miroir de parchemin_299",
+      "murmure de parchemin_299"
+    ],
+    "categorie": "émotion",
+    "emoji": "😌"
+  },
+  "phénix_300": {
+    "associations": [
+      "flamme",
+      "ombre",
+      "vibration",
+      "souffle"
+    ],
+    "metaphores": [
+      "parfum d’phénix_300",
+      "éclat d’phénix_300"
+    ],
+    "categorie": "nature",
+    "emoji": "🌻"
+  },
+  "quartz_301": {
+    "associations": [
+      "vibration",
+      "chuchotis",
+      "souffle",
+      "clair"
+    ],
+    "metaphores": [
+      "cœur de quartz_301",
+      "éclat d’quartz_301"
+    ],
+    "categorie": "émotion",
+    "emoji": "😢"
+  },
+  "rafale_302": {
+    "associations": [
+      "clair",
+      "chuchotis",
+      "flux",
+      "ombre"
+    ],
+    "metaphores": [
+      "cœur de rafale_302",
+      "parfum d’rafale_302"
+    ],
+    "categorie": "matière",
+    "emoji": "🔥"
+  },
+  "résonance_303": {
+    "associations": [
+      "ombre",
+      "écho",
+      "lueur",
+      "flamme"
+    ],
+    "metaphores": [
+      "chemin de résonance_303",
+      "parfum d’résonance_303"
+    ],
+    "categorie": "nature",
+    "emoji": "🍂"
+  },
+  "ruisselet_304": {
+    "associations": [
+      "vibration",
+      "lueur",
+      "flux",
+      "flamme"
+    ],
+    "metaphores": [
+      "chemin de ruisselet_304",
+      "murmure de ruisselet_304"
+    ],
+    "categorie": "urbain",
+    "emoji": "🏙️"
+  },
+  "safran_305": {
+    "associations": [
+      "vibration",
+      "écho",
+      "souffle",
+      "clair"
+    ],
+    "metaphores": [
+      "miroir de safran_305",
+      "cœur de safran_305"
+    ],
+    "categorie": "expression",
+    "emoji": "🎨"
+  },
+  "sélène_306": {
+    "associations": [
+      "chuchotis",
+      "vibration",
+      "flux",
+      "lueur"
+    ],
+    "metaphores": [
+      "cœur de sélène_306",
+      "parfum d’sélène_306"
+    ],
+    "categorie": "transport",
+    "emoji": "🚲"
+  },
+  "serpentin_307": {
+    "associations": [
+      "souffle",
+      "écho",
+      "flux",
+      "clair"
+    ],
+    "metaphores": [
+      "murmure de serpentin_307",
+      "éclat d’serpentin_307"
+    ],
+    "categorie": "cosmos",
+    "emoji": "☄️"
+  },
+  "sillon_308": {
+    "associations": [
+      "flux",
+      "souffle",
+      "ombre",
+      "écho"
+    ],
+    "metaphores": [
+      "chemin de sillon_308",
+      "éclat d’sillon_308"
+    ],
+    "categorie": "transport",
+    "emoji": "🚆"
+  },
+  "symphonie_309": {
+    "associations": [
+      "chuchotis",
+      "flux",
+      "souffle",
+      "ombre"
+    ],
+    "metaphores": [
+      "parfum d’symphonie_309",
+      "éclat d’symphonie_309"
+    ],
+    "categorie": "transport",
+    "emoji": "🚲"
+  },
+  "topaze_310": {
+    "associations": [
+      "flamme",
+      "ombre",
+      "vibration",
+      "lueur"
+    ],
+    "metaphores": [
+      "éclat d’topaze_310",
+      "parfum d’topaze_310"
+    ],
+    "categorie": "expression",
+    "emoji": "🎶"
+  },
+  "tourmaline_311": {
+    "associations": [
+      "écho",
+      "souffle",
+      "vibration",
+      "ombre"
+    ],
+    "metaphores": [
+      "cœur de tourmaline_311",
+      "parfum d’tourmaline_311"
+    ],
+    "categorie": "cosmos",
+    "emoji": "🌑"
+  },
+  "tremble_312": {
+    "associations": [
+      "écho",
+      "flamme",
+      "chuchotis",
+      "lueur"
+    ],
+    "metaphores": [
+      "cœur de tremble_312",
+      "éclat d’tremble_312"
+    ],
+    "categorie": "transport",
+    "emoji": "🚢"
+  },
+  "turbine_313": {
+    "associations": [
+      "écho",
+      "flux",
+      "vibration",
+      "ombre"
+    ],
+    "metaphores": [
+      "parfum d’turbine_313",
+      "murmure de turbine_313"
+    ],
+    "categorie": "nature",
+    "emoji": "🌴"
+  },
+  "ultramarin_314": {
+    "associations": [
+      "souffle",
+      "lueur",
+      "chuchotis",
+      "clair"
+    ],
+    "metaphores": [
+      "éclat d’ultramarin_314",
+      "cœur de ultramarin_314"
+    ],
+    "categorie": "urbain",
+    "emoji": "🏙️"
+  },
+  "utopie_315": {
+    "associations": [
+      "flamme",
+      "chuchotis",
+      "clair",
+      "vibration"
+    ],
+    "metaphores": [
+      "murmure de utopie_315",
+      "éclat d’utopie_315"
+    ],
+    "categorie": "motif",
+    "emoji": "🎭"
+  },
+  "velours_316": {
+    "associations": [
+      "flamme",
+      "clair",
+      "ombre",
+      "lueur"
+    ],
+    "metaphores": [
+      "miroir de velours_316",
+      "éclat d’velours_316"
+    ],
+    "categorie": "motif",
+    "emoji": "🎭"
+  },
+  "vermeil_317": {
+    "associations": [
+      "ombre",
+      "écho",
+      "clair",
+      "lueur"
+    ],
+    "metaphores": [
+      "miroir de vermeil_317",
+      "cœur de vermeil_317"
+    ],
+    "categorie": "nature",
+    "emoji": "🌸"
+  },
+  "vestige_318": {
+    "associations": [
+      "lueur",
+      "souffle",
+      "écho",
+      "flamme"
+    ],
+    "metaphores": [
+      "cœur de vestige_318",
+      "chemin de vestige_318"
+    ],
+    "categorie": "transport",
+    "emoji": "🚢"
+  },
+  "volute_319": {
+    "associations": [
+      "flux",
+      "lueur",
+      "clair",
+      "écho"
+    ],
+    "metaphores": [
+      "murmure de volute_319",
+      "miroir de volute_319"
+    ],
+    "categorie": "cosmos",
+    "emoji": "🌙"
+  },
+  "zéphyr_320": {
+    "associations": [
+      "souffle",
+      "flux",
+      "lueur",
+      "clair"
+    ],
+    "metaphores": [
+      "éclat d’zéphyr_320",
+      "miroir de zéphyr_320"
+    ],
+    "categorie": "émotion",
+    "emoji": "❤️"
+  },
+  "albatros_321": {
+    "associations": [
+      "écho",
+      "ombre",
+      "flux",
+      "lueur"
+    ],
+    "metaphores": [
+      "parfum d’albatros_321",
+      "miroir de albatros_321"
+    ],
+    "categorie": "urbain",
+    "emoji": "🏙️"
+  },
+  "ambre_322": {
+    "associations": [
+      "chuchotis",
+      "flux",
+      "flamme",
+      "ombre"
+    ],
+    "metaphores": [
+      "éclat d’ambre_322",
+      "chemin de ambre_322"
+    ],
+    "categorie": "cosmos",
+    "emoji": "✨"
+  },
+  "améthyste_323": {
+    "associations": [
+      "vibration",
+      "flux",
+      "flamme",
+      "chuchotis"
+    ],
+    "metaphores": [
+      "cœur de améthyste_323",
+      "miroir de améthyste_323"
+    ],
+    "categorie": "émotion",
+    "emoji": "❤️"
+  },
+  "anémone_324": {
+    "associations": [
+      "souffle",
+      "flamme",
+      "clair",
+      "écho"
+    ],
+    "metaphores": [
+      "miroir de anémone_324",
+      "cœur de anémone_324"
+    ],
+    "categorie": "émotion",
+    "emoji": "❤️"
+  },
+  "auréole_325": {
+    "associations": [
+      "ombre",
+      "flamme",
+      "clair",
+      "souffle"
+    ],
+    "metaphores": [
+      "miroir de auréole_325",
+      "chemin de auréole_325"
+    ],
+    "categorie": "transport",
+    "emoji": "🚆"
+  },
+  "azur_326": {
+    "associations": [
+      "clair",
+      "chuchotis",
+      "écho",
+      "ombre"
+    ],
+    "metaphores": [
+      "miroir de azur_326",
+      "chemin de azur_326"
+    ],
+    "categorie": "motif",
+    "emoji": "🎭"
+  },
+  "bambou_327": {
+    "associations": [
+      "vibration",
+      "flux",
+      "ombre",
+      "souffle"
+    ],
+    "metaphores": [
+      "chemin de bambou_327",
+      "murmure de bambou_327"
+    ],
+    "categorie": "cosmos",
+    "emoji": "🌙"
+  },
+  "baryton_328": {
+    "associations": [
+      "clair",
+      "lueur",
+      "flux",
+      "flamme"
+    ],
+    "metaphores": [
+      "murmure de baryton_328",
+      "miroir de baryton_328"
+    ],
+    "categorie": "transport",
+    "emoji": "🚀"
+  },
+  "bruissement_329": {
+    "associations": [
+      "chuchotis",
+      "flamme",
+      "ombre",
+      "souffle"
+    ],
+    "metaphores": [
+      "cœur de bruissement_329",
+      "miroir de bruissement_329"
+    ],
+    "categorie": "cosmos",
+    "emoji": "🌑"
+  },
+  "camélia_330": {
+    "associations": [
+      "chuchotis",
+      "ombre",
+      "flamme",
+      "souffle"
+    ],
+    "metaphores": [
+      "murmure de camélia_330",
+      "éclat d’camélia_330"
+    ],
+    "categorie": "nature",
+    "emoji": "🌻"
+  },
+  "caverne_331": {
+    "associations": [
+      "flux",
+      "ombre",
+      "souffle",
+      "flamme"
+    ],
+    "metaphores": [
+      "éclat d’caverne_331",
+      "murmure de caverne_331"
+    ],
+    "categorie": "nature",
+    "emoji": "🌿"
+  },
+  "chalice_332": {
+    "associations": [
+      "écho",
+      "souffle",
+      "flamme",
+      "flux"
+    ],
+    "metaphores": [
+      "chemin de chalice_332",
+      "miroir de chalice_332"
+    ],
+    "categorie": "cosmos",
+    "emoji": "🌠"
+  },
+  "clair-obscur_333": {
+    "associations": [
+      "flamme",
+      "ombre",
+      "flux",
+      "souffle"
+    ],
+    "metaphores": [
+      "chemin de clair-obscur_333",
+      "cœur de clair-obscur_333"
+    ],
+    "categorie": "temps",
+    "emoji": "📅"
+  },
+  "corolle_334": {
+    "associations": [
+      "clair",
+      "flamme",
+      "souffle",
+      "vibration"
+    ],
+    "metaphores": [
+      "chemin de corolle_334",
+      "miroir de corolle_334"
+    ],
+    "categorie": "temps",
+    "emoji": "⏰"
+  },
+  "cymbale_335": {
+    "associations": [
+      "flamme",
+      "clair",
+      "flux",
+      "souffle"
+    ],
+    "metaphores": [
+      "miroir de cymbale_335",
+      "murmure de cymbale_335"
+    ],
+    "categorie": "temps",
+    "emoji": "🌇"
+  },
+  "désirade_336": {
+    "associations": [
+      "ombre",
+      "écho",
+      "chuchotis",
+      "flux"
+    ],
+    "metaphores": [
+      "murmure de désirade_336",
+      "miroir de désirade_336"
+    ],
+    "categorie": "motif",
+    "emoji": "🪞"
+  },
+  "émeraude_337": {
+    "associations": [
+      "ombre",
+      "écho",
+      "clair",
+      "lueur"
+    ],
+    "metaphores": [
+      "miroir de émeraude_337",
+      "murmure de émeraude_337"
+    ],
+    "categorie": "émotion",
+    "emoji": "😌"
+  },
+  "équin_338": {
+    "associations": [
+      "lueur",
+      "souffle",
+      "clair",
+      "flamme"
+    ],
+    "metaphores": [
+      "parfum d’équin_338",
+      "miroir de équin_338"
+    ],
+    "categorie": "émotion",
+    "emoji": "😡"
+  },
+  "floraison_339": {
+    "associations": [
+      "ombre",
+      "écho",
+      "clair",
+      "flamme"
+    ],
+    "metaphores": [
+      "chemin de floraison_339",
+      "éclat d’floraison_339"
+    ],
+    "categorie": "urbain",
+    "emoji": "🚦"
+  },
+  "givre_340": {
+    "associations": [
+      "flux",
+      "clair",
+      "souffle",
+      "chuchotis"
+    ],
+    "metaphores": [
+      "cœur de givre_340",
+      "éclat d’givre_340"
+    ],
+    "categorie": "émotion",
+    "emoji": "😡"
+  },
+  "havre_341": {
+    "associations": [
+      "chuchotis",
+      "flux",
+      "flamme",
+      "clair"
+    ],
+    "metaphores": [
+      "chemin de havre_341",
+      "murmure de havre_341"
+    ],
+    "categorie": "émotion",
+    "emoji": "💫"
+  },
+  "ivoire_342": {
+    "associations": [
+      "clair",
+      "flamme",
+      "ombre",
+      "chuchotis"
+    ],
+    "metaphores": [
+      "parfum d’ivoire_342",
+      "cœur de ivoire_342"
+    ],
+    "categorie": "expression",
+    "emoji": "💭"
+  },
+  "jadeite_343": {
+    "associations": [
+      "lueur",
+      "vibration",
+      "flamme",
+      "souffle"
+    ],
+    "metaphores": [
+      "chemin de jadeite_343",
+      "murmure de jadeite_343"
+    ],
+    "categorie": "lieu",
+    "emoji": "🛕"
+  },
+  "lacis_344": {
+    "associations": [
+      "flux",
+      "écho",
+      "ombre",
+      "clair"
+    ],
+    "metaphores": [
+      "éclat d’lacis_344",
+      "miroir de lacis_344"
+    ],
+    "categorie": "motif",
+    "emoji": "🔮"
+  },
+  "lagune_345": {
+    "associations": [
+      "clair",
+      "vibration",
+      "chuchotis",
+      "écho"
+    ],
+    "metaphores": [
+      "chemin de lagune_345",
+      "éclat d’lagune_345"
+    ],
+    "categorie": "nature",
+    "emoji": "🌸"
+  },
+  "lançade_346": {
+    "associations": [
+      "écho",
+      "flux",
+      "lueur",
+      "clair"
+    ],
+    "metaphores": [
+      "éclat d’lançade_346",
+      "miroir de lançade_346"
+    ],
+    "categorie": "urbain",
+    "emoji": "🛣️"
+  },
+  "lyre_347": {
+    "associations": [
+      "écho",
+      "clair",
+      "ombre",
+      "chuchotis"
+    ],
+    "metaphores": [
+      "murmure de lyre_347",
+      "parfum d’lyre_347"
+    ],
+    "categorie": "expression",
+    "emoji": "🗣️"
+  },
+  "magenta_348": {
+    "associations": [
+      "écho",
+      "clair",
+      "ombre",
+      "flamme"
+    ],
+    "metaphores": [
+      "éclat d’magenta_348",
+      "parfum d’magenta_348"
+    ],
+    "categorie": "nature",
+    "emoji": "🌿"
+  },
+  "mésange_349": {
+    "associations": [
+      "lueur",
+      "souffle",
+      "ombre",
+      "clair"
+    ],
+    "metaphores": [
+      "éclat d’mésange_349",
+      "parfum d’mésange_349"
+    ],
+    "categorie": "émotion",
+    "emoji": "🌟"
+  },
+  "mirador_350": {
+    "associations": [
+      "flamme",
+      "vibration",
+      "clair",
+      "lueur"
+    ],
+    "metaphores": [
+      "miroir de mirador_350",
+      "parfum d’mirador_350"
+    ],
+    "categorie": "temps",
+    "emoji": "🌇"
+  },
+  "moiré_351": {
+    "associations": [
+      "lueur",
+      "écho",
+      "chuchotis",
+      "vibration"
+    ],
+    "metaphores": [
+      "cœur de moiré_351",
+      "miroir de moiré_351"
+    ],
+    "categorie": "cosmos",
+    "emoji": "🌑"
+  },
+  "muse_352": {
+    "associations": [
+      "flux",
+      "écho",
+      "chuchotis",
+      "lueur"
+    ],
+    "metaphores": [
+      "miroir de muse_352",
+      "éclat d’muse_352"
+    ],
+    "categorie": "nature",
+    "emoji": "🌾"
+  },
+  "nacelle_353": {
+    "associations": [
+      "chuchotis",
+      "écho",
+      "flux",
+      "lueur"
+    ],
+    "metaphores": [
+      "chemin de nacelle_353",
+      "éclat d’nacelle_353"
+    ],
+    "categorie": "matière",
+    "emoji": "🪨"
+  },
+  "nectar_354": {
+    "associations": [
+      "souffle",
+      "lueur",
+      "chuchotis",
+      "flamme"
+    ],
+    "metaphores": [
+      "murmure de nectar_354",
+      "miroir de nectar_354"
+    ],
+    "categorie": "lieu",
+    "emoji": "🗻"
+  },
+  "néant_355": {
+    "associations": [
+      "vibration",
+      "flux",
+      "chuchotis",
+      "flamme"
+    ],
+    "metaphores": [
+      "cœur de néant_355",
+      "murmure de néant_355"
+    ],
+    "categorie": "transport",
+    "emoji": "🚆"
+  },
+  "nymphéa_356": {
+    "associations": [
+      "souffle",
+      "flux",
+      "ombre",
+      "clair"
+    ],
+    "metaphores": [
+      "murmure de nymphéa_356",
+      "parfum d’nymphéa_356"
+    ],
+    "categorie": "lieu",
+    "emoji": "🛤️"
+  },
+  "obélisque_357": {
+    "associations": [
+      "lueur",
+      "vibration",
+      "chuchotis",
+      "flux"
+    ],
+    "metaphores": [
+      "cœur de obélisque_357",
+      "éclat d’obélisque_357"
+    ],
+    "categorie": "expression",
+    "emoji": "🗣️"
+  },
+  "ocre_358": {
+    "associations": [
+      "vibration",
+      "lueur",
+      "clair",
+      "flux"
+    ],
+    "metaphores": [
+      "miroir de ocre_358",
+      "parfum d’ocre_358"
+    ],
+    "categorie": "temps",
+    "emoji": "🌄"
+  },
+  "onde_359": {
+    "associations": [
+      "flux",
+      "flamme",
+      "ombre",
+      "clair"
+    ],
+    "metaphores": [
+      "murmure de onde_359",
+      "éclat d’onde_359"
+    ],
+    "categorie": "temps",
+    "emoji": "📅"
+  },
+  "oratorio_360": {
+    "associations": [
+      "lueur",
+      "chuchotis",
+      "flux",
+      "écho"
+    ],
+    "metaphores": [
+      "murmure de oratorio_360",
+      "cœur de oratorio_360"
+    ],
+    "categorie": "nature",
+    "emoji": "🌻"
+  },
+  "oxygène_361": {
+    "associations": [
+      "souffle",
+      "écho",
+      "chuchotis",
+      "lueur"
+    ],
+    "metaphores": [
+      "murmure de oxygène_361",
+      "cœur de oxygène_361"
+    ],
+    "categorie": "transport",
+    "emoji": "🚢"
+  },
+  "palais_362": {
+    "associations": [
+      "vibration",
+      "écho",
+      "clair",
+      "flamme"
+    ],
+    "metaphores": [
+      "murmure de palais_362",
+      "chemin de palais_362"
+    ],
+    "categorie": "temps",
+    "emoji": "🌄"
+  },
+  "panache_363": {
+    "associations": [
+      "flux",
+      "écho",
+      "flamme",
+      "chuchotis"
+    ],
+    "metaphores": [
+      "éclat d’panache_363",
+      "chemin de panache_363"
+    ],
+    "categorie": "émotion",
+    "emoji": "😢"
+  },
+  "parfum_364": {
+    "associations": [
+      "lueur",
+      "chuchotis",
+      "vibration",
+      "flux"
+    ],
+    "metaphores": [
+      "éclat d’parfum_364",
+      "murmure de parfum_364"
+    ],
+    "categorie": "matière",
+    "emoji": "🌪️"
+  },
+  "pastel_365": {
+    "associations": [
+      "flamme",
+      "écho",
+      "clair",
+      "ombre"
+    ],
+    "metaphores": [
+      "miroir de pastel_365",
+      "parfum d’pastel_365"
+    ],
+    "categorie": "urbain",
+    "emoji": "🏗️"
+  },
+  "péplum_366": {
+    "associations": [
+      "chuchotis",
+      "souffle",
+      "ombre",
+      "vibration"
+    ],
+    "metaphores": [
+      "parfum d’péplum_366",
+      "chemin de péplum_366"
+    ],
+    "categorie": "transport",
+    "emoji": "🚲"
+  },
+  "péridot_367": {
+    "associations": [
+      "souffle",
+      "flux",
+      "écho",
+      "chuchotis"
+    ],
+    "metaphores": [
+      "parfum d’péridot_367",
+      "murmure de péridot_367"
+    ],
+    "categorie": "urbain",
+    "emoji": "🛣️"
+  },
+  "pétale_368": {
+    "associations": [
+      "flux",
+      "flamme",
+      "vibration",
+      "clair"
+    ],
+    "metaphores": [
+      "cœur de pétale_368",
+      "murmure de pétale_368"
+    ],
+    "categorie": "cosmos",
+    "emoji": "✨"
+  },
+  "pyrite_369": {
+    "associations": [
+      "écho",
+      "souffle",
+      "lueur",
+      "ombre"
+    ],
+    "metaphores": [
+      "chemin de pyrite_369",
+      "cœur de pyrite_369"
+    ],
+    "categorie": "matière",
+    "emoji": "💎"
+  },
+  "quasar_370": {
+    "associations": [
+      "vibration",
+      "souffle",
+      "écho",
+      "flux"
+    ],
+    "metaphores": [
+      "miroir de quasar_370",
+      "éclat d’quasar_370"
+    ],
+    "categorie": "temps",
+    "emoji": "📅"
+  },
+  "rapace_371": {
+    "associations": [
+      "ombre",
+      "flamme",
+      "flux",
+      "vibration"
+    ],
+    "metaphores": [
+      "parfum d’rapace_371",
+      "miroir de rapace_371"
+    ],
+    "categorie": "matière",
+    "emoji": "⚡"
+  },
+  "reflet_372": {
+    "associations": [
+      "écho",
+      "vibration",
+      "clair",
+      "ombre"
+    ],
+    "metaphores": [
+      "éclat d’reflet_372",
+      "murmure de reflet_372"
+    ],
+    "categorie": "motif",
+    "emoji": "🪞"
+  },
+  "rosace_373": {
+    "associations": [
+      "vibration",
+      "flamme",
+      "flux",
+      "chuchotis"
+    ],
+    "metaphores": [
+      "éclat d’rosace_373",
+      "cœur de rosace_373"
+    ],
+    "categorie": "motif",
+    "emoji": "🎭"
+  },
+  "rubis_374": {
+    "associations": [
+      "flamme",
+      "écho",
+      "clair",
+      "ombre"
+    ],
+    "metaphores": [
+      "éclat d’rubis_374",
+      "cœur de rubis_374"
+    ],
+    "categorie": "matière",
+    "emoji": "💧"
+  },
+  "saphir_375": {
+    "associations": [
+      "écho",
+      "clair",
+      "souffle",
+      "ombre"
+    ],
+    "metaphores": [
+      "chemin de saphir_375",
+      "miroir de saphir_375"
+    ],
+    "categorie": "émotion",
+    "emoji": "🌟"
+  },
+  "scintillement_376": {
+    "associations": [
+      "vibration",
+      "écho",
+      "flux",
+      "clair"
+    ],
+    "metaphores": [
+      "miroir de scintillement_376",
+      "chemin de scintillement_376"
+    ],
+    "categorie": "transport",
+    "emoji": "🚲"
+  },
+  "sémaphore_377": {
+    "associations": [
+      "écho",
+      "clair",
+      "lueur",
+      "flux"
+    ],
+    "metaphores": [
+      "parfum d’sémaphore_377",
+      "chemin de sémaphore_377"
+    ],
+    "categorie": "urbain",
+    "emoji": "🛣️"
+  },
+  "sépia_378": {
+    "associations": [
+      "chuchotis",
+      "lueur",
+      "écho",
+      "vibration"
+    ],
+    "metaphores": [
+      "murmure de sépia_378",
+      "miroir de sépia_378"
+    ],
+    "categorie": "cosmos",
+    "emoji": "🌑"
+  },
+  "serrure_379": {
+    "associations": [
+      "lueur",
+      "chuchotis",
+      "écho",
+      "clair"
+    ],
+    "metaphores": [
+      "parfum d’serrure_379",
+      "chemin de serrure_379"
+    ],
+    "categorie": "transport",
+    "emoji": "✈️"
+  },
+  "sirène_380": {
+    "associations": [
+      "écho",
+      "chuchotis",
+      "flamme",
+      "souffle"
+    ],
+    "metaphores": [
+      "cœur de sirène_380",
+      "miroir de sirène_380"
+    ],
+    "categorie": "matière",
+    "emoji": "⚡"
+  },
+  "sphère_381": {
+    "associations": [
+      "écho",
+      "chuchotis",
+      "vibration",
+      "flamme"
+    ],
+    "metaphores": [
+      "parfum d’sphère_381",
+      "miroir de sphère_381"
+    ],
+    "categorie": "nature",
+    "emoji": "🌲"
+  },
+  "spirale_382": {
+    "associations": [
+      "écho",
+      "ombre",
+      "lueur",
+      "souffle"
+    ],
+    "metaphores": [
+      "éclat d’spirale_382",
+      "cœur de spirale_382"
+    ],
+    "categorie": "lieu",
+    "emoji": "🗻"
+  },
+  "stalactite_383": {
+    "associations": [
+      "écho",
+      "lueur",
+      "souffle",
+      "chuchotis"
+    ],
+    "metaphores": [
+      "miroir de stalactite_383",
+      "chemin de stalactite_383"
+    ],
+    "categorie": "lieu",
+    "emoji": "🏞️"
+  },
+  "stalagmite_384": {
+    "associations": [
+      "vibration",
+      "ombre",
+      "écho",
+      "flamme"
+    ],
+    "metaphores": [
+      "éclat d’stalagmite_384",
+      "cœur de stalagmite_384"
+    ],
+    "categorie": "matière",
+    "emoji": "💧"
+  },
+  "symbole_385": {
+    "associations": [
+      "clair",
+      "écho",
+      "lueur",
+      "flux"
+    ],
+    "metaphores": [
+      "chemin de symbole_385",
+      "éclat d’symbole_385"
+    ],
+    "categorie": "motif",
+    "emoji": "🔮"
+  },
+  "tambour_386": {
+    "associations": [
+      "clair",
+      "vibration",
+      "lueur",
+      "flamme"
+    ],
+    "metaphores": [
+      "miroir de tambour_386",
+      "parfum d’tambour_386"
+    ],
+    "categorie": "expression",
+    "emoji": "💭"
+  },
+  "temple_387": {
+    "associations": [
+      "souffle",
+      "flamme",
+      "vibration",
+      "ombre"
+    ],
+    "metaphores": [
+      "murmure de temple_387",
+      "cœur de temple_387"
+    ],
+    "categorie": "émotion",
+    "emoji": "😌"
+  },
+  "torche_388": {
+    "associations": [
+      "chuchotis",
+      "flamme",
+      "souffle",
+      "lueur"
+    ],
+    "metaphores": [
+      "cœur de torche_388",
+      "murmure de torche_388"
+    ],
+    "categorie": "lieu",
+    "emoji": "🗻"
+  },
+  "torrent_389": {
+    "associations": [
+      "flux",
+      "flamme",
+      "écho",
+      "clair"
+    ],
+    "metaphores": [
+      "éclat d’torrent_389",
+      "parfum d’torrent_389"
+    ],
+    "categorie": "motif",
+    "emoji": "🪞"
+  },
+  "trilogue_390": {
+    "associations": [
+      "ombre",
+      "clair",
+      "écho",
+      "vibration"
+    ],
+    "metaphores": [
+      "murmure de trilogue_390",
+      "miroir de trilogue_390"
+    ],
+    "categorie": "expression",
+    "emoji": "💭"
+  },
+  "troglodyte_391": {
+    "associations": [
+      "clair",
+      "ombre",
+      "vibration",
+      "flux"
+    ],
+    "metaphores": [
+      "éclat d’troglodyte_391",
+      "murmure de troglodyte_391"
+    ],
+    "categorie": "cosmos",
+    "emoji": "✨"
+  },
+  "tulipe_392": {
+    "associations": [
+      "vibration",
+      "chuchotis",
+      "ombre",
+      "clair"
+    ],
+    "metaphores": [
+      "cœur de tulipe_392",
+      "parfum d’tulipe_392"
+    ],
+    "categorie": "nature",
+    "emoji": "🍂"
+  },
+  "valvule_393": {
+    "associations": [
+      "clair",
+      "écho",
+      "lueur",
+      "flamme"
+    ],
+    "metaphores": [
+      "cœur de valvule_393",
+      "éclat d’valvule_393"
+    ],
+    "categorie": "urbain",
+    "emoji": "🏙️"
+  },
+  "velar_394": {
+    "associations": [
+      "flux",
+      "flamme",
+      "clair",
+      "souffle"
+    ],
+    "metaphores": [
+      "murmure de velar_394",
+      "chemin de velar_394"
+    ],
+    "categorie": "motif",
+    "emoji": "🎭"
+  },
+  "vortex_395": {
+    "associations": [
+      "flamme",
+      "chuchotis",
+      "clair",
+      "vibration"
+    ],
+    "metaphores": [
+      "miroir de vortex_395",
+      "chemin de vortex_395"
+    ],
+    "categorie": "expression",
+    "emoji": "💭"
+  },
+  "xylème_396": {
+    "associations": [
+      "ombre",
+      "vibration",
+      "clair",
+      "chuchotis"
+    ],
+    "metaphores": [
+      "miroir de xylème_396",
+      "cœur de xylème_396"
+    ],
+    "categorie": "urbain",
+    "emoji": "🚦"
+  },
+  "yggdrasil_397": {
+    "associations": [
+      "souffle",
+      "chuchotis",
+      "flamme",
+      "ombre"
+    ],
+    "metaphores": [
+      "miroir de yggdrasil_397",
+      "chemin de yggdrasil_397"
+    ],
+    "categorie": "expression",
+    "emoji": "💭"
+  },
+  "zodiaque_398": {
+    "associations": [
+      "flamme",
+      "chuchotis",
+      "lueur",
+      "ombre"
+    ],
+    "metaphores": [
+      "chemin de zodiaque_398",
+      "éclat d’zodiaque_398"
+    ],
+    "categorie": "cosmos",
+    "emoji": "🌌"
+  },
+  "abysses_399": {
+    "associations": [
+      "flamme",
+      "flux",
+      "ombre",
+      "clair"
+    ],
+    "metaphores": [
+      "miroir de abysses_399",
+      "cœur de abysses_399"
+    ],
+    "categorie": "urbain",
+    "emoji": "🏗️"
+  },
+  "arcane_400": {
+    "associations": [
+      "vibration",
+      "flamme",
+      "souffle",
+      "flux"
+    ],
+    "metaphores": [
+      "murmure de arcane_400",
+      "chemin de arcane_400"
+    ],
+    "categorie": "transport",
+    "emoji": "🚆"
+  },
+  "aurochs_401": {
+    "associations": [
+      "vibration",
+      "flux",
+      "lueur",
+      "clair"
+    ],
+    "metaphores": [
+      "murmure de aurochs_401",
+      "chemin de aurochs_401"
+    ],
+    "categorie": "émotion",
+    "emoji": "🌟"
+  },
+  "basilic_402": {
+    "associations": [
+      "chuchotis",
+      "ombre",
+      "flamme",
+      "lueur"
+    ],
+    "metaphores": [
+      "éclat d’basilic_402",
+      "murmure de basilic_402"
+    ],
+    "categorie": "cosmos",
+    "emoji": "🌠"
+  },
+  "béryl_403": {
+    "associations": [
+      "souffle",
+      "flamme",
+      "ombre",
+      "vibration"
+    ],
+    "metaphores": [
+      "cœur de béryl_403",
+      "miroir de béryl_403"
+    ],
+    "categorie": "motif",
+    "emoji": "🔮"
+  },
+  "boréal_404": {
+    "associations": [
+      "flamme",
+      "souffle",
+      "lueur",
+      "vibration"
+    ],
+    "metaphores": [
+      "éclat d’boréal_404",
+      "cœur de boréal_404"
+    ],
+    "categorie": "nature",
+    "emoji": "🌻"
+  },
+  "calice_405": {
+    "associations": [
+      "flux",
+      "écho",
+      "souffle",
+      "chuchotis"
+    ],
+    "metaphores": [
+      "cœur de calice_405",
+      "parfum d’calice_405"
+    ],
+    "categorie": "urbain",
+    "emoji": "🛣️"
+  },
+  "chrysalide_406": {
+    "associations": [
+      "écho",
+      "vibration",
+      "ombre",
+      "clair"
+    ],
+    "metaphores": [
+      "murmure de chrysalide_406",
+      "chemin de chrysalide_406"
+    ],
+    "categorie": "émotion",
+    "emoji": "🌟"
+  },
+  "cyclone_407": {
+    "associations": [
+      "chuchotis",
+      "ombre",
+      "flux",
+      "clair"
+    ],
+    "metaphores": [
+      "chemin de cyclone_407",
+      "murmure de cyclone_407"
+    ],
+    "categorie": "nature",
+    "emoji": "🌸"
+  },
+  "éphémère_408": {
+    "associations": [
+      "souffle",
+      "clair",
+      "vibration",
+      "ombre"
+    ],
+    "metaphores": [
+      "murmure de éphémère_408",
+      "éclat d’éphémère_408"
+    ],
+    "categorie": "nature",
+    "emoji": "🌿"
+  },
+  "flamboiement_409": {
+    "associations": [
+      "vibration",
+      "écho",
+      "lueur",
+      "chuchotis"
+    ],
+    "metaphores": [
+      "chemin de flamboiement_409",
+      "cœur de flamboiement_409"
+    ],
+    "categorie": "transport",
+    "emoji": "🚢"
+  },
+  "glycine_410": {
+    "associations": [
+      "écho",
+      "chuchotis",
+      "flux",
+      "souffle"
+    ],
+    "metaphores": [
+      "éclat d’glycine_410",
+      "chemin de glycine_410"
+    ],
+    "categorie": "transport",
+    "emoji": "✈️"
+  },
+  "horizon intérieur_411": {
+    "associations": [
+      "lueur",
+      "chuchotis",
+      "vibration",
+      "écho"
+    ],
+    "metaphores": [
+      "éclat d’horizon intérieur_411",
+      "miroir de horizon intérieur_411"
+    ],
+    "categorie": "transport",
+    "emoji": "✈️"
+  },
+  "incandescence_412": {
+    "associations": [
+      "flamme",
+      "souffle",
+      "flux",
+      "ombre"
+    ],
+    "metaphores": [
+      "cœur de incandescence_412",
+      "chemin de incandescence_412"
+    ],
+    "categorie": "urbain",
+    "emoji": "🏗️"
+  },
+  "iris_413": {
+    "associations": [
+      "flamme",
+      "chuchotis",
+      "souffle",
+      "flux"
+    ],
+    "metaphores": [
+      "cœur de iris_413",
+      "miroir de iris_413"
+    ],
+    "categorie": "expression",
+    "emoji": "🎶"
+  },
+  "jade_414": {
+    "associations": [
+      "souffle",
+      "flamme",
+      "ombre",
+      "chuchotis"
+    ],
+    "metaphores": [
+      "miroir de jade_414",
+      "cœur de jade_414"
+    ],
+    "categorie": "cosmos",
+    "emoji": "🌌"
+  },
+  "kaléidoscope_415": {
+    "associations": [
+      "chuchotis",
+      "flux",
+      "écho",
+      "lueur"
+    ],
+    "metaphores": [
+      "chemin de kaléidoscope_415",
+      "miroir de kaléidoscope_415"
+    ],
+    "categorie": "émotion",
+    "emoji": "😡"
+  },
+  "labarum_416": {
+    "associations": [
+      "écho",
+      "chuchotis",
+      "flux",
+      "souffle"
+    ],
+    "metaphores": [
+      "cœur de labarum_416",
+      "chemin de labarum_416"
+    ],
+    "categorie": "transport",
+    "emoji": "🚢"
+  },
+  "lanterne_417": {
+    "associations": [
+      "vibration",
+      "clair",
+      "ombre",
+      "lueur"
+    ],
+    "metaphores": [
+      "éclat d’lanterne_417",
+      "parfum d’lanterne_417"
+    ],
+    "categorie": "temps",
+    "emoji": "🌞"
+  },
+  "lotus_418": {
+    "associations": [
+      "clair",
+      "chuchotis",
+      "écho",
+      "flux"
+    ],
+    "metaphores": [
+      "cœur de lotus_418",
+      "murmure de lotus_418"
+    ],
+    "categorie": "lieu",
+    "emoji": "🗻"
+  },
+  "luciole_419": {
+    "associations": [
+      "clair",
+      "lueur",
+      "vibration",
+      "chuchotis"
+    ],
+    "metaphores": [
+      "chemin de luciole_419",
+      "parfum d’luciole_419"
+    ],
+    "categorie": "expression",
+    "emoji": "🗣️"
+  },
+  "magma_420": {
+    "associations": [
+      "ombre",
+      "écho",
+      "flamme",
+      "clair"
+    ],
+    "metaphores": [
+      "murmure de magma_420",
+      "éclat d’magma_420"
+    ],
+    "categorie": "cosmos",
+    "emoji": "🌠"
+  },
+  "mandragore_421": {
+    "associations": [
+      "ombre",
+      "flux",
+      "souffle",
+      "lueur"
+    ],
+    "metaphores": [
+      "éclat d’mandragore_421",
+      "murmure de mandragore_421"
+    ],
+    "categorie": "matière",
+    "emoji": "🌪️"
+  },
+  "mélopée_422": {
+    "associations": [
+      "flux",
+      "souffle",
+      "chuchotis",
+      "clair"
+    ],
+    "metaphores": [
+      "éclat d’mélopée_422",
+      "miroir de mélopée_422"
+    ],
+    "categorie": "cosmos",
+    "emoji": "🌙"
+  },
+  "miroiterie_423": {
+    "associations": [
+      "ombre",
+      "chuchotis",
+      "écho",
+      "flux"
+    ],
+    "metaphores": [
+      "parfum d’miroiterie_423",
+      "cœur de miroiterie_423"
+    ],
+    "categorie": "transport",
+    "emoji": "🚢"
+  },
+  "nymphe_424": {
+    "associations": [
+      "ombre",
+      "souffle",
+      "flux",
+      "flamme"
+    ],
+    "metaphores": [
+      "miroir de nymphe_424",
+      "cœur de nymphe_424"
+    ],
+    "categorie": "cosmos",
+    "emoji": "✨"
+  },
+  "obsidienne_425": {
+    "associations": [
+      "vibration",
+      "flamme",
+      "ombre",
+      "clair"
+    ],
+    "metaphores": [
+      "parfum d’obsidienne_425",
+      "éclat d’obsidienne_425"
+    ],
+    "categorie": "cosmos",
+    "emoji": "🌙"
+  },
+  "ocelle_426": {
+    "associations": [
+      "clair",
+      "flamme",
+      "écho",
+      "flux"
+    ],
+    "metaphores": [
+      "murmure de ocelle_426",
+      "éclat d’ocelle_426"
+    ],
+    "categorie": "matière",
+    "emoji": "💎"
+  },
+  "ondine_427": {
+    "associations": [
+      "flux",
+      "flamme",
+      "souffle",
+      "ombre"
+    ],
+    "metaphores": [
+      "murmure de ondine_427",
+      "parfum d’ondine_427"
+    ],
+    "categorie": "motif",
+    "emoji": "🎭"
+  },
+  "opale_428": {
+    "associations": [
+      "flamme",
+      "clair",
+      "chuchotis",
+      "ombre"
+    ],
+    "metaphores": [
+      "miroir de opale_428",
+      "murmure de opale_428"
+    ],
+    "categorie": "cosmos",
+    "emoji": "🌌"
+  },
+  "orbe_429": {
+    "associations": [
+      "souffle",
+      "vibration",
+      "clair",
+      "flux"
+    ],
+    "metaphores": [
+      "parfum d’orbe_429",
+      "chemin de orbe_429"
+    ],
+    "categorie": "transport",
+    "emoji": "🚲"
+  },
+  "orchidée_430": {
+    "associations": [
+      "flamme",
+      "écho",
+      "chuchotis",
+      "lueur"
+    ],
+    "metaphores": [
+      "parfum d’orchidée_430",
+      "cœur de orchidée_430"
+    ],
+    "categorie": "émotion",
+    "emoji": "💫"
+  },
+  "palimpseste_431": {
+    "associations": [
+      "flamme",
+      "chuchotis",
+      "clair",
+      "flux"
+    ],
+    "metaphores": [
+      "parfum d’palimpseste_431",
+      "murmure de palimpseste_431"
+    ],
+    "categorie": "temps",
+    "emoji": "🌇"
+  },
+  "parchemin_432": {
+    "associations": [
+      "écho",
+      "clair",
+      "flux",
+      "flamme"
+    ],
+    "metaphores": [
+      "chemin de parchemin_432",
+      "murmure de parchemin_432"
+    ],
+    "categorie": "matière",
+    "emoji": "💧"
+  },
+  "phénix_433": {
+    "associations": [
+      "lueur",
+      "flux",
+      "vibration",
+      "flamme"
+    ],
+    "metaphores": [
+      "éclat d’phénix_433",
+      "chemin de phénix_433"
+    ],
+    "categorie": "expression",
+    "emoji": "🗣️"
+  },
+  "quartz_434": {
+    "associations": [
+      "vibration",
+      "flamme",
+      "chuchotis",
+      "écho"
+    ],
+    "metaphores": [
+      "parfum d’quartz_434",
+      "éclat d’quartz_434"
+    ],
+    "categorie": "cosmos",
+    "emoji": "✨"
+  },
+  "rafale_435": {
+    "associations": [
+      "clair",
+      "flamme",
+      "souffle",
+      "vibration"
+    ],
+    "metaphores": [
+      "parfum d’rafale_435",
+      "éclat d’rafale_435"
+    ],
+    "categorie": "motif",
+    "emoji": "🌀"
+  },
+  "résonance_436": {
+    "associations": [
+      "flamme",
+      "ombre",
+      "lueur",
+      "vibration"
+    ],
+    "metaphores": [
+      "chemin de résonance_436",
+      "cœur de résonance_436"
+    ],
+    "categorie": "temps",
+    "emoji": "🕰️"
+  },
+  "ruisselet_437": {
+    "associations": [
+      "chuchotis",
+      "lueur",
+      "souffle",
+      "flux"
+    ],
+    "metaphores": [
+      "éclat d’ruisselet_437",
+      "miroir de ruisselet_437"
+    ],
+    "categorie": "cosmos",
+    "emoji": "🌌"
+  },
+  "safran_438": {
+    "associations": [
+      "flux",
+      "chuchotis",
+      "écho",
+      "ombre"
+    ],
+    "metaphores": [
+      "chemin de safran_438",
+      "éclat d’safran_438"
+    ],
+    "categorie": "motif",
+    "emoji": "🎭"
+  },
+  "sélène_439": {
+    "associations": [
+      "vibration",
+      "chuchotis",
+      "clair",
+      "lueur"
+    ],
+    "metaphores": [
+      "murmure de sélène_439",
+      "éclat d’sélène_439"
+    ],
+    "categorie": "motif",
+    "emoji": "🌀"
+  },
+  "serpentin_440": {
+    "associations": [
+      "écho",
+      "souffle",
+      "ombre",
+      "vibration"
+    ],
+    "metaphores": [
+      "murmure de serpentin_440",
+      "cœur de serpentin_440"
+    ],
+    "categorie": "nature",
+    "emoji": "🌿"
+  },
+  "sillon_441": {
+    "associations": [
+      "clair",
+      "souffle",
+      "flux",
+      "vibration"
+    ],
+    "metaphores": [
+      "cœur de sillon_441",
+      "chemin de sillon_441"
+    ],
+    "categorie": "émotion",
+    "emoji": "😡"
+  },
+  "symphonie_442": {
+    "associations": [
+      "écho",
+      "clair",
+      "lueur",
+      "flux"
+    ],
+    "metaphores": [
+      "éclat d’symphonie_442",
+      "cœur de symphonie_442"
+    ],
+    "categorie": "urbain",
+    "emoji": "🏙️"
+  },
+  "topaze_443": {
+    "associations": [
+      "chuchotis",
+      "flux",
+      "écho",
+      "ombre"
+    ],
+    "metaphores": [
+      "chemin de topaze_443",
+      "cœur de topaze_443"
+    ],
+    "categorie": "urbain",
+    "emoji": "🚦"
+  },
+  "tourmaline_444": {
+    "associations": [
+      "flamme",
+      "chuchotis",
+      "écho",
+      "souffle"
+    ],
+    "metaphores": [
+      "chemin de tourmaline_444",
+      "parfum d’tourmaline_444"
+    ],
+    "categorie": "motif",
+    "emoji": "🪞"
+  },
+  "tremble_445": {
+    "associations": [
+      "flamme",
+      "ombre",
+      "écho",
+      "souffle"
+    ],
+    "metaphores": [
+      "miroir de tremble_445",
+      "murmure de tremble_445"
+    ],
+    "categorie": "nature",
+    "emoji": "🌿"
+  },
+  "turbine_446": {
+    "associations": [
+      "flux",
+      "lueur",
+      "souffle",
+      "flamme"
+    ],
+    "metaphores": [
+      "miroir de turbine_446",
+      "murmure de turbine_446"
+    ],
+    "categorie": "motif",
+    "emoji": "🔮"
+  },
+  "ultramarin_447": {
+    "associations": [
+      "vibration",
+      "ombre",
+      "lueur",
+      "chuchotis"
+    ],
+    "metaphores": [
+      "miroir de ultramarin_447",
+      "chemin de ultramarin_447"
+    ],
+    "categorie": "matière",
+    "emoji": "🌪️"
+  },
+  "utopie_448": {
+    "associations": [
+      "chuchotis",
+      "souffle",
+      "vibration",
+      "lueur"
+    ],
+    "metaphores": [
+      "cœur de utopie_448",
+      "miroir de utopie_448"
+    ],
+    "categorie": "cosmos",
+    "emoji": "🌠"
+  },
+  "velours_449": {
+    "associations": [
+      "lueur",
+      "flux",
+      "chuchotis",
+      "clair"
+    ],
+    "metaphores": [
+      "cœur de velours_449",
+      "parfum d’velours_449"
+    ],
+    "categorie": "transport",
+    "emoji": "🚢"
+  },
+  "vermeil_450": {
+    "associations": [
+      "écho",
+      "vibration",
+      "clair",
+      "flamme"
+    ],
+    "metaphores": [
+      "parfum d’vermeil_450",
+      "chemin de vermeil_450"
+    ],
+    "categorie": "matière",
+    "emoji": "⚡"
+  },
+  "vestige_451": {
+    "associations": [
+      "flux",
+      "ombre",
+      "écho",
+      "souffle"
+    ],
+    "metaphores": [
+      "cœur de vestige_451",
+      "chemin de vestige_451"
+    ],
+    "categorie": "matière",
+    "emoji": "🌪️"
+  },
+  "volute_452": {
+    "associations": [
+      "écho",
+      "lueur",
+      "flux",
+      "chuchotis"
+    ],
+    "metaphores": [
+      "éclat d’volute_452",
+      "murmure de volute_452"
+    ],
+    "categorie": "nature",
+    "emoji": "🌻"
+  },
+  "zéphyr_453": {
+    "associations": [
+      "chuchotis",
+      "souffle",
+      "clair",
+      "vibration"
+    ],
+    "metaphores": [
+      "murmure de zéphyr_453",
+      "cœur de zéphyr_453"
+    ],
+    "categorie": "expression",
+    "emoji": "🗣️"
+  },
+  "albatros_454": {
+    "associations": [
+      "souffle",
+      "clair",
+      "flux",
+      "écho"
+    ],
+    "metaphores": [
+      "éclat d’albatros_454",
+      "murmure de albatros_454"
+    ],
+    "categorie": "expression",
+    "emoji": "🎨"
+  },
+  "ambre_455": {
+    "associations": [
+      "écho",
+      "flux",
+      "chuchotis",
+      "clair"
+    ],
+    "metaphores": [
+      "éclat d’ambre_455",
+      "chemin de ambre_455"
+    ],
+    "categorie": "lieu",
+    "emoji": "🗻"
+  },
+  "améthyste_456": {
+    "associations": [
+      "flux",
+      "chuchotis",
+      "souffle",
+      "écho"
+    ],
+    "metaphores": [
+      "parfum d’améthyste_456",
+      "éclat d’améthyste_456"
+    ],
+    "categorie": "temps",
+    "emoji": "🕰️"
+  },
+  "anémone_457": {
+    "associations": [
+      "souffle",
+      "flux",
+      "clair",
+      "chuchotis"
+    ],
+    "metaphores": [
+      "miroir de anémone_457",
+      "cœur de anémone_457"
+    ],
+    "categorie": "temps",
+    "emoji": "⏳"
+  },
+  "auréole_458": {
+    "associations": [
+      "chuchotis",
+      "écho",
+      "ombre",
+      "lueur"
+    ],
+    "metaphores": [
+      "murmure de auréole_458",
+      "parfum d’auréole_458"
+    ],
+    "categorie": "nature",
+    "emoji": "🌾"
+  },
+  "azur_459": {
+    "associations": [
+      "écho",
+      "chuchotis",
+      "flamme",
+      "vibration"
+    ],
+    "metaphores": [
+      "cœur de azur_459",
+      "murmure de azur_459"
+    ],
+    "categorie": "matière",
+    "emoji": "💎"
+  },
+  "bambou_460": {
+    "associations": [
+      "flux",
+      "ombre",
+      "écho",
+      "vibration"
+    ],
+    "metaphores": [
+      "parfum d’bambou_460",
+      "murmure de bambou_460"
+    ],
+    "categorie": "expression",
+    "emoji": "🎨"
+  },
+  "baryton_461": {
+    "associations": [
+      "flux",
+      "clair",
+      "vibration",
+      "flamme"
+    ],
+    "metaphores": [
+      "chemin de baryton_461",
+      "éclat d’baryton_461"
+    ],
+    "categorie": "lieu",
+    "emoji": "🏠"
+  },
+  "bruissement_462": {
+    "associations": [
+      "lueur",
+      "flamme",
+      "clair",
+      "souffle"
+    ],
+    "metaphores": [
+      "éclat d’bruissement_462",
+      "parfum d’bruissement_462"
+    ],
+    "categorie": "transport",
+    "emoji": "🚆"
+  },
+  "camélia_463": {
+    "associations": [
+      "clair",
+      "chuchotis",
+      "écho",
+      "flux"
+    ],
+    "metaphores": [
+      "miroir de camélia_463",
+      "murmure de camélia_463"
+    ],
+    "categorie": "urbain",
+    "emoji": "🚦"
+  },
+  "caverne_464": {
+    "associations": [
+      "clair",
+      "lueur",
+      "vibration",
+      "flamme"
+    ],
+    "metaphores": [
+      "miroir de caverne_464",
+      "éclat d’caverne_464"
+    ],
+    "categorie": "expression",
+    "emoji": "🎶"
+  },
+  "chalice_465": {
+    "associations": [
+      "souffle",
+      "flux",
+      "clair",
+      "ombre"
+    ],
+    "metaphores": [
+      "cœur de chalice_465",
+      "murmure de chalice_465"
+    ],
+    "categorie": "temps",
+    "emoji": "📅"
+  },
+  "clair-obscur_466": {
+    "associations": [
+      "vibration",
+      "clair",
+      "lueur",
+      "souffle"
+    ],
+    "metaphores": [
+      "éclat d’clair-obscur_466",
+      "murmure de clair-obscur_466"
+    ],
+    "categorie": "lieu",
+    "emoji": "🗻"
+  },
+  "corolle_467": {
+    "associations": [
+      "flamme",
+      "ombre",
+      "souffle",
+      "vibration"
+    ],
+    "metaphores": [
+      "cœur de corolle_467",
+      "murmure de corolle_467"
+    ],
+    "categorie": "lieu",
+    "emoji": "🗻"
+  },
+  "cymbale_468": {
+    "associations": [
+      "ombre",
+      "flamme",
+      "vibration",
+      "souffle"
+    ],
+    "metaphores": [
+      "miroir de cymbale_468",
+      "éclat d’cymbale_468"
+    ],
+    "categorie": "transport",
+    "emoji": "🚢"
+  },
+  "désirade_469": {
+    "associations": [
+      "lueur",
+      "écho",
+      "chuchotis",
+      "clair"
+    ],
+    "metaphores": [
+      "murmure de désirade_469",
+      "cœur de désirade_469"
+    ],
+    "categorie": "matière",
+    "emoji": "🪨"
+  },
+  "émeraude_470": {
+    "associations": [
+      "vibration",
+      "ombre",
+      "clair",
+      "flux"
+    ],
+    "metaphores": [
+      "cœur de émeraude_470",
+      "éclat d’émeraude_470"
+    ],
+    "categorie": "matière",
+    "emoji": "💎"
+  },
+  "équin_471": {
+    "associations": [
+      "écho",
+      "clair",
+      "chuchotis",
+      "ombre"
+    ],
+    "metaphores": [
+      "éclat d’équin_471",
+      "chemin de équin_471"
+    ],
+    "categorie": "motif",
+    "emoji": "🔮"
+  },
+  "floraison_472": {
+    "associations": [
+      "lueur",
+      "écho",
+      "chuchotis",
+      "flamme"
+    ],
+    "metaphores": [
+      "cœur de floraison_472",
+      "parfum d’floraison_472"
+    ],
+    "categorie": "cosmos",
+    "emoji": "🌑"
+  },
+  "givre_473": {
+    "associations": [
+      "flamme",
+      "écho",
+      "souffle",
+      "lueur"
+    ],
+    "metaphores": [
+      "chemin de givre_473",
+      "parfum d’givre_473"
+    ],
+    "categorie": "cosmos",
+    "emoji": "🌑"
+  },
+  "havre_474": {
+    "associations": [
+      "chuchotis",
+      "flux",
+      "clair",
+      "vibration"
+    ],
+    "metaphores": [
+      "miroir de havre_474",
+      "cœur de havre_474"
+    ],
+    "categorie": "motif",
+    "emoji": "✨"
+  },
+  "ivoire_475": {
+    "associations": [
+      "flux",
+      "souffle",
+      "écho",
+      "ombre"
+    ],
+    "metaphores": [
+      "chemin de ivoire_475",
+      "éclat d’ivoire_475"
+    ],
+    "categorie": "transport",
+    "emoji": "🚆"
+  },
+  "jadeite_476": {
+    "associations": [
+      "flux",
+      "écho",
+      "vibration",
+      "chuchotis"
+    ],
+    "metaphores": [
+      "éclat d’jadeite_476",
+      "murmure de jadeite_476"
+    ],
+    "categorie": "expression",
+    "emoji": "💭"
+  },
+  "lacis_477": {
+    "associations": [
+      "flamme",
+      "lueur",
+      "souffle",
+      "flux"
+    ],
+    "metaphores": [
+      "éclat d’lacis_477",
+      "chemin de lacis_477"
+    ],
+    "categorie": "motif",
+    "emoji": "🎭"
+  },
+  "lagune_478": {
+    "associations": [
+      "flux",
+      "vibration",
+      "souffle",
+      "ombre"
+    ],
+    "metaphores": [
+      "parfum d’lagune_478",
+      "miroir de lagune_478"
+    ],
+    "categorie": "transport",
+    "emoji": "🚆"
+  },
+  "lançade_479": {
+    "associations": [
+      "clair",
+      "ombre",
+      "flamme",
+      "lueur"
+    ],
+    "metaphores": [
+      "miroir de lançade_479",
+      "murmure de lançade_479"
+    ],
+    "categorie": "nature",
+    "emoji": "🌻"
+  },
+  "lyre_480": {
+    "associations": [
+      "flamme",
+      "écho",
+      "clair",
+      "souffle"
+    ],
+    "metaphores": [
+      "cœur de lyre_480",
+      "parfum d’lyre_480"
+    ],
+    "categorie": "lieu",
+    "emoji": "🏞️"
+  },
+  "magenta_481": {
+    "associations": [
+      "chuchotis",
+      "flux",
+      "écho",
+      "clair"
+    ],
+    "metaphores": [
+      "cœur de magenta_481",
+      "murmure de magenta_481"
+    ],
+    "categorie": "transport",
+    "emoji": "🚢"
+  },
+  "mésange_482": {
+    "associations": [
+      "vibration",
+      "souffle",
+      "ombre",
+      "flux"
+    ],
+    "metaphores": [
+      "cœur de mésange_482",
+      "éclat d’mésange_482"
+    ],
+    "categorie": "transport",
+    "emoji": "🚲"
+  },
+  "mirador_483": {
+    "associations": [
+      "vibration",
+      "flamme",
+      "écho",
+      "chuchotis"
+    ],
+    "metaphores": [
+      "éclat d’mirador_483",
+      "cœur de mirador_483"
+    ],
+    "categorie": "cosmos",
+    "emoji": "🌠"
+  },
+  "moiré_484": {
+    "associations": [
+      "clair",
+      "flamme",
+      "ombre",
+      "écho"
+    ],
+    "metaphores": [
+      "miroir de moiré_484",
+      "chemin de moiré_484"
+    ],
+    "categorie": "transport",
+    "emoji": "🚢"
+  },
+  "muse_485": {
+    "associations": [
+      "écho",
+      "chuchotis",
+      "flamme",
+      "ombre"
+    ],
+    "metaphores": [
+      "cœur de muse_485",
+      "murmure de muse_485"
+    ],
+    "categorie": "transport",
+    "emoji": "🚢"
+  },
+  "nacelle_486": {
+    "associations": [
+      "ombre",
+      "clair",
+      "chuchotis",
+      "souffle"
+    ],
+    "metaphores": [
+      "parfum d’nacelle_486",
+      "miroir de nacelle_486"
+    ],
+    "categorie": "expression",
+    "emoji": "🎶"
+  },
+  "nectar_487": {
+    "associations": [
+      "flamme",
+      "clair",
+      "flux",
+      "vibration"
+    ],
+    "metaphores": [
+      "murmure de nectar_487",
+      "éclat d’nectar_487"
+    ],
+    "categorie": "expression",
+    "emoji": "🗣️"
+  },
+  "néant_488": {
+    "associations": [
+      "chuchotis",
+      "flamme",
+      "lueur",
+      "ombre"
+    ],
+    "metaphores": [
+      "parfum d’néant_488",
+      "chemin de néant_488"
+    ],
+    "categorie": "nature",
+    "emoji": "🌾"
+  },
+  "nymphéa_489": {
+    "associations": [
+      "flamme",
+      "ombre",
+      "vibration",
+      "écho"
+    ],
+    "metaphores": [
+      "parfum d’nymphéa_489",
+      "miroir de nymphéa_489"
+    ],
+    "categorie": "expression",
+    "emoji": "💭"
+  },
+  "obélisque_490": {
+    "associations": [
+      "flux",
+      "lueur",
+      "ombre",
+      "écho"
+    ],
+    "metaphores": [
+      "chemin de obélisque_490",
+      "murmure de obélisque_490"
+    ],
+    "categorie": "cosmos",
+    "emoji": "☄️"
+  },
+  "ocre_491": {
+    "associations": [
+      "flux",
+      "souffle",
+      "flamme",
+      "ombre"
+    ],
+    "metaphores": [
+      "chemin de ocre_491",
+      "éclat d’ocre_491"
+    ],
+    "categorie": "cosmos",
+    "emoji": "☄️"
+  },
+  "onde_492": {
+    "associations": [
+      "clair",
+      "ombre",
+      "flux",
+      "écho"
+    ],
+    "metaphores": [
+      "miroir de onde_492",
+      "murmure de onde_492"
+    ],
+    "categorie": "transport",
+    "emoji": "🚲"
+  },
+  "oratorio_493": {
+    "associations": [
+      "clair",
+      "flux",
+      "lueur",
+      "souffle"
+    ],
+    "metaphores": [
+      "chemin de oratorio_493",
+      "cœur de oratorio_493"
+    ],
+    "categorie": "nature",
+    "emoji": "🍃"
+  },
+  "oxygène_494": {
+    "associations": [
+      "souffle",
+      "chuchotis",
+      "vibration",
+      "ombre"
+    ],
+    "metaphores": [
+      "chemin de oxygène_494",
+      "cœur de oxygène_494"
+    ],
+    "categorie": "matière",
+    "emoji": "⚡"
+  },
+  "palais_495": {
+    "associations": [
+      "souffle",
+      "flux",
+      "lueur",
+      "vibration"
+    ],
+    "metaphores": [
+      "murmure de palais_495",
+      "parfum d’palais_495"
+    ],
+    "categorie": "émotion",
+    "emoji": "🌟"
+  },
+  "panache_496": {
+    "associations": [
+      "écho",
+      "lueur",
+      "vibration",
+      "clair"
+    ],
+    "metaphores": [
+      "miroir de panache_496",
+      "murmure de panache_496"
+    ],
+    "categorie": "matière",
+    "emoji": "⚡"
+  },
+  "parfum_497": {
+    "associations": [
+      "clair",
+      "souffle",
+      "écho",
+      "vibration"
+    ],
+    "metaphores": [
+      "parfum d’parfum_497",
+      "éclat d’parfum_497"
+    ],
+    "categorie": "expression",
+    "emoji": "🗣️"
+  },
+  "pastel_498": {
+    "associations": [
+      "écho",
+      "clair",
+      "vibration",
+      "chuchotis"
+    ],
+    "metaphores": [
+      "chemin de pastel_498",
+      "parfum d’pastel_498"
+    ],
+    "categorie": "lieu",
+    "emoji": "🏞️"
+  },
+  "péplum_499": {
+    "associations": [
+      "chuchotis",
+      "écho",
+      "flamme",
+      "vibration"
+    ],
+    "metaphores": [
+      "éclat d’péplum_499",
+      "miroir de péplum_499"
+    ],
+    "categorie": "temps",
+    "emoji": "⏰"
+  }
 }
+
+
