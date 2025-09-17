@@ -1,7 +1,242 @@
 {
-  "nature": ["forêt","arbre","feuille","racine","branche","mousse","sève","clairière","herbe","prairie","champ","rivière","source","cascade","pluie","rosée","brume","nuage","vent","souffle","orage","tonnerre","éclair","flamme","braise","cendre","étincelle","feu","volcan","mer","océan","vague","écume","abîme","sable","dune","coquillage","perle","nacre","huître","rocher","falaise","montagne","colline","vallée","désert","étoile","astre","lune","soleil","aurore","crépuscule","nuit","jour","minuit","matin","horizon","ciel","firmament","cosmos","galaxie","constellation"],
-  "temps": ["mémoire","souvenir","passé","avenir","présent","instant","éternité","fugace","éphémère","cycle","saison","printemps","été","automne","hiver","solstice","équinoxe","sablier","horloge","pendule","cloche","veille","attente","voyage","errance"],
-  "émotions": ["amour","tendresse","désir","passion","ardeur","flamme","cœur","âme","esprit","rêve","songe","chimère","illusion","vision","extase","ivresse","silence","murmure","soupir","larme","sourire","éclat","cri","voix","chant","mélodie","harmonie","poésie","mystère","secret","énigme","vertige","ombre","lumière","reflet","miroir","transparence","voile","brisure"],
-  "symboles": ["temple","cathédrale","sanctuaire","autel","prière","offrande","oracle","prophétie","mythe","légende","fable","épopée","destin","sort","hasard","fortune","voyageur","pèlerin","exil","refuge","abri","seuil","porte","clef","labyrinthe","chemin","route","passerelle","arche","pont","navire","barque","voilier","phare","île","jardin","rose","lys","lotus","violette","myosotis","iris","parfum","encens","flûte","lyre","harpe","tambour","danse","rituel","transe","cercle","spirale"],
-  "matières": ["or","argent","cuivre","cristal","verre","gemme","rubis","saphir","émeraude","diamant","opale","topaze","rayonnement","scintillement","irisation"]
+  "nuit": {
+    "associations": ["étoile", "lune", "ombre", "silence", "rêve"],
+    "metaphores": ["manteau d’ombre", "toile constellée"],
+    "categorie": "temps",
+    "emoji": "🌙"
+  },
+  "jour": {
+    "associations": ["soleil", "aurore", "lumière", "matin", "clarté"],
+    "metaphores": ["fleur de lumière", "peau dorée du temps"],
+    "categorie": "temps",
+    "emoji": "☀️"
+  },
+  "rêve": {
+    "associations": ["songe", "chimère", "illusion", "mémoire", "cauchemar"],
+    "metaphores": ["théâtre intérieur", "jardin des songes"],
+    "categorie": "psyché",
+    "emoji": "💭"
+  },
+  "mer": {
+    "associations": ["océan", "vague", "écume", "abîme", "sable"],
+    "metaphores": ["mère bleue", "miroir mouvant"],
+    "categorie": "nature",
+    "emoji": "🌊"
+  },
+  "feu": {
+    "associations": ["flamme", "braise", "cendre", "volcan", "ardeur"],
+    "metaphores": ["souffle ardent", "danse des flammes"],
+    "categorie": "élément",
+    "emoji": "🔥"
+  },
+  "forêt": {
+    "associations": ["arbre", "racine", "ombre", "clairière", "chant"],
+    "metaphores": ["cathédrale verte", "refuge des ombres"],
+    "categorie": "nature",
+    "emoji": "🌲"
+  },
+  "lune": {
+    "associations": ["astre", "nuit", "clair de lune", "cycle", "reflet"],
+    "metaphores": ["perle du ciel", "voyageuse muette"],
+    "categorie": "cosmos",
+    "emoji": "🌕"
+  },
+  "soleil": {
+    "associations": ["jour", "aurore", "chaleur", "or", "flamme"],
+    "metaphores": ["cœur du ciel", "forgeron du temps"],
+    "categorie": "cosmos",
+    "emoji": "🌞"
+  },
+  "étoile": {
+    "associations": ["ciel", "nuit", "constellation", "astre", "galaxie"],
+    "metaphores": ["fleur de lumière", "poussière d’éternité"],
+    "categorie": "cosmos",
+    "emoji": "⭐"
+  },
+  "océan": {
+    "associations": ["mer", "abîme", "écume", "infini", "tempête"],
+    "metaphores": ["respiration du monde", "miroir liquide"],
+    "categorie": "nature",
+    "emoji": "🌊"
+  },
+  "vent": {
+    "associations": ["souffle", "orage", "pluie", "nuage", "tempête"],
+    "metaphores": ["messager invisible", "danseur des cimes"],
+    "categorie": "élément",
+    "emoji": "💨"
+  },
+  "pluie": {
+    "associations": ["rosée", "orage", "nuage", "rivière", "larme"],
+    "metaphores": ["chant des nuages", "mélodie des larmes"],
+    "categorie": "nature",
+    "emoji": "🌧️"
+  },
+  "rosée": {
+    "associations": ["pluie", "fleur", "herbe", "matin", "perle"],
+    "metaphores": ["diamants de l’aube", "soupirs de la nuit"],
+    "categorie": "nature",
+    "emoji": "💧"
+  },
+  "fleur": {
+    "associations": ["rose", "lys", "parfum", "printemps", "pétale"],
+    "metaphores": ["sourire de la terre", "éphémère offrande"],
+    "categorie": "nature",
+    "emoji": "🌸"
+  },
+  "rose": {
+    "associations": ["épine", "rouge", "fleur", "amour", "parfum"],
+    "metaphores": ["reine des jardins", "flamme parfumée"],
+    "categorie": "nature",
+    "emoji": "🌹"
+  },
+  "lys": {
+    "associations": ["pureté", "fleur", "blanc", "parfum", "royauté"],
+    "metaphores": ["flamme blanche", "sceptre du jardin"],
+    "categorie": "nature",
+    "emoji": "⚜️"
+  },
+  "diamant": {
+    "associations": ["gemme", "cristal", "lumière", "étincelle", "or"],
+    "metaphores": ["lumière pétrifiée", "éclair captif"],
+    "categorie": "matière",
+    "emoji": "💎"
+  },
+  "perle": {
+    "associations": ["nacre", "huître", "océan", "coquillage", "larme"],
+    "metaphores": ["larme de la mer", "trésor caché"],
+    "categorie": "matière",
+    "emoji": "🪼"
+  },
+  "ombre": {
+    "associations": ["nuit", "silence", "secret", "reflet", "voile"],
+    "metaphores": ["danse du mystère", "compagne muette"],
+    "categorie": "psyché",
+    "emoji": "🌑"
+  },
+  "silence": {
+    "associations": ["ombre", "voix", "murmure", "nuit", "vide"],
+    "metaphores": ["or invisible", "océan immobile"],
+    "categorie": "psyché",
+    "emoji": "🤫"
+  },
+  "souvenir": {
+    "associations": ["mémoire", "temps", "passé", "rêve", "photo"],
+    "metaphores": ["fleur séchée", "trace de lumière"],
+    "categorie": "temps",
+    "emoji": "🕰️"
+  },
+  "temps": {
+    "associations": ["mémoire", "instant", "éternité", "sablier", "cycle"],
+    "metaphores": ["sculpteur invisible", "fleuve sans fin"],
+    "categorie": "temps",
+    "emoji": "⌛"
+  },
+  "éternité": {
+    "associations": ["temps", "infini", "immortel", "souvenir", "univers"],
+    "metaphores": ["manteau d’étoiles", "respiration du cosmos"],
+    "categorie": "temps",
+    "emoji": "♾️"
+  },
+  "voyage": {
+    "associations": ["chemin", "route", "errance", "pèlerin", "exil"],
+    "metaphores": ["quête sans fin", "danse des horizons"],
+    "categorie": "symboles",
+    "emoji": "🧭"
+  },
+  "chemin": {
+    "associations": ["route", "voyage", "passerelle", "seuil", "labyrinthe"],
+    "metaphores": ["ligne du destin", "fil de l’aventure"],
+    "categorie": "symboles",
+    "emoji": "🛤️"
+  },
+  "labyrinthe": {
+    "associations": ["mystère", "porte", "chemin", "secret", "seuil"],
+    "metaphores": ["spirale du destin", "forêt de pierres"],
+    "categorie": "symboles",
+    "emoji": "🌀"
+  },
+  "porte": {
+    "associations": ["seuil", "clé", "mystère", "refuge", "voyage"],
+    "metaphores": ["bouche du monde", "passage secret"],
+    "categorie": "symboles",
+    "emoji": "🚪"
+  },
+  "clé": {
+    "associations": ["porte", "coffre", "secret", "labyrinthe", "verrou"],
+    "metaphores": ["lumière de métal", "sésame des mondes"],
+    "categorie": "symboles",
+    "emoji": "🗝️"
+  },
+  "âme": {
+    "associations": ["cœur", "esprit", "rêve", "mémoire", "silence"],
+    "metaphores": ["miroir intérieur", "flamme cachée"],
+    "categorie": "psyché",
+    "emoji": "🪽"
+  },
+  "cœur": {
+    "associations": ["amour", "âme", "ardeur", "flamme", "vie"],
+    "metaphores": ["fleur rouge", "tambour de l’être"],
+    "categorie": "psyché",
+    "emoji": "❤️"
+  },
+  "flamme": {
+    "associations": ["feu", "ardeur", "braise", "cœur", "lumière"],
+    "metaphores": ["danse d’or", "souffle brûlant"],
+    "categorie": "élément",
+    "emoji": "🔥"
+  },
+  "montagne": {
+    "associations": ["colline", "vallée", "rocher", "neige", "sommet"],
+    "metaphores": ["dorsale du monde", "autel de pierre"],
+    "categorie": "nature",
+    "emoji": "⛰️"
+  },
+  "neige": {
+    "associations": ["hiver", "montagne", "froid", "cristal", "flocon"],
+    "metaphores": ["manteau blanc", "souffle glacé"],
+    "categorie": "nature",
+    "emoji": "❄️"
+  },
+  "printemps": {
+    "associations": ["fleur", "lys", "prairie", "aurore", "vie"],
+    "metaphores": ["chant du renouveau", "symphonie verte"],
+    "categorie": "temps",
+    "emoji": "🌱"
+  },
+  "automne": {
+    "associations": ["feuille", "brume", "souvenir", "forêt", "vent"],
+    "metaphores": ["feu de l’oubli", "tapis de cendres"],
+    "categorie": "temps",
+    "emoji": "🍂"
+  },
+  "hiver": {
+    "associations": ["neige", "froid", "glace", "nuit", "sommeil"],
+    "metaphores": ["sommeil du monde", "souffle blanc"],
+    "categorie": "temps",
+    "emoji": "🥶"
+  },
+  "aurore": {
+    "associations": ["matin", "jour", "soleil", "lumière", "espoir"],
+    "metaphores": ["fleur de feu", "promesse du jour"],
+    "categorie": "temps",
+    "emoji": "🌅"
+  },
+  "crépuscule": {
+    "associations": ["soir", "nuit", "lumière", "ombre", "reflet"],
+    "metaphores": ["cendre du jour", "baiser du soleil"],
+    "categorie": "temps",
+    "emoji": "🌇"
+  },
+  "chant": {
+    "associations": ["voix", "mélodie", "harmonie", "poésie", "cri"],
+    "metaphores": ["tissu d’air", "lumière sonore"],
+    "categorie": "art",
+    "emoji": "🎶"
+  },
+  "poésie": {
+    "associations": ["rêve", "métaphore", "chant", "harmonie", "art"],
+    "metaphores": ["danse des mots", "miroir de l’âme"],
+    "categorie": "art",
+    "emoji": "📝"
+  }
 }
