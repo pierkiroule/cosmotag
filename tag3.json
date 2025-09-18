@@ -1,0 +1,12 @@
+{
+  "nuit": { "genre": "f", "article": "la" },
+  "silence": { "genre": "m", "article": "le" },
+  "étoile": { "genre": "f", "article": "l’" },
+  "rêve": { "genre": "m", "article": "le" },
+  "lune": { "genre": "f", "article": "la" },
+  "océan": { "genre": "m", "article": "l’" },
+  "forêt": { "genre": "f", "article": "la" },
+  "vent": { "genre": "m", "article": "le" },
+  "pluie": { "genre": "f", "article": "la" },
+  "horizon": { "genre": "m", "article": "l’" }
+}
