@@ -1,18 +1,45 @@
 const PoemOutput = ({ poem, onClose }) => {
   if (!poem) return null;
 
+  const handleCardClick = (event) => {
+    event.stopPropagation();
+  };
+
   return (
     <div
-      className="absolute inset-0 bg-black/70 z-20 flex items-center justify-center cursor-pointer"
+      className="absolute inset-0 z-30 flex items-center justify-center"
       onClick={onClose}
     >
-      <div className="w-full max-w-lg p-8 bg-slate-800/50 rounded-2xl backdrop-blur-lg">
-        <p className="text-center text-xl text-teal-100 whitespace-pre-wrap font-serif leading-relaxed">
+      <div className="absolute inset-0 bg-slate-950/80 backdrop-blur-xl" aria-hidden="true" />
+      <div className="starfield" aria-hidden="true" />
+      <div className="starfield starfield--slow" aria-hidden="true" />
+      <div className="constellation-overlay" aria-hidden="true" />
+
+      <div
+        role="dialog"
+        aria-live="polite"
+        className="poem-card relative z-10 w-[min(92vw,34rem)] rounded-3xl px-8 py-10 text-center"
+        onClick={handleCardClick}
+      >
+        <div className="absolute -top-14 left-1/2 flex h-20 w-20 -translate-x-1/2 items-center justify-center rounded-full border border-teal-100/40 bg-gradient-to-br from-teal-400/30 via-cyan-400/20 to-indigo-500/40 text-3xl text-teal-100 shadow-[0_0_35px_rgba(34,211,238,0.35)]">
+          ✦
+        </div>
+
+        <div className="mt-6 whitespace-pre-wrap text-left font-serif text-lg leading-relaxed text-teal-100 drop-shadow-[0_4px_24px_rgba(8,47,73,0.65)]">
           {poem}
+        </div>
+
+        <p className="mt-8 text-[0.65rem] uppercase tracking-[0.5em] text-slate-200/70">
+          Touchez la nuit ou fermez le sceau pour dissiper l'infusion
         </p>
-        <p className="text-center text-xs text-gray-400 mt-6 animate-pulse">
-          (Cliquez pour fermer)
-        </p>
+
+        <button
+          type="button"
+          onClick={onClose}
+          className="poem-close"
+        >
+          Refermer le sceau
+        </button>
       </div>
     </div>
   );
