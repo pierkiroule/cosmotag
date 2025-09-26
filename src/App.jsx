@@ -9,28 +9,28 @@ import PoemOutput from './components/PoemOutput';
 const colorPalettes = [
   {
     gradient:
-      'linear-gradient(135deg, rgba(45,212,191,0.75) 0%, rgba(56,189,248,0.6) 45%, rgba(129,140,248,0.65) 100%)',
-    glow: '0 0 32px rgba(56, 189, 248, 0.45)',
+      'linear-gradient(135deg, rgba(56, 189, 248, 0.75) 0%, rgba(37, 99, 235, 0.65) 48%, rgba(79, 70, 229, 0.6) 100%)',
+    glow: '0 0 32px rgba(37, 99, 235, 0.45)',
   },
   {
     gradient:
-      'linear-gradient(145deg, rgba(103,232,249,0.65) 0%, rgba(94,234,212,0.55) 45%, rgba(251,191,36,0.45) 100%)',
-    glow: '0 0 28px rgba(94, 234, 212, 0.45)',
+      'linear-gradient(150deg, rgba(96, 165, 250, 0.7) 0%, rgba(59, 130, 246, 0.6) 50%, rgba(129, 140, 248, 0.55) 100%)',
+    glow: '0 0 30px rgba(96, 165, 250, 0.45)',
   },
   {
     gradient:
-      'linear-gradient(135deg, rgba(59,130,246,0.65) 0%, rgba(165,243,252,0.55) 55%, rgba(192,132,252,0.55) 100%)',
-    glow: '0 0 30px rgba(165, 243, 252, 0.4)',
+      'linear-gradient(140deg, rgba(59, 130, 246, 0.65) 0%, rgba(56, 189, 248, 0.55) 42%, rgba(165, 180, 252, 0.55) 100%)',
+    glow: '0 0 30px rgba(165, 180, 252, 0.4)',
   },
   {
     gradient:
-      'linear-gradient(150deg, rgba(45,212,191,0.65) 0%, rgba(16,185,129,0.6) 45%, rgba(250,204,21,0.45) 100%)',
-    glow: '0 0 30px rgba(16, 185, 129, 0.45)',
+      'linear-gradient(160deg, rgba(30, 64, 175, 0.7) 0%, rgba(37, 99, 235, 0.6) 40%, rgba(14, 165, 233, 0.55) 100%)',
+    glow: '0 0 28px rgba(59, 130, 246, 0.45)',
   },
   {
     gradient:
-      'linear-gradient(140deg, rgba(56,189,248,0.55) 0%, rgba(59,130,246,0.55) 50%, rgba(79,70,229,0.55) 100%)',
-    glow: '0 0 28px rgba(79, 70, 229, 0.45)',
+      'linear-gradient(145deg, rgba(129, 140, 248, 0.6) 0%, rgba(79, 70, 229, 0.6) 52%, rgba(59, 130, 246, 0.55) 100%)',
+    glow: '0 0 28px rgba(129, 140, 248, 0.45)',
   },
 ];
 
@@ -163,16 +163,16 @@ function App() {
       </TreeCanvas>
 
       <header className="relative z-20 mx-auto flex max-w-4xl flex-col items-center gap-4 px-6 pt-16 text-center">
-        <div className="flex items-center gap-3 text-[0.65rem] uppercase tracking-[0.5em] text-teal-200/70">
-          <span className="inline-flex h-7 w-7 items-center justify-center rounded-full border border-teal-200/50 bg-teal-500/20 text-[0.6rem] text-teal-50 shadow-[0_0_20px_rgba(56,189,248,0.35)]">
+        <div className="flex items-center gap-3 text-[0.65rem] uppercase tracking-[0.5em] text-sky-200/70">
+          <span className="inline-flex h-7 w-7 items-center justify-center rounded-full border border-sky-200/50 bg-sky-500/20 text-[0.6rem] text-sky-50 shadow-[0_0_20px_rgba(59,130,246,0.35)]">
             ✺
           </span>
           <span>Atelier Hypnotique</span>
         </div>
-        <h1 className="bg-gradient-to-r from-teal-200 via-cyan-200 to-indigo-200 bg-clip-text text-4xl font-serif text-transparent drop-shadow-[0_10px_45px_rgba(13,148,136,0.35)] md:text-[3.6rem]">
+        <h1 className="bg-gradient-to-r from-sky-200 via-blue-200 to-indigo-200 bg-clip-text text-4xl font-serif text-transparent drop-shadow-[0_10px_45px_rgba(30,64,175,0.35)] md:text-[3.6rem]">
           HypnoTea
         </h1>
-        <p className="max-w-2xl text-sm text-slate-200/80 md:text-base">
+        <p className="max-w-2xl text-sm text-slate-200/85 md:text-base">
           Chaque feuille capturée est une note dans votre infusion cosmique. Composez trois accords et laissez l&apos;aurore dévoiler votre poème.
         </p>
       </header>

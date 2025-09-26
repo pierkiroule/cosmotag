@@ -21,11 +21,11 @@ const PoemOutput = ({ poem, onClose }) => {
         className="poem-card relative z-10 w-[min(92vw,34rem)] rounded-3xl px-8 py-10 text-center"
         onClick={handleCardClick}
       >
-        <div className="absolute -top-14 left-1/2 flex h-20 w-20 -translate-x-1/2 items-center justify-center rounded-full border border-teal-100/40 bg-gradient-to-br from-teal-400/30 via-cyan-400/20 to-indigo-500/40 text-3xl text-teal-100 shadow-[0_0_35px_rgba(34,211,238,0.35)]">
+        <div className="absolute -top-14 left-1/2 flex h-20 w-20 -translate-x-1/2 items-center justify-center rounded-full border border-sky-100/40 bg-gradient-to-br from-sky-400/30 via-blue-400/20 to-indigo-500/40 text-3xl text-sky-100 shadow-[0_0_35px_rgba(96,165,250,0.35)]">
           ✦
         </div>
 
-        <div className="mt-6 whitespace-pre-wrap text-left font-serif text-lg leading-relaxed text-teal-100 drop-shadow-[0_4px_24px_rgba(8,47,73,0.65)]">
+        <div className="mt-6 whitespace-pre-wrap text-left font-serif text-lg leading-relaxed text-sky-100 drop-shadow-[0_4px_24px_rgba(15,23,42,0.65)]">
           {poem}
         </div>
 
