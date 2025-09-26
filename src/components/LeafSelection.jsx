@@ -8,8 +8,8 @@ const LeafSelection = ({ selectedLeaves, onInfuse, canInfuse, hint }) => {
     <div className="selection-panel absolute bottom-10 left-1/2 z-20 w-[min(92vw,34rem)] -translate-x-1/2 rounded-3xl px-6 py-6 md:px-8 md:py-7">
       <div className="flex flex-col gap-4">
         <div className="flex flex-col items-center text-center">
-          <span className="text-[0.65rem] uppercase tracking-[0.4em] text-teal-200/70">Votre cueillette</span>
-          <p className="mt-2 max-w-xl text-xs text-slate-200/80 md:text-sm" aria-live="polite">
+          <span className="text-[0.65rem] uppercase tracking-[0.4em] text-sky-200/70">Votre cueillette</span>
+          <p className="mt-2 max-w-xl text-xs text-slate-200/85 md:text-sm" aria-live="polite">
             {hint}
           </p>
         </div>
@@ -27,7 +27,7 @@ const LeafSelection = ({ selectedLeaves, onInfuse, canInfuse, hint }) => {
 
         <div className="relative mt-1 h-1.5 w-full overflow-hidden rounded-full bg-white/10">
           <div
-            className="absolute inset-y-0 left-0 rounded-full bg-gradient-to-r from-emerald-300 via-cyan-300 to-indigo-300 transition-all duration-700"
+            className="absolute inset-y-0 left-0 rounded-full bg-gradient-to-r from-sky-300 via-blue-300 to-indigo-400 transition-all duration-700"
             style={{ width: `${progress}%` }}
           />
         </div>
