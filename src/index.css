@@ -8,7 +8,10 @@
 
 @layer base {
   body {
-    @apply bg-slate-950 text-white antialiased;
+    background-color: rgb(2 6 23);
+    color: #ffffff;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
   }
 }
 
