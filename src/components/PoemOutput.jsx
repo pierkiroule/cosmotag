@@ -10,7 +10,7 @@ const PoemOutput = ({ poem, onClose }) => {
       className="absolute inset-0 z-30 flex items-center justify-center"
       onClick={onClose}
     >
-      <div className="absolute inset-0 bg-slate-950/80 backdrop-blur-xl" aria-hidden="true" />
+      <div className="absolute inset-0 bg-slate-800/80 backdrop-blur-xl" aria-hidden="true" />
       <div className="starfield" aria-hidden="true" />
       <div className="starfield starfield--slow" aria-hidden="true" />
       <div className="constellation-overlay" aria-hidden="true" />
