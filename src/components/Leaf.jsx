@@ -1,4 +1,4 @@
-const Leaf = ({ leaf, onClick, isSelected }) => {
+const Leaf = ({ leaf, onClick, isSelected, isAvailable = true, isHighlighted = false }) => {
   const { layout, visual } = leaf;
 
   const style = {
@@ -18,19 +18,37 @@ const Leaf = ({ leaf, onClick, isSelected }) => {
     '--float-rise': visual.floatRise,
     '--float-tilt': visual.floatTilt,
     '--halo-delay': `${visual.haloDelay}s`,
+    '--leaf-pulse': leaf.dailyPulse ?? 0.6,
   };
+
+  const className = [
+    'leaf-orb',
+    isSelected ? 'is-selected' : '',
+    !isAvailable && !isSelected ? 'is-unavailable' : '',
+    isHighlighted ? 'is-highlighted' : '',
+  ]
+    .filter(Boolean)
+    .join(' ');
 
   return (
     <button
       type="button"
       onClick={() => onClick(leaf)}
       aria-pressed={isSelected}
-      aria-label={`Feuille ${leaf.word}`}
-      className={`leaf-orb ${isSelected ? 'is-selected' : ''}`}
+      aria-label={`Fragment ${leaf.fragment}`}
+      className={className}
       style={style}
+      disabled={!isAvailable && !isSelected}
+      data-available={isAvailable}
+      data-meter={leaf.meter}
     >
-      <span className="relative z-[1] block text-xs font-semibold tracking-[0.25em] drop-shadow-[0_2px_8px_rgba(8,47,73,0.65)]">
-        {leaf.word}
+      <span className="leaf-orb__cluster" aria-hidden="true">
+        {leaf.cluster}
+      </span>
+      <span className="leaf-orb__fragment">{leaf.fragment}</span>
+      <span className="leaf-orb__meta" aria-hidden="true">
+        <span>{`${leaf.meter} syllabes · ${leaf.element}`}</span>
+        <span>{leaf.resonanceLabel}</span>
       </span>
       <span className="leaf-orb__pulse" aria-hidden="true" />
     </button>
