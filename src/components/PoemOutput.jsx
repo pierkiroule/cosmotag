@@ -5,6 +5,12 @@ const PoemOutput = ({ poem, onClose }) => {
     event.stopPropagation();
   };
 
+  const metadata = [
+    { label: 'Accords', value: poem.aromaTrail?.join(' • ') ?? '' },
+    { label: 'Constellations', value: poem.clusters?.join(' • ') ?? '' },
+    { label: 'Textures', value: poem.textures?.join(' • ') ?? '' },
+  ].filter((item) => item.value);
+
   return (
     <div
       className="absolute inset-0 z-30 flex items-center justify-center"
@@ -25,9 +31,44 @@ const PoemOutput = ({ poem, onClose }) => {
           ✦
         </div>
 
-        <div className="mt-6 whitespace-pre-wrap text-left font-serif text-lg leading-relaxed text-sky-100 drop-shadow-[0_4px_24px_rgba(15,23,42,0.65)]">
-          {poem}
+        <h2 className="poem-title">{poem.title}</h2>
+        {poem.subtitle && <p className="poem-subtitle">{poem.subtitle}</p>}
+
+        {metadata.length > 0 && (
+          <div className="poem-metadata">
+            {metadata.map((item) => (
+              <div key={item.label} className="poem-metadata__item">
+                <span>{item.label}</span>
+                <p>{item.value}</p>
+              </div>
+            ))}
+          </div>
+        )}
+
+        <div className="poem-lines">
+          {poem.lines.map((line, index) => (
+            <p key={`${line}-${index}`} className="poem-line">
+              {line}
+            </p>
+          ))}
         </div>
+
+        {poem.transitions?.length > 0 && (
+          <div className="poem-footnotes">
+            <span className="poem-footnotes__title">Fil aromatique</span>
+            <ul>
+              {poem.transitions.map((transition, index) => (
+                <li key={`${transition.from}-${transition.to}-${index}`}>
+                  <strong>{transition.from}</strong>
+                  <span aria-hidden="true"> → </span>
+                  <strong>{transition.to}</strong>
+                  <span className="poem-footnotes__detail">{transition.transition}</span>
+                  <span className="poem-footnotes__aroma">{transition.aroma}</span>
+                </li>
+              ))}
+            </ul>
+          </div>
+        )}
 
         <p className="mt-8 text-[0.65rem] uppercase tracking-[0.5em] text-slate-200/70">
           Touchez la nuit ou fermez le sceau pour dissiper l'infusion
