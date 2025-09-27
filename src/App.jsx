@@ -1,190 +1,82 @@
-import { useEffect, useState } from 'react';
+import { useCallback, useEffect, useMemo } from 'react';
+import TagGraph, { resetGraph, saveGraph } from './components/TagNetwork';
 import { loadFromStorage, saveToStorage } from './utils/storage';
-import { generateTodaysLeaves } from './utils/generateLeaves';
-import TreeCanvas from './components/TreeCanvas';
-import Leaf from './components/Leaf';
-import LeafSelection from './components/LeafSelection';
-import PoemOutput from './components/PoemOutput';
 
-const colorPalettes = [
-  {
-    gradient:
-      'linear-gradient(135deg, rgba(56, 189, 248, 0.75) 0%, rgba(37, 99, 235, 0.65) 48%, rgba(79, 70, 229, 0.6) 100%)',
-    glow: '0 0 32px rgba(37, 99, 235, 0.45)',
-  },
-  {
-    gradient:
-      'linear-gradient(150deg, rgba(96, 165, 250, 0.7) 0%, rgba(59, 130, 246, 0.6) 50%, rgba(129, 140, 248, 0.55) 100%)',
-    glow: '0 0 30px rgba(96, 165, 250, 0.45)',
-  },
-  {
-    gradient:
-      'linear-gradient(140deg, rgba(59, 130, 246, 0.65) 0%, rgba(56, 189, 248, 0.55) 42%, rgba(165, 180, 252, 0.55) 100%)',
-    glow: '0 0 30px rgba(165, 180, 252, 0.4)',
-  },
-  {
-    gradient:
-      'linear-gradient(160deg, rgba(30, 64, 175, 0.7) 0%, rgba(37, 99, 235, 0.6) 40%, rgba(14, 165, 233, 0.55) 100%)',
-    glow: '0 0 28px rgba(59, 130, 246, 0.45)',
-  },
-  {
-    gradient:
-      'linear-gradient(145deg, rgba(129, 140, 248, 0.6) 0%, rgba(79, 70, 229, 0.6) 52%, rgba(59, 130, 246, 0.55) 100%)',
-    glow: '0 0 28px rgba(129, 140, 248, 0.45)',
-  },
-];
-
-const getRandomPalette = () =>
-  colorPalettes[Math.floor(Math.random() * colorPalettes.length)];
-
-const createLeafVisual = () => {
-  const palette = getRandomPalette();
-  const scale = (0.85 + Math.random() * 0.7).toFixed(3);
-  const rotation = (Math.random() * 40 - 20).toFixed(2);
-  const floatDuration = 14 + Math.random() * 8;
-  const floatDelay = -(Math.random() * 6);
-  const floatX = `${(Math.random() * 8 - 4).toFixed(2)}%`;
-  const floatY = `${(Math.random() * 6 - 3).toFixed(2)}%`;
-  const floatSway = `${(Math.random() * 8 - 4).toFixed(2)}%`;
-  const floatRise = `${(14 + Math.random() * 20).toFixed(2)}px`;
-  const floatTilt = `${((Math.random() * 4 + 1.5) * (Math.random() > 0.5 ? 1 : -1)).toFixed(2)}deg`;
-  const haloDelay = Math.random() * 6;
-  const opacity = 0.65 + Math.random() * 0.3;
-  const zIndex = 5 + Math.floor(Math.random() * 12);
-
-  return {
-    palette,
-    scale,
-    rotation,
-    floatDuration,
-    floatDelay,
-    floatX,
-    floatY,
-    floatSway,
-    floatRise,
-    floatTilt,
-    haloDelay,
-    opacity,
-    zIndex,
-  };
-};
+const STORAGE_KEY = 'hypnotea-tag-graph';
 
 function App() {
-  const [todaysLeaves, setTodaysLeaves] = useState([]);
-  const [selectedLeaves, setSelectedLeaves] = useState([]);
-  const [poem, setPoem] = useState('');
-  const [showAura, setShowAura] = useState(false);
+  const storageApi = useMemo(
+    () => ({
+      load: () => loadFromStorage(STORAGE_KEY),
+      save: (value) => saveToStorage(STORAGE_KEY, value),
+    }),
+    [],
+  );
+
+  const handleSave = useCallback(() => {
+    saveGraph(storageApi);
+  }, [storageApi]);
+
+  const handleReset = useCallback(() => {
+    resetGraph(storageApi);
+  }, [storageApi]);
 
   useEffect(() => {
-    const today = new Date().toISOString().slice(0, 10);
-    const storedData = loadFromStorage('hypnotea-data');
+    const handleKeyDown = (event) => {
+      const isSaveShortcut = (event.ctrlKey || event.metaKey) && event.key.toLowerCase() === 's';
 
-    let leavesToUse;
-    if (storedData && storedData.date === today) {
-      leavesToUse = storedData.leaves;
-    } else {
-      leavesToUse = generateTodaysLeaves();
-      saveToStorage('hypnotea-data', { date: today, leaves: leavesToUse });
-    }
+      if (!isSaveShortcut) {
+        return;
+      }
 
-    setTodaysLeaves(
-      leavesToUse.map((leaf) => ({
-        ...leaf,
-        layout: {
-          top: `${12 + Math.random() * 60}%`,
-          left: `${8 + Math.random() * 80}%`,
-        },
-        visual: createLeafVisual(),
-      })),
-    );
+      event.preventDefault();
+      handleSave();
+    };
 
-    const auraTimeout = setTimeout(() => {
-      setShowAura(true);
-    }, 400);
+    window.addEventListener('keydown', handleKeyDown);
 
     return () => {
-      clearTimeout(auraTimeout);
+      window.removeEventListener('keydown', handleKeyDown);
     };
-  }, []);
-
-  const handleLeafClick = (leaf) => {
-    setSelectedLeaves((previous) => {
-      const alreadySelected = previous.some((item) => item.id === leaf.id);
-      if (alreadySelected) {
-        return previous.filter((item) => item.id !== leaf.id);
-      }
-
-      if (previous.length >= 3) {
-        return previous;
-      }
-
-      return [...previous, leaf];
-    });
-  };
-
-  const handleInfuseClick = () => {
-    if (selectedLeaves.length < 3) return;
-
-    const [first, second, third] = selectedLeaves.map((leaf) => leaf.word);
-    const poemText = [
-      `Dans le halo de ${first},`,
-      `une ${second} murmure sa ${third}.`,
-      '',
-      "Des constellations infusent l'aube,",
-      'et les songes se laissent boire.',
-    ].join('\n');
-
-    setPoem(poemText);
-  };
-
-  const handleClosePoem = () => {
-    setPoem('');
-    setSelectedLeaves([]);
-  };
-
-  const selectionHint = [
-    'Repérez la première feuille qui vous appelle.',
-    'Laissez la deuxième feuille résonner avec la première.',
-    "Scellez l'infusion avec une dernière étincelle.",
-    'Prêtes ? Infusez votre constellation poétique.',
-  ][selectedLeaves.length];
+  }, [handleSave]);
 
   return (
-    <div className="relative min-h-screen overflow-hidden font-sans">
-      <TreeCanvas showAura={showAura}>
-        {todaysLeaves.map((leaf) => (
-          <Leaf
-            key={leaf.id}
-            leaf={leaf}
-            onClick={handleLeafClick}
-            isSelected={selectedLeaves.some((selected) => selected.id === leaf.id)}
-          />
-        ))}
-      </TreeCanvas>
+    <div className="flex min-h-screen flex-col bg-slate-800 text-slate-100">
+      <header className="border-b border-slate-800/60 bg-slate-800/80 backdrop-blur">
+        <div className="mx-auto flex max-w-5xl flex-wrap items-center justify-between gap-6 px-6 py-10">
+          <div className="max-w-xl space-y-3">
+            <p className="text-xs uppercase tracking-[0.35em] text-sky-300/60">Atelier Hypnotique</p>
+            <h1 className="text-4xl font-semibold text-sky-100 md:text-5xl">HypnoTea</h1>
+            <p className="text-sm text-slate-300/80 md:text-base">
+              Naviguez entre les constellations de tags, sauvegardez vos explorations et repartez d&apos;une page cosmique vierge
+              quand vous le souhaitez.
+            </p>
+          </div>
 
-      <header className="relative z-20 mx-auto flex max-w-4xl flex-col items-center gap-4 px-6 pt-16 text-center">
-        <div className="flex items-center gap-3 text-[0.65rem] uppercase tracking-[0.5em] text-sky-200/70">
-          <span className="inline-flex h-7 w-7 items-center justify-center rounded-full border border-sky-200/50 bg-sky-500/20 text-[0.6rem] text-sky-50 shadow-[0_0_20px_rgba(59,130,246,0.35)]">
-            ✺
-          </span>
-          <span>Atelier Hypnotique</span>
+          <div className="flex items-center gap-3">
+            <button
+              type="button"
+              onClick={handleReset}
+              className="rounded-full border border-slate-700/70 px-6 py-2 text-sm font-medium text-slate-200 transition-colors hover:border-slate-500 hover:text-white"
+            >
+              Reset
+            </button>
+            <button
+              type="button"
+              onClick={handleSave}
+              className="rounded-full bg-sky-500/90 px-6 py-2 text-sm font-semibold text-slate-950 transition-colors hover:bg-sky-400"
+            >
+              Save
+            </button>
+          </div>
         </div>
-        <h1 className="bg-gradient-to-r from-sky-200 via-blue-200 to-indigo-200 bg-clip-text text-4xl font-serif text-transparent drop-shadow-[0_10px_45px_rgba(30,64,175,0.35)] md:text-[3.6rem]">
-          HypnoTea
-        </h1>
-        <p className="max-w-2xl text-sm text-slate-200/85 md:text-base">
-          Chaque feuille capturée est une note dans votre infusion cosmique. Composez trois accords et laissez l&apos;aurore dévoiler votre poème.
-        </p>
       </header>
 
-      <LeafSelection
-        selectedLeaves={selectedLeaves}
-        onInfuse={handleInfuseClick}
-        canInfuse={selectedLeaves.length === 3}
-        hint={selectionHint}
-      />
-
-      <PoemOutput poem={poem} onClose={handleClosePoem} />
+      <main className="flex flex-1 items-stretch justify-center px-4 pb-8 pt-6">
+        <div className="relative h-full w-full max-w-5xl overflow-hidden rounded-3xl border border-slate-700/60 bg-slate-800/70 shadow-[0_30px_90px_rgba(15,23,42,0.45)]">
+          <TagGraph storage={storageApi} />
+        </div>
+      </main>
     </div>
   );
 }
